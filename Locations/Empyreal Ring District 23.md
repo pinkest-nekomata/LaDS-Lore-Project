@@ -1,0 +1,1 @@
+Mentioned in the background of [[01-02.13 In Hot Pursuit]], property values have been plummeting due to increased [[Wanderer]] activity. 

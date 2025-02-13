@@ -1,0 +1,1 @@
+"An organization stationed in the [[N109 Zone]]. Modifying [[Protocore]]s is their most infamous achievement." -- [[Xavier]], [[01-03.08 Where Light Vanishes]]

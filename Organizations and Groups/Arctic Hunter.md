@@ -1,0 +1,5 @@
+# Spacepedia
+They are hunters under the [[Arctic Team]] of the [[Hunters Association]]. Unlike the agile [[Sky Hunter]]s who are lightly equipped, Arctic Hunters need to gear up to deal with extreme weather conditions. They are equipped with heavy protective suits to resist the cold, face masks, and goggles to ensure they can see in blizzards. The [[Evol Railgun]], with its large attach range, is also more suitable for combat in uninhabited areas.
+
+## SnowDog
+This sled dog replica was initially developed for swift traversal through snowy forests and mountains. Due to the influx of [[Arctic]] tourists, and in an effort to not upset the public's aesthetic sensibilities, the robot has been modified with realistic fur. It has gradually evolved into a multifunctional patrol dog complete with navigation capabilities. It's become a unique spectacle in the polar regions.

@@ -1,0 +1,2 @@
+# Spacepedia
+The Association's analysis shows that the [[Aether Core]]'s energy core can concentrate energy through [[gravity]], forming energy crystals around it. A complete [[Aether Core]] has a stable Aether Barrier on its outermost layer, which utilizes the gravitational field to seal and contain all of the core's energy, thus ensuring its internal balance and stability.

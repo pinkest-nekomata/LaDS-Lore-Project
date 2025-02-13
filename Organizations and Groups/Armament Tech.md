@@ -1,0 +1,2 @@
+# Spacepedia
+The [[Hunters Association]] assigns a specialized team to each squad, dedicated to the development optimization, and maintenance of combat equipment. This team provides state-of-the-art technological support to hunters and enhances the combat capabilities and efficiency of the entire squad.

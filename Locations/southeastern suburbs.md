@@ -1,0 +1,1 @@
+"The southestern suburbs of [[Linkon]] City are built near the sea and mountains. Many luxurious villas and holiday resorts can be found around here. Its prosperity rivals that of the city center." -- [[01-02.02 Close Encounter]]

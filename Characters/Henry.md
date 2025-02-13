@@ -1,0 +1,1 @@
+Works for [[Raymond]]. Client for [[MC]]'s first mission. (See [[01-02 The First Mission]])

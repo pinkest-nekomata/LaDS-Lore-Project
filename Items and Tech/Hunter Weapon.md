@@ -1,0 +1,2 @@
+# Spacepedia
+Crafted with Evol, this hunter-exclusive weapon is powered and enhanced by [[Protocore]] Energy. It can kill [[Wanderer]]s, but it is harmless against humans. Hunters can pick from an assortment of weapon types with distinct features to suit their personal preferences.

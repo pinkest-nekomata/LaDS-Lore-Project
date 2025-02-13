@@ -1,0 +1,2 @@
+# Spacepedia
+An energy emitter capable of resonating with energy fluctuations, designed to attract [[Wanderer]]s and locate [[Protocore]]s through vibrations. Based on the available information, it has been confirmed that [[Ever]] manufactured this chip.

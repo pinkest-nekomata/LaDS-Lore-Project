@@ -1,0 +1,2 @@
+# Spacepedia
+[[Skyhaven]] stands as a miracle of the [[Protocore]] energy era. To reach [[Skyhaven]], passengers must board the anti-gravity [[Protocore]]-powered train--the [[Coelum Express]]. After passing through the clouds, you'll witness this floating metropolis that embodies both technological prowess and futuristic charm.

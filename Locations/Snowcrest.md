@@ -1,0 +1,2 @@
+# Spacepedia
+Nestled in the southern region of the [[Arctic]] is a little town, home to warm, sincere locals and a unique winter-themed culture. it attracts many tourists year-round and boasts a thriving tourism indistry. It's a must-visit destination for any polar adventurer.

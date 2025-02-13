@@ -1,0 +1,2 @@
+# Spacepedia
+Nero is a colleague from [[Data Analysis]] who suffers from severe social anxiety. His personal space has a circumference of two meters, and no outsiders are allowed inside it. Since [[Alpha Team]]'s office is rarely crowded, he uses it to find some peace and quiet. That's why we're acquaintances. Whenever issues related to [[Wanderer]]s are brought up, he becomes a chatterbox.

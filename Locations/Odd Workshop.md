@@ -1,0 +1,3 @@
+# Spacepedia
+Before the [[Chronorift Catastrophe]], the Odd Workshop was a humble robot company. It was abandoned when the area fell into ruin.
+After the disaster, individuals harboring secrets, including the workshop's owner, [[Philip]], relocated to the N109 zone to begin anew. With Philip's modifications, the Odd Workshop became a facility dedicated to researching [[Wanderer]]s and [[Protocore]]s.

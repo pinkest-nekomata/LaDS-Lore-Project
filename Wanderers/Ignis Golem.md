@@ -1,0 +1,2 @@
+Battle description:
+Its origin can be traced back to volcanic activity. Commonly seen near lava lakes and lava flows. Capable of increasing temperatures and frequently causes fires. Massive in size, it is extremely powerful.

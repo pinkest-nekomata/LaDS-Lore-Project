@@ -1,0 +1,3 @@
+# Spacepedia
+The celestial body alpha-P0159 was discovered via the [[Deepspace Tunnel]]. It's speculated to be the core of a star. While this core no longer reacts to energy, research suggests that traces of life may very well exist within its galaxy.
+Using the most vibrant colors of Deepspace, the galaxy where alpha-P0159 resides responded to humanity's lifelong vision of the universe. This, it was named Philos, a word meaning "love".

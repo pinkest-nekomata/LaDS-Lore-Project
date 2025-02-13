@@ -1,0 +1,1 @@
+The station [[MC]] passes through in [[01-02.13 In Hot Pursuit]]. So, it must be between [[Whitesand Bay]] and [[MC's apartment]].

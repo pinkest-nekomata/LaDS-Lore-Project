@@ -1,0 +1,1 @@
+"This isn't the first day I've had Protocore fragments in my heart. Even [[Dr. Dean]] said I was perfectly fine. And it's been fourteen years." -- [[MC]], [[01-01.08 Doctor]]
