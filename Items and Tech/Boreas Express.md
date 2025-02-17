@@ -1,0 +1,1 @@
+A train route mentioned in [[01-05.02 Snow-Kissed Coffee]] that travels between an unnamed station in the [[Arctic]] and [[Snowcrest]].

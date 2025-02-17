@@ -1,0 +1,1 @@
+Where [[MC]] boarded the train in [[01-06.02 Late Night Encounter]]. Presumably a station between the [[UNICORNS building]] and [[MC's apartment]]. The train gets "stuck" at this station in [[01-06.03 Next Stop]].

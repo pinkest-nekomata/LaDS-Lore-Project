@@ -1,0 +1,2 @@
+**Description**
+> Having emerged for the first time from regions below sea level with anomalous energy fluctuations, it is covered in oceanic crystals. it is currently one of the largest, most dangeorus [[Wanderer]]s known to humanity in terms of size and threat level.

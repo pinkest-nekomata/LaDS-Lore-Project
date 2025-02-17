@@ -1,0 +1,2 @@
+**Description**
+> Its origin can be traced back to cold ice fields. It exudes a freezing aura and can condense the moisture in the air into ice. It is easily provoked by those who attempt to distance themselves from it.

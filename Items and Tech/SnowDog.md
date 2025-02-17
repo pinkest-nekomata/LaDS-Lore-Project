@@ -1,0 +1,5 @@
+"A majestic four-dog sleigh is in front of us. The dogs are all handsome and have thick fur. The height is around half an average person's." -- [[01-05.05 Moving Out]]
+
+"You're on the Deluxe Snow Dog! The auto-driving system has been fully upgraded. Please select one of the following to start your adventure: Sightseeing, Full Speed Ahead, Children Friendly..." -- Sleigh Dog, [[01-05.05 Moving Out]]
+# Spacepedia
+This sled dog replica was initially developed for swift traversal through snowy forests and mountains. Due to the influx of [[Arctic]] tourists, and in an effort to not upset the public's aesthetic sensibilities, the robot has been modified with realistic fur. It has gradually evolved into a multifunctional patrol dog complete with navigation capabilities. It's become a unique spectacle in the polar regions.

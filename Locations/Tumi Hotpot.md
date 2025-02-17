@@ -1,0 +1,1 @@
+Has a poster in the elevator in the building of [[MC's apartment]] with a cute bunny on it! A hint at how [[Xavier]] loves hot pot. Seen in [[01-06.09 Your Distance]].

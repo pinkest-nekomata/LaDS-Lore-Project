@@ -1,0 +1,2 @@
+**Description**
+> Its origin can be traced back to ice fields and divergent plate boundaries. Its skeleton is extremely rigid and cold. Its scales are made of mica, and it is capable of lowering the temperature of its surroundings.

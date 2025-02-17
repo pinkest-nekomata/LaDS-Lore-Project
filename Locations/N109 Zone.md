@@ -1,3 +1,14 @@
+> "The N109 zone, once a hub for technological advancement, was destroyed during the disaster 14 years ago. It became a wasteland A [[Protofield]] has engulfed the no-hunt zone, isolating it from the outside world. [[Wanderer]]s and fog act as a natural barrier, rendering this area free from the government's and the Association's jurisdiction. Over time, countless misfits and exiles risked their lives to enter the N109 Zone. Various factions now exist in an area where violence and crime are the norm. The N109 Zone is now a lawless place, where morality is unheard of."
+> -- [[01-06.01 Legendary Lumiere]]
+
+> "That's a place even veteran hunters won't touch."
+> -- [[Tara]], [[01-06.01 Legendary Lumiere]]
+
+> "It's a dangerous place. One mistake and you forfeit your life."
+> -- [[Xavier]], [[01-06.08 Evening Breeze]]
+
+> "Linkon has become even more dangerous, and you're talking about entering a labyrinth. Forget about it. A hunter like you just going in there is like a lamb walking into a tiger's den."
+> -- [[Rafayel]], [[01-07.02 Canvas Enigmas]]
 # Spacepedia
 
 Once a bustling technology hub, it is now one of the most dangerous areas after the [[Chronorift Catastrophe]] occurred. Surrounded by other [[No-Hunt Zone]]s, it has evolved into a lawless land where danger and opportunity coexist. It is rife with violence and crime.

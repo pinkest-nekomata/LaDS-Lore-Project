@@ -1,0 +1,2 @@
+**Description**
+> Its origin can be traced back to the eerie atmosphere of swamps, forests, and old buildings. It exudes a frightening aura. It may not possess strong offensive capabilities, but it excels at gathering energy for its allies.

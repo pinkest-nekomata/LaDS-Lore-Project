@@ -1,0 +1,1 @@
+[[Caleb]]'s specialty. This, along with [[Caleb]] cooking, are key themes in his relationship with [[MC]].

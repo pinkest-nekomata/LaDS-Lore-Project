@@ -8,7 +8,7 @@ Upon arriving at the mansion, MC is struck by [[Raymond's Lemurian skeleton]], t
 
 After defeating the [[Wanderer]], MC identifies that [[Raymond's painting]] is suspicious. She has it brought back to HQ, where they confirm faint [[Metaflux]] traces. The artist turns out to be [[Rafayel]], so MC goes to investigate.
 
-She meets [[Thomas]], learns about [[The Day of Ebbing]] and more about [[Raymond's painting]]. At the gallery, [[Flux Arts]], she finds suspicious blood red [[coral stones]] with [[Metaflux]] traces. Heading over to [[Rafayel's house (Mo Art Studio)]], she confronts him about the painting's strange effects. After dealing with a [[Wanderer]], [[Rafayel]] agrees to give MC information about the origin of the [[coral stones]]--but only if she agrees to be his bodyguard and help him find a suitable replacement first.
+She meets [[Thomas]], learns about [[The Day of Ebbing]] and more about [[Raymond's painting]]. At the gallery, [[Flux Arts]], she finds suspicious blood red [[coral stone]]s with [[Metaflux]] traces. Heading over to [[Rafayel's house (Mo Art Studio)]], she confronts him about the painting's strange effects. After dealing with a [[Wanderer]], [[Rafayel]] agrees to give MC information about the origin of the [[coral stone]]--but only if she agrees to be his bodyguard and help him find a suitable replacement first.
 
 On her way home, [[MC]]'s train is attacked by a [[Wanderer]] and [[Jenna]] calls [[Xavier]] in to help her out, revealing he's part of [[Alpha Team]].
 

@@ -1,0 +1,3 @@
+The [[Backtrackers]] originally had a [[Nonintervention Principle]]. However, this was targeted at their original destination, not how they arrived on Earth 214 years ago by mistake.
+
+Some of the [[Backtrackers]] have already broken this principle. According to [[01-08.07 Stellar Guidance]], it's this intervention that allows for the [[Bloomshore District explosion]] and for the truth about MC's past and the [[Aether Core]] to start coming to life.

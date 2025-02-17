@@ -1,0 +1,2 @@
+**Description**
+> Its origin can be traced back to pollution in mountainous regions. With its body covered in obsidian, it uses its claws to break rocks and absorb energy. Extremely fast, it can deliver precise attacks.

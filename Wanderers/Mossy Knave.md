@@ -1,2 +1,2 @@
-Battle Description:
-Commonly seen in tropical forests. Its body is covered in green crystals. Whenever it appears, the surrounding area becomes unusually humid. It lurks in the dark corners of the forest, waiting for the right moment to strike.
+**Description**
+> Commonly seen in tropical forests. Its body is covered in green crystals. Whenever it appears, the surrounding area becomes unusually humid. It lurks in the dark corners of the forest, waiting for the right moment to strike.

@@ -1,0 +1,2 @@
+> "[[Xander Sciences]]'s [[life pod]]s look like enormous capsules with countless intertwined tubes connected them to the surrounding equipment. Red tubes sucked away death while blue ones injected new life. The daily cost of one device could burn through a month's worth of resources in a regular hospital's ICU. [[Xander Sciences]] has fifteen of these."
+> -- [[WU-02 Snowy Stairs#03 Undying Tree]]

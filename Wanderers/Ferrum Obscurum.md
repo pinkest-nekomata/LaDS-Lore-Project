@@ -1,0 +1,2 @@
+**Description** 
+> Commonly seen in mountainous terrain and jungles. It either appears in pairs or groups. Its limbs resemble sickles, allowing it to swiftly and accurately cut down obstacles and block attacks.

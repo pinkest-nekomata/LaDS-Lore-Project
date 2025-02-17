@@ -7,6 +7,7 @@ An essential piece of equipment for any [[Deepspace Hunter]]. It resembles a wat
 * Detect [[Metaflux]] fluctuations ([[01-01.01 Deepspace Hunter]])
 * Collect data to assess performance ([[01-01.06 UNICORNS]])
 * Record and assess sleep data, including duration and quality ([[01-02.01 In UNICORNS]])
+* Browse [[Hunters Association]] databases ([[01-05.09 Snowy Mountain]])
 
 # Trivia
 * On [[MC]]'s second day of work, her watch is upgraded to HOS.11.4, updating the [[Metaflux]] detection system to the latest version. ([[01-02.01 In UNICORNS]])

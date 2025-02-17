@@ -1,5 +1,5 @@
 [[Rafayel]] keeps a log of all the colors he's ever made.
 
 Notable pigments:
-* [[coral stones]]
+* [[coral stone]]
 * mummy bandages

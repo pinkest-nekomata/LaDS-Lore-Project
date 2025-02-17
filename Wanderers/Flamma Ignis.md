@@ -1,0 +1,2 @@
+**Description**
+> Its origin can be traced back to magma from a volcanic eruption. Its body was formed when flowing lava converged, and it is covered in igneous rock. It is always burning and can scorch its surroundings.

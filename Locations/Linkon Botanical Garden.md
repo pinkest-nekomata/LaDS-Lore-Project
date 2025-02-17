@@ -1,0 +1,1 @@
+Briefly mentioned in a voice-over announcement in [[01-06.02 Late Night Encounter]]

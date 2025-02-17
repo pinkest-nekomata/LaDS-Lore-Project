@@ -1,3 +1,6 @@
+> "...mistakes are bound to be corrected sooner or later. Maybe we're slowly being erased as we speak."
+> -- [[Jeremiah]], [[01-08.07 Stellar Guidance]], theorizing about the [[Backtrackers]]
+
 A recurring theme.
 
 Note the name of the first chapter, [[01-01.00 Singularity Echo]]

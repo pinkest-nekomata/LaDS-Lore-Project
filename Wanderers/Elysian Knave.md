@@ -1,0 +1,2 @@
+**Description**
+> Its origin can be traced back to ice fields and divergent plate boundaries. Its body is covered in crystallized solutes. It excels in long chases and uses cold temperatures to slow down its enemies.

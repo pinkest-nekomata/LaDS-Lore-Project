@@ -1,3 +1,8 @@
+> "I agree that sticking to the [[Nonintervention Principle]] is pointless, especially for us whose presence here was always a mistake."
+> -- [[Jeremiah]], [[01-08.07 Stellar Guidance]]
+
+> "Having [[Evol]] doesn't make you invincible... And you're... This isn't [[Philos]]. And we, you know, aren't truly immortal. Our kind, I mean."
+> -- [[Jeremiah]], [[01-08.07 Stellar Guidance]]
 # Spacepedia
 Hailing from [[Xavier]]'s hometown, this group once included members like [[Xavier]], [[Jeremiah]], and [[Soren]]. They had many companions in the past, but now only a few remain.
 
@@ -5,7 +10,19 @@ Hailing from [[Xavier]]'s hometown, this group once included members like [[Xavi
 
 They're from [[Philos]], in the future.
 
-There was a "mistake" in their destination.
+## Members
+(Not exhaustive)
+
+Allies
+* [[Xavier]]
+* [[Jeremiah]]
+
+Traitors
+* [[Isaiah]]
+* ??, who [[Xavier]] kills in [[01-08.02 Desecrated Soil]]
+
+## Mission
+There was a "mistake" in their destination ([[01-08.07 Stellar Guidance]])
 * In [[Xavier's trailer]], he mentions that it's his 214th spring on Earth--and his last.
 * In [[Xavier academy anecdote]], the time is set 214 years after [[Philos]] was founded.
 * This implies:

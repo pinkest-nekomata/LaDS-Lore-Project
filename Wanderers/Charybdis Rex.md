@@ -1,2 +1,2 @@
-Battle description ([[01-02.11 Battle - Fiery Blade]])
-* Its origin can be traced back to polluted waters. Commonly seen in coastal areas and claims any territory it sets its sights on. Aggressive and territorial, it preys on the weak and fears the strong.
+**Description**
+> Its origin can be traced back to polluted waters. Commonly seen in coastal areas and claims any territory it sets its sights on. Aggressive and territorial, it preys on the weak and fears the strong.

@@ -1,0 +1,1 @@
+[[MC]]'s power (and that of the [[Aether Core]]) manifests as a golden light. This is a recurring them, and also a common visual/theme in [[Xianxia]] fiction.

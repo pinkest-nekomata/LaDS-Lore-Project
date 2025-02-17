@@ -14,10 +14,20 @@ City Center
 * [[Universum]]
 	* [[Universum Station]]
 * [[Bloomshore District]]
+* [[MC's apartment]]
+* [[The Nest]] (tentative)
 
 Metro Area
 * [[Whitesand Bay]]
+
+Unspecified
 * [[Empyreal Ring District 23]]
+* [[Linkon Greenhouse]]
+* [[Akso Hospital]]
+* [[Linkon Botanical Garden]]
+* [[West Garden Station]]
+* [[Linkon Cloud Train Terminal]]
+* [[Soaria Financial Hub]]
 
 Suburbs and surrounding areas
 * [[southeastern suburbs]]
@@ -25,3 +35,8 @@ Suburbs and surrounding areas
 * [[northern outskirts]]
 * [[No-Hunt Zone 7]]
 * [[Hat Island]]
+* [[N109 Zone]]
+
+Destroyed in the [[Chronorift Catastrophe]]:
+* [[Linkon World Tower]]
+* [[Linkon International Exhibition Center]]
