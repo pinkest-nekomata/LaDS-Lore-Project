@@ -11,6 +11,7 @@ It will also help for you to familiarize yourself with the shorthand I'm using h
 # Reference
 
 ## Abbreviations
+* LI = Love Interest
 * POV = Point of View
 * approx = approximate
 * circa = around the time of
