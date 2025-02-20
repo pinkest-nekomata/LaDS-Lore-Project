@@ -35,3 +35,19 @@ Over the next two years, [[Linkon]] City rapidly rebuilds. By the time it's 2037
 
 **Notes**
 * Chrono = time, so this is a "time rift" catastrophe. Central to the themes of [[spacetime]] disturbances and [[converging timelines]]
+
+## MC's Experience
+[[MC]] has recurring nightmares about this day, including this one from [[01-03.09 Another Predicament]]:
+> Monsters! Run!
+
+*MC runs through smoke and rubble.*
+
+> Run... Run... I can't be caught
+> Rusty-red rain falls rm the sky and seeps into every nook and cranny of the city. I step over the puddles, running away.
+> I sense a powerful force. It's about to burst from my heart.
+
+*MC looks up and the moon glitches, then turns red*
+
+> Then the moon appears. Magnificent, it descends before me. It flickers.
+> It seems to be blinking at me.
+* ((This is a reference to the [[the giant red eye]]))
