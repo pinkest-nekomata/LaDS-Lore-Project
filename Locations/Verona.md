@@ -1,0 +1,4 @@
+> "...a rural architectural gem: a place steeped in centuries of history. This small town boasted a treasure trove of well-preserved buildings, cloisters, courtyards, and halls tucked away within private homes."
+> -- [[Michael]] POV, [[WU-08 Micro Universe#05 Field Trip]]
+# Commentary
+Though this location is spelled as "Verono" in [[WU-03 Bouquets and Dirges]], this is likely a typo, given that [[Verona]] is used in [[WU-08 Micro Universe#05 Field Trip]] and the real-world location meets the description given in both stories. Alternatively, "Verono" was intended to be a wink at Verona without explicitly using a real-world location. Either way, I think it unlikely that two separate yet similar places with only one letter apart are both connected to [[Rafayel]], so I've decided to unite both references under [[Verona]].

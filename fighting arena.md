@@ -1,0 +1,2 @@
+> "The fighting arena in the [[N109 Zone]] lurks behind the facade of a five-story building with neon lights. An oversized ring that surpasses expectations will greet you once you enter. Spectator seats climb the surrounding walls, and the highest one is perched almost perpendicular to the ring. At first glance, it looks like a fortress or lair of some ferocious beast."
+> -- [[WU-10 Mischief#04 Thrill Seeker]]

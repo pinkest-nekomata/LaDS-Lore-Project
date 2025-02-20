@@ -1,0 +1,3 @@
+This is a key concept in [[Xianxia]] fiction, which refers to gathering internal energy (chi) over time to become stronger--and eventually achieve immortality.
+
+It's closely tied to the [[Xianxia]] theme of "cores" as well--i.e. "cultivator cores." In this game, which blends [[Xianxia]] themes with Western fantasy and Sci-Fi elements, [[Protocore]]s take on this role. (See also ["Cores" in Chinese Cultivation Novels](https://www.wuxiaworld.com/page/cores-in-chinese-cultivation-novels))

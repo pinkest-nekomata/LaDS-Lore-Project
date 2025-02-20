@@ -8,6 +8,8 @@ If you browse this project, you WILL see spoilers, many of which are major! It's
 # Summary
 This project is a personal labor of love to map the lore and plot of the Love and Deepspace game for an EN audience. I've been finding it really satisfying to map different themes and concepts across the many different types of content in the game. Since everything comes out in bits and pieces, you get much more of the full picture when you connect it all together.
 
+Another big plus of creating a project like this is that it's search-able and link-able in a way that reading in-game is not. It's also a helpful jumping off point for remembering where a certain tidbit of lore was mentioned, so you can go back for further detail.
+
 I know this project won't be the most accessible to fans that aren't techy, but it's the best tool for my goals and I hope others will at least be able to glean a little bit if they're interested!
 
 ## Fair Use Disclosure
@@ -63,6 +65,9 @@ On a related note, please don't expect the formatting or layout of these pages t
 
 ## What if I want to contribute to this project?
 On a case by case basis, I may have the bandwidth to collaborate. More likely, though, I'll be doing this on my own rhythm. Please feel free to fork the project, which will allow you to add your own content and pull in any updates I end up adding at your leisure.
+
+## What version of the game are you working from?
+I'm working from the English (EN) localization and voice-over, plus some translation notes here and there as I see them. I'll cite those notes when I'm able. I have a decent amount of exposure to/understanding of localization and related challenges, but sadly do not have any competence in Chinese (traditional or simplified), Japanese, or Korean directly.
 
 ## What's this about translation notes that can't be cited?
 There was a user, subtextually, who was active in the EN (English) fandom and was doing a fan translation project to provide a literal CN (Chinese) to EN translation for reference. Due to reasons that I am nowhere near qualified to summarize, they ended up deleting their accounts and removing their shared documents circa January 2025. I found some of the translation notes to be very interesting/helpful, so I reference those here or there from memory. Please take them with a grain of salt. If anyone has access to other CN translations, or wants to chip in, feel free to reach out!

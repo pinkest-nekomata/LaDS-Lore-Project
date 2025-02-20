@@ -1,0 +1,1 @@
+A jewelry designer and gardener featured in [[WU-03 Bouquets and Dirges]]. He became friends with [[Rafayel]] through conservation work for endangered plants and animals.

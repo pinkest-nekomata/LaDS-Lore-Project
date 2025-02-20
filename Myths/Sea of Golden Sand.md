@@ -1,0 +1,1 @@
+[[Rafayel]]'s standard myth #todo

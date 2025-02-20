@@ -1,0 +1,1 @@
+This shop was destroyed during the [[Chronorift Catastrophe]], and [[Jeremiah]]'s flower shop [[Philo]] was created in its place. This is something of a memorial to [[Bella]], the woman he was in love with. She died during the catastrophe, so he fills the flower shop with her favorite flower--marigolds.

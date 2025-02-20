@@ -8,10 +8,25 @@
 > "I know Lumiere. And it's possible we met before. Although my memory is a bit fuzzy, I still remember that rusty-red rain. I could only see the shadow of a [[Wanderer]], but then a beam of light saved me."
 > -- [[MC]], [[01-06.01 Legendary Lumiere]]
 
+> "[...] standing in the middle of a severely damaged road, [[Xavier]] rescued a girl and disappeared soon after. [[Jeremiah]] knows that he must have found 'her'."
+> -- [[Jeremiah]] POV, [[WU-04 From The Stars#04 Catastrophe]]
+
+ > It pierces through the skyscrapers of [[Linkon]] City like a meteor, shooting right through the psychological defenses of its citizens. [...] they're mercilessly crushed by a [[Wanderer]] that somehow appeared behind them, becoming a handful of dust.
+ > -- [[Jeremiah]] POV, [[WU-04 From The Stars#04 Catastrophe]]
+
 # Spacepedia
 Fourteen years ago, with the opening of the [[Deepspace Tunnel]], countless [[Wanderer]]s invaded Earth and began attacking humans. Many lives were lost. Among the affected areas, [[Linkon]] City suffered the highest number of casualties.
 
 # Other Info
+
+## Timeline
+The catastrophe began in the summer of 2034. ([[WU-04 From The Stars]] begins in Summer 2033, and then the Catastrophe chapter says "a year later", indicating that the catastrophe begins during summer 2034.)
+
+There's a three day unnatural "polar night" (i.e., period without a full sunrise) before the first [[Wanderer]] appears. Much of the death (including when [[Xavier]] saves [[MC]]) happens in the first few days, but the conflict drags on.
+
+By January 1st 2035, [[Azure Square]] has been rebuilt. On that day, the [[Hunters Association]] is founded, and humanity accepts that it will have to coexist with [[Wanderer]]s. ([[WU-04 From The Stars#04 Catastrophe]])
+
+Over the next two years, [[Linkon]] City rapidly rebuilds. By the time it's 2037, they've figured out how to use [[Protocore]] Energy and the city is even more prosperous than it was before the catastrophe.
 
 ## Companion Interactions
 * [[Xavier]], as [[Lumiere]], saved [[MC]] from a [[Wanderer]] with a beam of light. ([[01-06.01 Legendary Lumiere]])

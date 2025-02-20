@@ -1,0 +1,3 @@
+> An unknown and dangerous project: they appear to be planning to transplant a Protocore into the human heart while implanting human consciousness into Wanderers.
+> So far, the mastermind remains hidden...
+> -- [[Classified Intel - N109 Zone]]

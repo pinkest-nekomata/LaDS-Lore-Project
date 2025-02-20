@@ -11,6 +11,9 @@
 > "Cats are a malicious species who deceive everyone with their harmless appearances and play with their pray at whim."
 > -- [[Rafayel]], [[01-07.08 Weak Fiends]]
 
+> Lemuria will always be important." [[Talia]] puts down her glass, looking serious. "But what about you? When your own heart is devouring you, is there anything that can pull you back? Can you really let her go?"
+> -- [[WU-03 Bouquets and Dirges#02 Wedding]]
+
 # Relationship Timeline
 
 ( #todo add their childhood meeting that MC forgot)
