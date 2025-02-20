@@ -33,6 +33,7 @@ Due to [[Ever]]'s experimentation, the twins are able to share what they see wit
 Luke likes to chew ice and has a thrill for the cold. Kieran has a hobby of making darts, and even learned how to incorporate [[Protocore]]s into them. ([[WU-10 Mischief#03 Trick]])
 
 One of the twins has scars on his face and body from his transformation, and [[WU-10 Mischief]] is careful to not say which twin. However, given the dialogue and thematic choices, it's most likely Kieran that's the one with the scars. (See also [[WU-10 Mischief#Commentary]])
+* ((It's not consequential, but I wanted to pick a twin for fanfic purposes.))
 
 ## Backstory
 
@@ -42,7 +43,9 @@ When the Main Story begins, they're 18. Sylus took them in two years prior, when
 * They're genetically identical (monozygotic) twins
 * They grew up on the streets, then were kidnapped by [[Ever]]
 * There, twin experiments gave them mind link powers. They can see what the other sees, and also feel the pain the other feels.
-* There was an "incompatibility" reaction, causing them to be at risk of "transforming" ( #todo connect this to the Ever black crystal stuff)
+* There was an "incompatibility" reaction, causing them to be at risk of "transforming"
+	* [[human to Wanderer transformation]]
+	* [[black crystals]]
 * They escape, and decide to go out with a bang, trying to kill [[Sylus]]
 * He ends up taking them in, and helping keep the transformation at bay
 

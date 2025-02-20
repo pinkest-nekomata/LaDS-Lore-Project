@@ -2,7 +2,7 @@
 
 This chapter covers a single day--a sunny Wednesday and [[MC]]'s first day as a hunter..
 
-[[MC]] becomes a hunter and is granted her badge. She's quickly called to her first mission at an [[abandoned base for Protocore research]], where she meets [[Xavier]] and helps him escape from a [[Luminivore]] trap. Then, she goes to the [[UNICORNS]] facility and meets [[Jenna]] for the first time.
+[[MC]] becomes a hunter and is granted her badge. She's quickly called to her first mission at an [[abandoned base for Protocore research]], where she meets [[Xavier]] and helps him escape from a [[Luminivore]] trap. (See also [[traps for Xavier]].) Then, she goes to the [[UNICORNS]] facility and meets [[Jenna]] for the first time.
 
 After work, she and [[Tara]] head to [[Azure Square]], where MC remembers her experience during the [[Chronorift Catastrophe]]. After Tara heads home, MC runs into [[Rafayel]] at a fishing game, gifting him a [[Flammula]] from [[Lemurian]] legend. Then, she heads over to her routine checkup with [[Zayne]] to address her heart problems.
 
