@@ -9,8 +9,10 @@
 
 > "Linkon has become even more dangerous, and you're talking about entering a labyrinth. Forget about it. A hunter like you just going in there is like a lamb walking into a tiger's den."
 > -- [[Rafayel]], [[01-07.02 Canvas Enigmas]]
-# Spacepedia
 
+> "The N109 Zone is like a beast lurking in the darkness. Its maw is wide open to devour everyone who stumbles in. The only way to cheat it is to find the master of this savage beast, and his name is [[Sylus]]."
+> -- [[Luke and Kieran]] POV, [[WU-10 Mischief#02 Rumor]]
+# Spacepedia
 Once a bustling technology hub, it is now one of the most dangerous areas after the [[Chronorift Catastrophe]] occurred. Surrounded by other [[No-Hunt Zone]]s, it has evolved into a lawless land where danger and opportunity coexist. It is rife with violence and crime.
 With illicit trade and dangerous research, many of its activities are related to [[Protocore]]s and [[Wanderer]]s. Its many benefits have driven countless outlaws to risk their lives.
 

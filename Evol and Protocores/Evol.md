@@ -10,10 +10,12 @@ A special superpower only possessed by a small portion of the human population. 
 * [[Resonance Evol]], [[Anhaunsen Class]] ([[MC]])
 * Fire, [[Rafayel]]
 * Ice, [[Zayne]]
-* Light, [[Xavier]]
+* Light, [[Xavier]], [[duckbill cap man]]
+	* Light is very rare as noted in [[WU-07 With Light#02 Sleepless Friday Night]]
 * Energy, [[Sylus]]
 * Gravity, [[Caleb]]
 * [[Micromodification]] ([[Simone]])
 * [[Memory Alteration]] ([[Andrew]])
+* [[Acoustic Transmission]] ([[Leon]])
 ## Trivia
 * Evol = Love backwards

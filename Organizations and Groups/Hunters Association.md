@@ -14,6 +14,9 @@ Special operation missions issued by the Hunters Association are specifically ta
 
 "Recently, there have been complaints of hunters destroying public facilities under the pretense of eliminating Wanderers..." -- Journalist, [[01-03.09 Another Predicament]]
 
+## Creation
+The association was created on January 1st, 2035, approx 6mo after the [[Chronorift Catastrophe]]. Its creation signaled humanity's acceptance that coexisting with [[Wanderer]]s was part of life, now. ([[WU-04 From The Stars#04 Catastrophe]])
+
 ## Chapters 
 (not exhaustive)
 * [[Linkon]] City Chapter

@@ -1,0 +1,1 @@
+A crime spree mentioned in [[WU-05 Long Lost Treasures#06 Audio File No.5 Conflict]], for which [[Rafayel]] might be responsible.

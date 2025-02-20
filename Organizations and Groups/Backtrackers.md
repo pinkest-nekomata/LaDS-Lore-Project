@@ -3,6 +3,12 @@
 
 > "Having [[Evol]] doesn't make you invincible... And you're... This isn't [[Philos]]. And we, you know, aren't truly immortal. Our kind, I mean."
 > -- [[Jeremiah]], [[01-08.07 Stellar Guidance]]
+
+> "There's a tranquil sunset, no monsters, no fluctuations, and no need to fight in the cosmos... Living like this is the reason why many people left the [[Backtrackers]]. Maybe those who left just missed home too much."
+> -- [[Jeremiah]] POV, [[WU-04 From The Stars#02 Home]]
+
+> "After arriving in this era, several unwritten rules were formed among the Backtrackers, such as changing residences regularly and avoiding unnecessary contact."
+> -- [[Jeremiah]] POV, [[WU-04 From The Stars#04 Catastrophe]]
 # Spacepedia
 Hailing from [[Xavier]]'s hometown, this group once included members like [[Xavier]], [[Jeremiah]], and [[Soren]]. They had many companions in the past, but now only a few remain.
 

@@ -1,8 +1,10 @@
+> The crow that closely follows Sylus has sharp metallic feathers and lets out a uniquely harsh cry.
+> With its high IQ, it often lurks silently in darkness. Don't try to deceive it, as there will be consequences!
+> -- [[Classified Intel - N109 Zone]]
 # Spacepedia
 A mechanical crow that always accompanies Sylus. He's very skilled but has a temper. Sylus doesn't treat him as a pet.
 
 # Other Info
-
 In at least one [[Moments]] post, Sylus confirms that he did not program all of Mephisto's traits. Many of them are normal crow traits. This implies that [[Mephisto]] is more of a cyborg than a purely robotic creature.
 
 First appearance: In [[No-Hunt Zone 7]], during [[01-03.08 Where Light Vanishes]]

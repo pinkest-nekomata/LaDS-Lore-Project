@@ -1,0 +1,1 @@
+A [[Lemurian]] friend of [[Rafayel]]'s whose wedding ((presumably to a human)) is featured in [[WU-03 Bouquets and Dirges]].

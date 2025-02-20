@@ -1,0 +1,2 @@
+> "He's none other than Tony, an up-and-coming director who's currently the talk of the town in [[Linkon]] City. He's worth billions and has mysteriously disappeared while writing his next movie script."
+> -- [[WU-05 Long Lost Treasures#01 Submerged Rock]]
