@@ -39,7 +39,7 @@ Year: Age range, grade STARTED (Caleb info)
 * (Caleb works for DAA until [[Bloomshore District explosion]] which is likely mid-year)
 
 MC's university: [[Linkon University]]
-Caleb's university: [[Skyhaven Aerospace Academy]]
+Caleb's university: [[Aerospace Academy]]
 
 Note: In China, 9th grade is typically middle school, with High School being 3 yrs (10-12th grade) ([Wikipedia](https://en.wikipedia.org/wiki/Education_in_China#Education_system)). Bachelors degrees are still typically 4 years. Academic year usually spans Sept to June, similar to the US. ([Wikipedia](https://en.wikipedia.org/wiki/Academic_year#China))
 

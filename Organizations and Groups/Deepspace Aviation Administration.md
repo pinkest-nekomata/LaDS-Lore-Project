@@ -1,4 +1,4 @@
-Deepspace Aviation Administration.
+aka DAA
 
 Well-regarded in [[Linkon]], referred to as a "military" group in [[01-01.09 Rainfall Curtain]]. Flies [[Deepspace Tunnel]] missions, where they frequently encounter [[Wanderer]]s. The primary goal is to better map and understand the [[Deepspace Tunnel]] and the possibilities it contains.
 
