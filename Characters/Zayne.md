@@ -19,6 +19,56 @@
 * Both his parents are doctors ([[WU-01 Longly Flame#03 Heart]])
 	* His bedtime stories were about the hospital
 	* When he was bored, he'd browse their medical textbooks
+* Assuming he's 27 in the spring of 2048 and turns 28 that year, then he was born in September 2020. (In-Game About Him)
+	* [[Still In Dark]] says that Zayne is 27 when he re-connects with [[MC]]. Since they reconnect 6mo before the main story starts, this is consistent with Zayne already being 27 when 2048 starts.
+* He was in the 35th cohort of the [[Skyhaven School of Medicine]], in their eight-year MD-PhD program. [[Dr. Noah]] was his mentor. ([[Never-Ending Winter#01 Night's Daytime Brightness]], [[WU-01 Longly Flame]])
+
+# Timeline
+
+2020: Birth Year
+
+2031: Zayne turns 11
+2032: Zayne turns 12
+2033: Zayne turns 13
+* So, the summer Zayne was 12 (as referenced in [[Never-Ending Winter]]) would be the year *before* the Chronorift catastrophe, when he hadn't met MC yet.
+	* ((This gives me some pause, since it makes more sense for to be the same summer he met MC, so take it with a grain of salt and I'll update as I review some of Zayne's key memories. But if he's 12 in summer 2034, his age is 26 when he re-connects with MC, not 27, and his age in "About Him" age would have to be 26 to be consistent with the start of the main story in mid-2048. #todo))
+2034: [[Chronorift Catastrophe]]. 
+* He turns 14 in September
+* [[MC]] is 7-8 when he fixes her popcicle and they meet for the first time
+* After Josephine has taken in MC and [[Caleb]], they re-meet through Zayne's parents being friends with [[Grandma]], either in 2034 or early 2035
+2035: Zayne turns 15
+ * Fall: When Zayne goes to [[Skyhaven School of Medicine]], "disappearing" from MC's life. So, they only overlapped for about a year.
+	 * This timing is consistent with Zayne being in the 35th cohort (which would start in 2035, since the 47th cohort starts in 2047), and with him completing the 8 year program in 2043 as mentioned in his Akso biography below and corroborated in [[Never-Ending Winter]]
+	 * Thus, their meeting in Jan 2048 is approx 12 years later.
+2036: Zayne turns 16
+2037: Zayne turns 17
+2038: Zayne turns 18
+2039: Zayne turns 19
+2040: Zayne turns 20
+* [[WU-01 Longly Flame#03 Heart]] includes a flashback to this year
+	* [[Zayne]] destroys his academic research on using [[Protocore]] in heart surgery that he was working on with Dr. [[Carter]] due to the appearance of [[black crystals]]
+2041: Zayne turns 21
+2042: Zayne turns 22
+2043: Zayne turns 23
+* Zayne graduates from the combined MD-PhD program in the spring when he's still 22.
+	* This is normally an 8 year program ([[Never-Ending Winter#01 Night's Daytime Brightness]]), implying that Zayne started in 2035 when he was 15, but it's possible he completed it ahead of schedule.
+* [[Never-Ending Winter]] occurs while he's still 22 and has recently graduated.
+* [[Sienna]] gives [[Zayne]] [[William]]'s martyr's badge ([[WU-01 Longly Flame]])
+	* ((Note: Longly Flame has some mild timing inconsistencies, so I've placed this event where it makes the most logical sense in the timeline, even though Longly Flame implies it happens in 2047. That page has more discussion on the timing issues.))
+2044: Zayne turns 24
+2045: Zayne turns 25
+2046: Zayne turns 26
+* [[Zayne]] receives the [[Linde Award]] and [[Starcatcher Award]]
+	* [[Never-Ending Winter]] notes that when [[Zayne]] receives the Linde Award, he places it in his drawer next to [[William]]'s martyr's badge (he died in 2043), which he gets from [[Sienna]] in [[WU-01 Longly Flame]].
+2047: Zayne turns 27
+* In autumn, Dr. Noah will retire soon, and Zayne and MC haven't reconnected yet ([[WU-01 Longly Flame]])
+2048: Zayne turns 28 in September
+* January: Zayne founds the Evol-Cardiac lab and takes over Dr. Noah's patients ([[WU-02 Snowy Stairs]])
+	* This is likely when he re-connects with MC, becoming her primary care physician
+* Zayne becomes a chief surgeon in the [[Division of Cardiac Surgery]] at [[Akso Hospital]] ([[Annual Appraisal]])
+* July: Main story events begin, including [[01-01.08 Doctor]] (Assuming it's indeed Jan when he and MC reconnect)
+
+
 
 # Akso Hospital Biography
 
@@ -30,3 +80,14 @@
 > In 2046, Zayne received the [[Starcatcher Award]] for his landmark contribution to lowering the prevalance of congenital cardiac defects in newborns with his discovery that [[Evol]] genes affect the mutation rate in cells during heart development. In the same year, he performed the very first aortic valve regeneration and repair operation with Evol technology and became the youngest winner of the [[Linde Award]]. In year 2048, he was appointed as chief surgeon of the [[Division of Cardiac Surgery]] at Linkon Central Hospital and established the Evol-cardiac Medical Laboratory, leading a number of research projects related to cardiac function regulation and transformation by Evol.
 
 MC's voice-over adds that he's an expert in the study of [[Protocore Syndrome]] (which is not included in the in-game text of this biography).
+
+# Light and Dark
+Notably, yin and yang is a key theme in Chinese philosphy ([Wikipedia](https://en.wikipedia.org/wiki/Yin_and_yang)), and in Zayne's life we see this tension/balance of light and dark.
+
+In Zayne's anecdotes [[Never-Ending Winter]] and [[Still In Dark]], it's revealed that when Dr. Zayne was twelve, he started having nightmares of a "[[Grim Reaper]]"--ie [[Zayne - Dawnbreaker]]. Likewise, Dawnbreaker began having fragmented dreams of the doctor when he was twelve.
+
+Dr. Zayne's anecdote is "A Pure White Heart" where he wears a light colored outfit, and Dr. Zayne is often depicted in a white lab coat. Dawnbreaker wears all black, and his anecdote is "Still in Dark", reinforcing the light/dark theme. Likewise, Dr. Zayne saves lives while Dawnbreaker ends them. Even in his myths, Zayne is depicted as two different kinds of fate diety, whose job is to ensure the right order and balance of things--this balance is closely tied to the idea of yin/yang. (See also [[Zayne's death theme]]).
+
+Given that the dreams start when Zayne is 12, I wondered if there's significance to 12 in Chinese culture. I'm not the happiest with the strength of these citations, but one source suggests that 12 represents yin/yang because it can be split into two parts: 1 representing yang and 2 representing yin. ([33rdsquare.com](https://www.33rdsquare.com/is-12-a-lucky-number-in-chinese/)). A more robust source, [Brittanica.com](https://www.britannica.com/topic/yinyang) connects Yang to odd numbers and Yin to even numbers, which corroborates the note about 12, but doesn't specifically mention the number. The strength of this symbol in context--that light and dark come into tension at the year 12, which itself represents yinyang, supports this being an appropriate interpretation.
+
+The name "Dawnbreaker" reinforces this connection, with the break of dawn being the time between night and day, where light and dark are in balance. Zayne's voice likes like "Out of the darkness and into the dawn" evoke this too. Fans have also pointed out that Zayne's Chinese name evokes darkness and dawn as well ([Reddit](https://www.reddit.com/r/LoveAndDeepspace/comments/19eu6x9/comment/kjgpa4k/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)).

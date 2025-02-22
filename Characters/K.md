@@ -1,0 +1,1 @@
+A [[Lemurian]] who died in the last 2-5 years, while [[Rafayel]] was in [[Verona]]. Now that he's dead, [[Talia]] is [[Rafayel]]'s last surviving relative.

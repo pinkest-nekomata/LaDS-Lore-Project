@@ -19,6 +19,7 @@ In [[02 Long Awaited Revelry]], [[Sylus]] notes that her power is only a fractio
 2026/2027: Born
 
 2034: Experiments begin and end, [[Chronorift Catastrophe]], age estimate 7-8, likely enrolled in 3rd grade (Since she's noted as a fast learner, Josephine would likely err on the side of the higher grade)
+* [[MC]] meets [[Zayne]] via his parents being friends with [[Grandma]] later this year or early 2035, when she's still 8. ([[01-01.08 Doctor]])
 
 Year: Age range, grade STARTED (Caleb info)
 2035: 8-9, 4th grade (Caleb 6th grade)
@@ -28,7 +29,7 @@ Year: Age range, grade STARTED (Caleb info)
 2039: 12-13, 8th grade (Caleb 10th grade)
 2040: 13-14, 9th grade (Caleb 11th grade)
 2041: 14-15, 10th grade (Caleb 12th grade) << MC/Caleb overlap 1 year at HS
-2042: 15-16, 11th grade (Caleb Freshman)
+2042: 15-16, 11th grade (Caleb Freshman at)
 2043: 16-17, 12th grade (Caleb Sophomore)
 2044: 17-18, Freshman (Caleb Junior)
 2045: 18-19, Sophomore (Caleb Senior)
@@ -36,6 +37,9 @@ Year: Age range, grade STARTED (Caleb info)
 2047: 21-22, Senior (Caleb works for DAA)
 2048: 22-23, Finishes Senior year, Passes Hunter Exam, Main story starts, likely in Spring
 * (Caleb works for DAA until [[Bloomshore District explosion]] which is likely mid-year)
+
+MC's university: [[Linkon University]]
+Caleb's university: [[Skyhaven Aerospace Academy]]
 
 Note: In China, 9th grade is typically middle school, with High School being 3 yrs (10-12th grade) ([Wikipedia](https://en.wikipedia.org/wiki/Education_in_China#Education_system)). Bachelors degrees are still typically 4 years. Academic year usually spans Sept to June, similar to the US. ([Wikipedia](https://en.wikipedia.org/wiki/Academic_year#China))
 
@@ -48,11 +52,14 @@ A larger energy burst occurred, and MC "died", then returned to life again. Ther
 
 While MC is still in the observation unit, the [[Chronorift Catastrophe]] begins, and the observation unit is crushed and MC escapes. Her nightmares of "rusty-red rain" recall this time, and she remembers being saved by [[Lumiere]] ([[Xavier]]). She ends up at a shelter where she has a brief encounter with [[Zayne]] (who makes her popcicles) which she then forgets, and also meets [[Caleb]]. ((TBD whether this is the first time she meets him, or if he's another test subject--[[Josephine's secret notes]] vaguely mention Josephine taking in Caleb but don't refer to anything about another test subject.))
 
-Josephine then finds MC and [[Caleb]] in the shelter and takes them in. MC's childhood is relatively normal from this point forward, though she does still have memory issues, resulting in the [[forgotten Rafayel promise]].
+Josephine then finds MC and [[Caleb]] in the shelter and takes them in. MC's childhood is relatively normal from this point forward, though she does still have memory issues, resulting in the [[forgotten promise to Rafayel]].
 
-Especially in her Old Days memories with [[Caleb]], we can see she had a typical high school and college experience. She set her heart on becoming a [[Deepspace Hunter]], and passed the exams just before the main story begins.
+Especially in her Old Days memories with [[Caleb]], we can see she had a typical high school and college experience. She goes to [[Linkon University]]. [[Addictive Pain#03 A New Player]] also confirms her college experience is very typical, and she's not aware of all the groups keeping an eye on her.
 
+She set her heart on becoming a [[Deepspace Hunter]], and passed the exams just before the main story begins. Based on the most likely timeline (see above), She graduated in spring 2048 and took the Hunter Exams right after.
 
+# Trivia
+* From a meta perspective, MC's uncertain birthday/age accommodates the player's selected birthday and ensures there are no narrative conflicts depending on the birthday picked.
 
 # Theories
 

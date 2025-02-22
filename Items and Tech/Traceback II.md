@@ -10,7 +10,18 @@ The long journey took them through many unfamiliar galaxies, through peaceful co
 
 There was a mistake in their destination. ([[01-08.07 Stellar Guidance]])
 
+ > Something messed with the slipsace during the Backtrack. The spaceship couldn't handle the [[Deepspace Tunnel]] fluctuations. Both she and the [[Aether Core]] vanished without a trace. For all we know, they might already be cosmic dust.
+> -- [[Noah]] about [[MC]], [[Passing By#04 Old Friend]]
 # Crash site
 The ship crashed on Earth in a forest. Part of the wreckage is underground. ([[WU-04 From The Stars]])
 
 Eventually, [[Linkon]] City was built nearby, as was a secret signal station, but the ship remained hidden. After the [[Chronorift Catastrophe]], the area became [[No-Hunt Zone 7]], which features heavily in the main story chapter [[01-03 Talented Hunter]]. ((The descriptions of the no-hunt zone and of the forest in [[WU-04 From The Stars#03 Waterfall Inside Forest]] clearly parallel one another, especially the signal station.))
+
+# Theories
+
+## 214 years
+Notably, [[Xavier]] first meets [[Academy MC]] 214 years after Earth was reborn as [[Philos]]. Conspicuously, [[Xavier's Trailer]] mentions that it's his 214th spring on Earth, and will be his last. The repeat of this number, combined with the "mistake" in the mission's journey, can't be coincidence.
+
+It's possible that the [[Backtrackers]] were aiming for year 214 (214 years *after* Earth became Philos) in order to find [[Academy MC]]. But instead they landed at year *negative* 214, that is, 214 years *before* Earth became [[Philos]]. This implies that during the main story timeline, Earth is about to become Philos--and since it's been a year since the game's launch (Written in Fev 2025), that event would be happening pretty darn soon. So, TBD.
+
+One complicating aspect to this theory is the [[Zayne - Dawnbreaker]] timeline ([[Still In Dark]]). Characters mention that [[Wanderer]]s have been around for the past approx 50+ years. Nothing specifically confirms or disconfirms if these events could happen after the creation of [[Philos]], though there's no reference to Plates or immortality. It could be an alternate timeline where [[Philos]] isn't made, where it's made later, where the [[Wanderer]]s appeared earlier than 2034, etc. Definitely some [[spacetime]] shenanigans here.

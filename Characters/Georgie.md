@@ -1,0 +1,1 @@
+An eleven year old and tragic victim of [[human to Wanderer transformation]] due to [[Protocore]] over-exposure in [[Still In Dark]], part of the [[Zayne - Dawnbreaker]] timeline.

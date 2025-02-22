@@ -4,6 +4,7 @@
 A spiral staircase winds around the cylindrical glass tank. ((This is a central place of honor.))
 
 This is confirmed to be a Lemurian skeleton in [[WU-03 Bouquets and Dirges]], where [[Rafayel]] visits during [[Raymond]]'s funeral and offers flowers to the skeleton instead of to him. Rafayel tells [[Charles]] that the flowers are for a relative's daughter, since he can no longer give them to her.
+* ((Given [[K]]'s recent passing, within the last 2-5 years, and the note in [[Siren's Song#02 Stage Manager]] that he's a relative of [[Rafayel]] and [[Talia]]'s, [[K]] is likely her father. Also, since [[K]] asks to be laid to rest ([[Siren's Song#05 One-Man Show]]), his daughter has probably already died by this point. Another supporting piece of evidence is the phrasing "since he can no longer give them to her", implying that [[K]] has offered flowers for his deceased daughter before.))
 
 When MC first notices it, [[Herman]] tells her it's "just art" and to not overthink it.
 

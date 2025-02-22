@@ -1,0 +1,1 @@
+A very shallow lake with a mirror-like surface.

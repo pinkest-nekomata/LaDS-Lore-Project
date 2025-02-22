@@ -22,6 +22,7 @@ It will also help for you to familiarize yourself with the shorthand I'm using h
 * EN = English
 * i.e. = "that is"
 * e.g. = "for example"
+* LNY = Lunar New Year
 
 ## Citations and notes
 * Citations appear in single parentheses and link to the associated page, like this: ([[START HERE]])

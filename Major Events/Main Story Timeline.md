@@ -4,21 +4,22 @@ Based on the persistently sunny weather, these events must begin somewhere from 
 Day -14: Approx date that [[Raymond]] starts showing symptons. ([[01-02.02 Close Encounter]])
 
 Day 1: Events of [[01-01 To Begin]]
+* Based on [[Zayne#Timeline]], these events most likely occur in mid to late July
 Day 2: Events of [[01-02 The First Mission]], up through [[01-02.05 Artsy Dreams]] and the first half of [[01-02.06 Next Target]]
 Day 3: Meeting with [[Thomas]] at [[Flux Arts]], [[01-02.06 Next Target]] through [[01-02.13 In Hot Pursuit]]. It's not specifically stated whether [[01-03.01 Order No. 85]] is the same day or not, but given the evening-to-night transition and the urgency, and Jenna's reference to "last night's fluctuations" in [[01-03.10 Invitation]], it's likely the same night. This means Day 3 continues through [[01-03.08 Where Light Vanishes]].
 Day 4: Events of [[01-03.09 Another Predicament]] through the end of [[01-03 Talented Hunter]].
 
-Approx 2 week time jump, assuming the events of [[01-04.01 Family]] are the visit that [[Caleb]] and [[MC]] discussed in [[01-01.09 Rainfall Curtain]].
+Approx 2 week time jump, assuming the events of [[01-04.01 Family]] are the visit that [[Caleb]] and [[MC]] discussed in [[01-01.09 Rainfall Curtain]] as "at the end of the month."
 
 Day 18: Events of [[01-04.01 Family]] through [[01-04.03 Within Reach]]
 
 Approx 6 mo time jump. MC was supposed to take 3 months to recover, but [[Zayne]] had allowed her to return to work early. For ease of notekeeping, I'll mark the times from here as if it were an exact 6mo skip, but all dates are approximate.
-
-At about 5mo into this skip, she had a "[[Metaflux]] ablation" procedure that [[Greyson]] notes in [[01-04.04 A Real Nightmare]].
-
-Also at about 5mo into this skip, a mysterious person ([[Xavier]] disguised as [[Lumiere]]) bought all the [[Protocore]]s off the [[Black Market]] and then destroyed them. MC doesn't see [[Xavier]] again until about a month later in [[01-06.02 Late Night Encounter]].
+* Assuming it's correct that the main story starts in July, these events would pick back up again in approx January 2049.
+* At about 5mo into this skip, she had a "[[Metaflux]] ablation" procedure that [[Greyson]] notes in [[01-04.04 A Real Nightmare]].
+* Also at about 5mo into this skip, a mysterious person ([[Xavier]] disguised as [[Lumiere]]) bought all the [[Protocore]]s off the [[Black Market]] and then destroyed them. MC doesn't see [[Xavier]] again until about a month later in [[01-06.02 Late Night Encounter]].
 
 6mo + 19 days: Events of [[01-04.04 A Real Nightmare]] through [[01-05.01 Unspoken Secret]].
+* As mentioned above, most likely February 2049
 
 6mo + 20 days: Events of [[01-05.02 Snow-Kissed Coffee]] through the first part of [[01-05.09 Snowy Mountain]]
 

@@ -9,3 +9,6 @@ MC's Evol's power level cannot be determined. In [[01-01.01 Deepspace Hunter]], 
 
 Key abilities:
 * Can detect [[Metaflux]] fluctuations ([[01-01.02 Mysterious Light]])
+
+Other-life abilities:
+* [[Academy MC]] can resonate with peoples' dreams

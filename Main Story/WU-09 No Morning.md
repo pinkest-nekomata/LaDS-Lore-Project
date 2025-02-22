@@ -5,7 +5,7 @@ Cover image: A skyscraper with a red eye symbol on it and a full moon hologram a
 
 [[Greyson]] reflects on the limits of their ability as doctors to save the hunters they care about.
 ## Summary
-By following [[Greyson]] and his hunter crush, this story highlights the fear and anxiety of caring for a hunter. Greyson reflects on their limits as medical professionals, eventually wondering whether the families of patients who've died see them as guardian angels or grim reapers. Zayne doesn't have an answer for this.
+By following [[Greyson]] and his hunter crush, this story highlights the fear and anxiety of caring for a hunter. Greyson reflects on their limits as medical professionals, eventually wondering whether the families of patients who've died see them as guardian angels or [[Grim Reaper]]s. Zayne doesn't have an answer for this.
 
 We also have the symbol of the [[snow velvet]] flower in [[Zayne]]'s office. They only grow on [[Mt Eternal]], and even there are going extinct. He's able to keep it alive with his [[Evol]]--but eventually it grows [[black crystals]], and he determines it to be beyond saving. This is a poignant parallel to his relationship with [[MC]], especially because in [[WU-02 Snowy Stairs]] he admits to himself that he'd do anything to keep her alive. Here, he must accept the limits with the snow velvet--but he knows he won't with her.
 
@@ -49,7 +49,7 @@ The [[Arctic Hunter]] is discharged, and [[Greyson]] is writing the report for t
 
 He goes to [[Zayne]]'s office for comfort during the long night shift, and finds the [[snow velvet]] wilting. Where there was pristine snow at its base before there are now [[black crystals]] of ice. Zayne returns, and Greyson points out the wilting flower. But as soon as Zayne sees the crystals, he hesitates, and determines that the flower is beyond saving.
 
-> "Dr Zayne, when we declare someone gone... In the eyes of their family, are we guardian angels or the Grim Reaper?"
+> "Dr Zayne, when we declare someone gone... In the eyes of their family, are we guardian angels or the [[Grim Reaper]]?"
 > It's an unanswered question that hangs in the air. Zayne can't help but glance at the desk.
 > A few fragile petals of the snow velvet fall, only with its tiny heart still desperately clinging to life amidst the black ice crystals.
 * ((See also [[Zayne's death theme]]))

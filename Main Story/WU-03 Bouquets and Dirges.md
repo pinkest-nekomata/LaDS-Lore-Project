@@ -39,6 +39,7 @@ It's a relaxed and lovely wedding, and [[Talia]] is happily dancing.
 [[Rafayel]] overhears some other [[Lemurian]]s talking about the couple, commenting how the groom is too plain.
 
 > Rafayel turns to see a familiar face he hadn't seen since "the disaster." He cheerfully plays an ancient [[Lemurian]] instrument, a happy melody flowing from his moving fingertips.
+* see also [[Lemurian disaster]]
 
 [[Talia]] finds [[Rafayel]] and compliments the garden, asking [[Rafayel]] to thank [[Charles]]. Rafayel asks whether the groom approved of the venue, and Talia says that he's happy when she's happy. The groom also designed her wedding dress. After a pause, Rafayel then shares some news:
 

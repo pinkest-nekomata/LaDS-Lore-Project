@@ -13,10 +13,13 @@ Carter fails to recruit Zayne, who holds fast to his conviction that trying to s
 
 As [[Zayne]] takes over [[MC]]'s care from [[Dr. Noah]], some of [[Carter]]'s words ring true, however--he really would do anything it takes to save her.
 
-# 01 Die In Spring
-[[Carter]] is discussing [[Zayne]] with [[Xander Sciences]] execs. He takes credit for having gotten [[Xander Sciences]] this far, implying that it's not the salary or the high tech lab that has made advancement possible, but ideas. And that's why they also need Zayne. But trying to offer him money or high tech equipment won't work--he wouldn't have already accepted [[Akso Hospital]]'s invitation if he cared about those types of things. Taking a new tactic, [[Carter]] asks for the file of [[Cabin 607's patient]].
+## Commentary
+Something to note about [[Zayne]]'s reaction to the [[black crystals]] is that not only has he seen them in his nightmares ([[Zayne's Dawnbreaker dreams]]), but he also saw them appear when [[William]] underwent [[human to Wanderer transformation]] during the [[Mt Eternal incident]] and [[Zayne]] was forced to kill him. Zayne has kept the conditions of [[William]]'s death a secret, so [[Carter]] has no idea that his own research is moving towards the very thing that killed their mutual friend.
 
-It's new years, 2048. [[Carter]] is at [[Empyreal Ring Park]], in the [[Empyreal Ring District]].
+# 01 Die In Spring
+At the very end of 2047, [[Carter]] is discussing [[Zayne]] with [[Xander Sciences]] execs. He takes credit for having gotten [[Xander Sciences]] this far, implying that it's not the salary or the high tech lab that has made advancement possible, but ideas. And that's why they also need Zayne. But trying to offer him money or high tech equipment won't work--he wouldn't have already accepted [[Akso Hospital]]'s invitation if he cared about those types of things. Taking a new tactic, [[Carter]] asks for the file of [[Cabin 607's patient]].
+
+It's new years, 2048. ((Likely Jan 1st, not LNY.)) [[Carter]] is at [[Empyreal Ring Park]], in the [[Empyreal Ring District]].
 
 He thinks back to the year he quit school, when the park was just a newly abandoned construction site. Citizens gathered to stake their claim over the land, and [[Carter]] and [[Zayne]] happened to pass by and save a man having a heart attack. Afterward, they had a snack together at a restaurant and discussed the trending topic at the time:
 > The ethics of applying Protocore technology to revive dead cells.
@@ -30,20 +33,22 @@ Nearby, [[Zayne]] comforts a young boy who's crying over the death of a stray do
 Zayne's expression turns cold, and he counters. "Death is part of life. We can't change that."
 
 # 02 Yesterday Once More
+Jan 1st, 2048
+
 [[Carter]] and [[Zayne]] head to that same restaurant they dined at before, which is now a fast food place. Carter tells Zayne he's cold for not wanting to "save" the dog. He tries to frame resurrection as consensual, saying you can't know if someone wanted to go on living without trying.
 
 Zayne is unimpressed, saying [[Carter]] hasn't changed. Carter counters that the resources from [[Xander Sciences]] have given him many opportunities.
 
-> "If you had kept going, maybe you would've already broken free from the shackles of natural law," Carter says. "Zayne, your talents are wasted at [[Akso Hospital]]. [[Xander Sciences]] doesn't want to see a genius like you be forgotten. The [[Evol]] technology you're insisting on is so last year. No one wants an artificial lump that needs to be charged in their heart now. Protoore tech is the golden brick that will pave the way to the future."
+> "If you had kept going, maybe you would've already broken free from the shackles of natural law," Carter says. "Zayne, your talents are wasted at [[Akso Hospital]]. [[Xander Sciences]] doesn't want to see a genius like you be forgotten. The [[Evol]] technology you're insisting on is so last year. No one wants an artificial lump that needs to be charged in their heart now. Protocore tech is the golden brick that will pave the way to the future."
 
-Zayne rejects the offered business card. So, [[Carter]] tries to entice him with [[Cabin 607's patient]] records. The patient is near death and [[Xander Sciences]] is at a loss, so [[Carter]] tries to use this to appeal to both [[Zayne]]'s altruism and ego.
+Zayne rejects the offered business card. So, [[Carter]] tries to entice him with [[Cabin 607's patient]] records. The patient is near death and [[Xander Sciences]] is at a loss, and his surgery is "next week", so [[Carter]] tries to use this to appeal to both [[Zayne]]'s altruism and ego.
 
-[[Carter]] mentions that [[Dr. Noah]] used to talk about [[Zayne]] to him and [[William]], implying that [[William]] and [[Carter]] were peers, and the younger [[Zayne]] joined later.
+[[Carter]] mentions that [[Dr. Noah]] used to talk about [[Zayne]] to him and [[William]], implying that [[William]] and [[Carter]] were peers, and the younger [[Zayne]] joined later. (Corroborated in [[Never-Ending Winter]].)
 
 [[Carter]] makes one last plea for [[Zayne]] to take pity on the innocent patient and his family.
 
 # 03 Undying Tree
-[[Carter]] waits for [[Zayne]] to arrive on the day of the surgery, but he doesn't. The surgery is less-than-successful, forcing Carter to "confront the gap between him and a genius once more."
+In the next week, [[Carter]] waits for [[Zayne]] to arrive on the day of the surgery, but he doesn't. The surgery is less-than-successful, forcing Carter to "confront the gap between him and a genius once more."
 
 > They worked on the theoretical model of this research back in school. He even outperformed Zayne on this front. Yet when it comes to applying it, things never go smoothly.
 * This is why [[Carter]] was also in the office during [[WU-01 Longly Flame#04 Oath]]
@@ -55,6 +60,7 @@ Zayne rejects the offered business card. So, [[Carter]] tries to entice him with
 [[Zayne]] instead asks about whether [[Carter]] talked to [[William]] since they stopped their research together, mentioning that [[William]] died at [[Mt Eternal]], and saying that [[Carter]] had been closest to [[William]] at the time. Carter gives a sort of non-answer about the [[Wanderer]] anomaly "a few years ago".
 
 Then [[Zayne]] goes to leave, much to [[Carter]]'s surprise--he thought Zayne was there to join. Instead, Zayne is there to warn Carter that he found the Trojan horse in the medical record Carter had sent, and that such things could get Carter arrested.
+* ((The Trojan horse isn't mentioned again, so we can conclude it was some malware to perhaps spy on Zayne, which Carter may or may not have known about. ([Wikipedia](https://en.wikipedia.org/wiki/Trojan_horse_(computing)))))
 
 Carter is furious at being dismissed again. He goes on a rant about how they can basically play god now, getting second and third chances to save patients. Zayne tells him he's crazy and leaves. See also [[Zayne's death theme]] for further discussion.
 
@@ -65,9 +71,11 @@ Zayne steps in, taking a few minutes to clean up the body so that the parents ca
 
 # 05 Snow Depth
 A few days later, Zayne officially joins [[Akso Hospital]]'s Evol-Cardiac Medical Research Lab as its principal investigator.
+* Based on the timing mentioned in this story, this is within the first 2 weeks of January 2048.
+* ([[Annual Appraisal]] confirms this event occurs in 2048 and before the start of [[01 Under Deepspace]])
 
 [[Carter]] tries to twist the knife by sending a message about the death of [[Cabin 607's patient]]. When Zayne doesn't reply, Carter sends a gruesome image of the patient on the floor outside the life pod, [[black crystals]] sprouting from his chest over his heart.
-
+[[life pod]]
 > "Zayne, if the person lying on the operating table was your lover, would you let her die?"
 
 [[Carter]] then decides that he doesn't really need [[Zayne]] to be bought in, he just needs [[Zayne]]'s hands--ie his skill as a surgeon. He remembers that Zayne became a doctor because of a girl, and determines to use [[Dr. Noah]]'s patient list to figure out who it is.
@@ -76,9 +84,10 @@ A few days later, Zayne officially joins [[Akso Hospital]]'s Evol-Cardiac Medica
 
 Carter celebrates his new plan.
 
-Meanwhile, Zayne is troubled by Carter's messages, and he's reviewing [[MC]]'s medical records from [[Dr. Noah]], the name he knows all too well. He knows Carter is right--he'd do anything to save her.
+Meanwhile, Zayne is troubled by Carter's messages, and he's reviewing [[MC]]'s medical records from [[Dr. Noah]], the "name he knows all too well". He knows Carter is right--he'd do anything to save her.
+* ((Based on the proximity to Zayne founding the Cardiac Evol lab and the phrasing here, it seems most likely that this corresponds with [[Dr. Noah]] retiring and transferring his patients to Dr. Zayne.
 
-> He would do everything he could to prevent her death and save her. But th enight is long. The fog is dense... If the end of the road is truly what's left... Zayne closes his eyes.
+> He would do everything he could to prevent her death and save her. But the night is long. The fog is dense... If the end of the road is truly what's left... Zayne closes his eyes.
 > At least, he still has another option. His last one.
 > And before the storm arrives, he only hopes he can walk a little further on this rugged path.
 > He could also hold her hand and resist the avalanche-like onslaught of selfish wishes together.
