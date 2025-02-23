@@ -14,13 +14,30 @@ Zayne accepts [[William]]'s martyr medal from [[Sienna]], who can't bear to look
 
 Autumn 2047 is [[Dr. Noah]]'s last first year oath ceremony before he retires and heads to the [[Arctic]]. At this time, [[Zayne]] hasn't met up with [[MC]] again yet, though he's preparing to take over her case from [[Dr. Noah]]. That actual case transfer is described in [[WU-02 Snowy Stairs#05 Snow Depth]].
 
+## Commentary
+
+### Mild timeline inconsistencies
+There does appear to be some timeline inconsistency in this story. Chapter 05 establishes that it and chapter 02 are set in autumn 2047 specifically, and several key details, like Dr Noah's upcoming retirement and the overall narrative flow, strongly connect the two chapters.
+
+Chapter 02 initially appears to directly follow Chapter 01, especially Sienna saying that if Zayne sees Dr Noah "this year" to tell him that William said hi, and in Chapter 02 Zayne says "William sends his regards" and promises to keep joining Dr. Noah every year. This implies that Chapter 01 is also set in 2047.
+
+However, there are a couple of problems with this. First, when Zayne receives the [[Linde Award]], which is explicitly in 2046, he already has William's Martyr medal. So, Sienna can't possibly give Zayne the martyr's badge in 2047. Second, [[Never-Ending Winter]] (where [[William]] dies) is firmly set in 2043, when [[Zayne]] has just become an MD. So it would be odd for Sienna to wait fully three to four years to give Zayne the badge.
+* Dr Noah's comments in chapter 02 also seem most consistent with William's death being recent, not three to four years ago, especially since they sort of don't acknowledge it, but this is vague enough to be attributed to an unspoken agreement to not mention his death, or something getting lost in translation.
+
+The last clue we have here is that [[01-05.08 Snowy Tranquility]] the [[Mt Eternal incident]] is referred to as having occurred "a few years back". This implies it being a little more recent than five years ago, but it's intentionally vague.
+
+From a meta narrative perspective, the easiest solution is to say that Chapter 01 happens in 2043/2044, and in Chapter 02 (2047), Zayne is remembering/reaffirming his promise to keep attending with Dr. Noah. We could take William sending his regards as being a bit of an annual tradition they keep.
+
+Another bit of curious timing in this story is that in chapter 05, [[Dr. Noah]] remembers Zayne setting off into the [[Arctic]] when "the experiment's data were destroyed", which would make the year of the memory 2040. It's certainly possible that [[Zayne]] was doing research in the [[Arctic]] at this time, and then returned in 2043 for the [[Mt Eternal incident]]. But it's not really clear *why* his research into using [[Protocore]]s in heart surgery would require him to go to the arctic--[[Never-Ending Winter]] feels narratively more like his initial connection to that place (as he keeps going back for more answers as to what happened to [[William]] and how it could be prevented). It makes more sense for Dr. Noah to be remembering Zayne during the [[Mt Eternal incident]] or a later research trip, as opposed to when he destroyed his research data.
+
+Fortunately, neither of these inconsistencies are particularly consequential, and they're easily resolved with some minor tweaks if you need to reference them for fanfic or other purposes.
 
 # 01 The One Left
-((As confirmed in chapter 05 below, it is autumn 2047.))
+((The circumstances of [[William]]'s death are detailed in [[Never-Ending Winter]]. Based on the timeline there, this scene makes most sense if it occurs circa late 2043. It must be before 2046, because when Zayne receives the [[Linde Award]] in 2046, he already has [[William]]'s martyr's badge.))
 
 [[William]]'s girlfriend [[Sienna]] delivers a box to [[Zayne]] containing [[William]]'s martyr's badge. She's unable to accept it, finding it easier to imagine that he's still out on a mission and will be home soon. Zayne solemnly accepts the badge, tucking it into a drawer.
 
-[[Sienna]] references how [[Dr. Noah]] and [[Zayne]] would always visit [[Skyhaven University]] during first-year admissions. [[William]] was always too busy to go, so she asks [[Zayne]] to tell [[Dr. Noah]] that [[William]] said hi.
+[[Sienna]] references how [[Dr. Noah]] and [[Zayne]] would always visit [[Skyhaven University]] during first-year admissions. [[William]] was always too busy to go, so she asks that if [[Zayne]] sees [[Dr. Noah]] "this year" to tell him that [[William]] said hi.
 
 # 02 Review
 ((Autumn 2047 ceremony, as confirmed in chapter 05 below.))
@@ -29,11 +46,12 @@ Autumn 2047 is [[Dr. Noah]]'s last first year oath ceremony before he retires an
 
 [[Zayne]] say states that [[William]] sends his regards ((as [[Sienna]] asked him to)) and promises to accompany [[Dr. Noah]] for every year in the future.
 
-((Reading between the lines, it's unclear if [[Dr. Noah]] isn't aware of [[William]]'s death or they're dancing around it. [[Zayne]]'s commitment to continue to join [[Dr. Noah]] is clearly him expressing care and an understanding of how precious that time is, especially when confronted with [[William]]'s mortality.))
+(([[Dr. Noah]] definitely knows of [[William]]'s death since he was also there during the [[Mt Eternal incident]], so the phrasing here is a bit odd, especially given William died in 2043. But we can infer they perhaps have an unspoken agreement to not acknowledge his death. [[Zayne]]'s commitment to continue to join [[Dr. Noah]] is clearly him expressing care and an understanding of how precious that time is, especially when confronted with [[William]]'s mortality.))
 
 They proceed into the campus auditorium, where a banner reads "47th First-Year Medical Student Oath Ceremony". An eager student approaches them, asking to take a picture.
 
 > Eager student: You're the legendary 35th academic god that we all pray to before exams!
+* This is a reference to [[Zayne]] graduating in the 35th cohort, which is also mentioned in [[Never-Ending Winter]]
 
 [[Dr. Noah]] reflects that when [[Zayne]] took the oath, he was younger than everyone else, yet his composed and steady demeanor impressed Dr. Noah.
 
@@ -55,6 +73,7 @@ Dr Noah leads Zayne out of the lab, pressing him about why he works so hard and 
 
 # 04 Oath
 A few days later, the deal of the medical school calls in [[Dr. Noah]]. [[Zayne]] is already there. Zayne has destroyed his part of the experimental data. Even though it doesn't hurt anyone else, the dean is perplexed since this will set back [[Zayne's research]].
+* ((The magnitude of [[Zayne]]'s reaction is explained by [[Zayne's Dawnbreaker dreams]]. These nightmares of a "[[Grim Reaper]]" who kills with black crystals have been haunting him. Later, in [[Never-Ending Winter]], Zayne will see just how dangerous those black crystals are, when he's helpless to save [[William]] as he turns into a [[Wanderer]].))
 
 [[Carter]] starts to say something ("As long as we re--"), but [[Dr. Noah]] cuts him off, saying he'll handle it and the students can be let go. ((It seems Carter was about to say they can recreate the data in future experiments.))
 
@@ -71,3 +90,4 @@ Afterwards, [[Dr. Noah]] and [[Zayne]] talk. Dr Noah also told the dean how [[Za
 Dr Noah watches [[Zayne]] leave [[Akso Hospital]] for the night.
 
 > He remembers that night when a single light glowed in the campsite during a blizzard in the [[Arctic]]. He remembered the lonely figure leaving in the cold wind the next day when the experiment's data were destroyed. Perhaps the path the young man walks has only heavy snow and level ground. He's destined to walk alone. As his teacher, Dr Noah can only hope that one day a fork in the road will appear before the young man, offering him tranquil respite.
+* ((It makes more sense for this [[Arctic]] memory to be related to the [[Mt Eternal incident]] or a subsequent research trip, not when Zayne destroyed his data in 2040, but it's not particularly consequential since it's mostly an emotional/atmospheric note.))

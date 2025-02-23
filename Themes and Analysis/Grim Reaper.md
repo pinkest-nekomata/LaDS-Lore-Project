@@ -1,0 +1,1 @@
+How [[Zayne]] refers to [[Zayne - Dawnbreaker]] in [[Zayne's Dawnbreaker dreams]], and a recurring theme. See also [[Zayne's death theme]] for more discussion.

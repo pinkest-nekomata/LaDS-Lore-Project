@@ -16,6 +16,7 @@ City Center
 * [[Bloomshore District]]
 * [[MC's apartment]]
 * [[The Nest]] (tentative)
+* [[Linkon Central Park]]
 
 Metro Area
 * [[Whitesand Bay]]
@@ -36,6 +37,9 @@ Suburbs and surrounding areas
 * [[No-Hunt Zone 7]]
 * [[Hat Island]]
 * [[N109 Zone]]
+	* [[fighting arena]]
+	* [[Solon Hotel]]
+	* [[Odd Workshop]]
 
 Destroyed in the [[Chronorift Catastrophe]]:
 * [[Linkon World Tower]]

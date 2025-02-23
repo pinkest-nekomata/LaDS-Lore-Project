@@ -19,23 +19,44 @@ In [[02 Long Awaited Revelry]], [[Sylus]] notes that her power is only a fractio
 2026/2027: Born
 
 2034: Experiments begin and end, [[Chronorift Catastrophe]], age estimate 7-8, likely enrolled in 3rd grade (Since she's noted as a fast learner, Josephine would likely err on the side of the higher grade)
+* [[MC]] meets [[Zayne]] via his parents being friends with [[Grandma]] later this year or early 2035, when she's still 8. ([[01-01.08 Doctor]])
+* If Caleb's experiment notes from [[Pathless Realm#05 Arrival]] are the same time as MC's, he's 9-10 in 2034. He can't possibly be younger than this, since we know there were no experiments on him after the [[Chronorift Catastrophe]]. See below for further analysis and justification of the ages/grades shown below.
 
-Year: Age range, grade STARTED (Caleb info)
-2035: 8-9, 4th grade (Caleb 6th grade)
-2036: 9-10, 5th grade (Caleb 7th grade)
-2037: 10-11, 6th grade (Caleb 8th grade)
-2038: 11-12, 7th grade (Caleb 9th grade)
-2039: 12-13, 8th grade (Caleb 10th grade)
-2040: 13-14, 9th grade (Caleb 11th grade)
-2041: 14-15, 10th grade (Caleb 12th grade) << MC/Caleb overlap 1 year at HS
-2042: 15-16, 11th grade (Caleb Freshman)
-2043: 16-17, 12th grade (Caleb Sophomore)
-2044: 17-18, Freshman (Caleb Junior)
-2045: 18-19, Sophomore (Caleb Senior)
-2046: 20-21, Junior (Caleb works for DAA)
-2047: 21-22, Senior (Caleb works for DAA)
-2048: 22-23, Finishes Senior year, Passes Hunter Exam, Main story starts, likely in Spring
-* (Caleb works for DAA until [[Bloomshore District explosion]] which is likely mid-year)
+| Year | MC age range | MC starts (grade)           | Caleb turns (age) | Caleb starts (grade) | Notes                                             |
+| ---- | ------------ | --------------------------- | ----------------- | -------------------- | ------------------------------------------------- |
+| 2035 | 8-9          | 4th                         | 10-11             | 6th                  | Zayne moves away in fall                          |
+| 2036 | 9-10         | 5th                         | 11-12             | 7th                  |                                                   |
+| 2037 | 10-11        | 6th                         | 12-13             | 8th                  |                                                   |
+| 2038 | 11-12        | 7th                         | 13-14             | 9th                  |                                                   |
+| 2039 | 12-13        | 8th                         | 14-15             | 10th (HS)            |                                                   |
+| 2040 | 13-14        | 9th                         | 15-16             | 11th (HS)            |                                                   |
+| 2041 | 14-15        | 10th (HS)                   | 16-17             | 12th (HS)            | MC/Caleb Overlap at High School                   |
+| 2042 | 15-16        | 11th (HS)                   | 17-18             | Freshman             |                                                   |
+| 2043 | 16-17        | 12th (HS)                   | 18-19             | Sophomore            | Summer of [[Summer's Echo]]                       |
+| 2044 | 17-18        | Freshman                    | 19-20             | Junior               |                                                   |
+| 2045 | 18-19        | Sophomore                   | 20-21             | Senior               |                                                   |
+| 2046 | 19-20        | Junior                      | 21-22             | Graduates -> DAA     | [[Stage Observer]]                                |
+| 2047 | 20-21        | Senior                      | 22-23             | DAA                  | Summer of [[Longtime Yesterday]]                  |
+| 2048 | 21-22        | Graduates -> Hunter (~July) | 23-24             | DAA                  | MC takes [[Hunters' Exam]], Caleb "dies" mid-year |
+| 2049 | 22-23        | Hunter                      | 24-25             | [[Farspace Fleet]]   |                                                   |
+|      |              |                             |                   |                      |                                                   |
+MC's university: [[Linkon University]]
+Caleb's university: [[Aerospace Academy]]
+
+### Caleb's age analysis
+* [[MC]] and [[Caleb]] overlapped 1 year in High School
+	* [[Borrowed Promise]] shows memories of them both in High School at the same time, so they overlapped at least 1 year
+	* For them to have overlapped 2 years in HS while Caleb is young for his grade would make them the same age with a 1 grade difference, which would be an unusual choice
+	* So, a 1 year overlap with a 2 year grade gap is most likely
+	* [[Pathless Realm#05 Arrival]] isn't clear about when the experiments on Caleb are set, but if we make the fair assumption it's meant to parallel MC being experimented on when 7-8, and he's 9-10 at the same time, a 2 year grade/age gap would be the most natural choice.
+* [[Summer's Echo]] specifically says Caleb is 17 *or* 18 between freshman and sophomore year of college, indicating both that he's young for his grade and his exact age is uncertain in canon (like [[MC]]'s)
+	* There's a small potential discrepancy here. Based on the [[Chronorift Catastrophe]] timing, the year where Caleb would be 17 or 18 in late summer (based on his June birthday) would be 2042. For it to be the summer after his freshman year, he would have to start college in 2041 when he's just turned 16 or 17, which is pretty young. 
+	* Also, this would require MC to also be ahead a grade or two for her age, and adds a full year between her college graduation and her becoming a hunter.
+		* [[Skyline]] is pretty clear that MC is studying for the Hunter's Exam as graduation approaches, so there's no gap year.
+	* By my analysis, it's more likely that the age comment in [[Summer's Echo]] simply isn't taking the timing of Caleb's birthday into account, since per the likely timeline above, he would indeed be 17-18 at the start of the summer.
+* About Him indicates Caleb is 25:
+	* but if this is true at the start of 2048, he'd be a year old for his grade, while we know he's actually a year young in [[Borrowed Promise]]
+	* It's more likely that he's 25 when he becomes an available LI, which is into the year 2049 (see [[Main Story Timeline]]). Him turning 25 in 2049 is consistent enough, given that the "About Him" age is vague about when it refers to.
 
 Note: In China, 9th grade is typically middle school, with High School being 3 yrs (10-12th grade) ([Wikipedia](https://en.wikipedia.org/wiki/Education_in_China#Education_system)). Bachelors degrees are still typically 4 years. Academic year usually spans Sept to June, similar to the US. ([Wikipedia](https://en.wikipedia.org/wiki/Academic_year#China))
 
@@ -48,11 +69,14 @@ A larger energy burst occurred, and MC "died", then returned to life again. Ther
 
 While MC is still in the observation unit, the [[Chronorift Catastrophe]] begins, and the observation unit is crushed and MC escapes. Her nightmares of "rusty-red rain" recall this time, and she remembers being saved by [[Lumiere]] ([[Xavier]]). She ends up at a shelter where she has a brief encounter with [[Zayne]] (who makes her popcicles) which she then forgets, and also meets [[Caleb]]. ((TBD whether this is the first time she meets him, or if he's another test subject--[[Josephine's secret notes]] vaguely mention Josephine taking in Caleb but don't refer to anything about another test subject.))
 
-Josephine then finds MC and [[Caleb]] in the shelter and takes them in. MC's childhood is relatively normal from this point forward, though she does still have memory issues, resulting in the [[forgotten Rafayel promise]].
+Josephine then finds MC and [[Caleb]] in the shelter and takes them in. MC's childhood is relatively normal from this point forward, though she does still have memory issues, resulting in the [[forgotten promise to Rafayel]].
 
-Especially in her Old Days memories with [[Caleb]], we can see she had a typical high school and college experience. She set her heart on becoming a [[Deepspace Hunter]], and passed the exams just before the main story begins.
+Especially in her Old Days memories with [[Caleb]], we can see she had a typical high school and college experience. She goes to [[Linkon University]]. [[Addictive Pain#03 A New Player]] also confirms her college experience is very typical, and she's not aware of all the groups keeping an eye on her.
 
+She set her heart on becoming a [[Deepspace Hunter]], and passed the exams just before the main story begins. Based on the most likely timeline (see above), She graduated in spring 2048 and took the Hunter Exams right after.
 
+# Trivia
+* From a meta perspective, MC's uncertain birthday/age accommodates the player's selected birthday and ensures there are no narrative conflicts depending on the birthday picked.
 
 # Theories
 

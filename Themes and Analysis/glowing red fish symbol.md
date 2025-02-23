@@ -1,0 +1,1 @@
+Appears over [[Rafayel]]'s heart in [[01-07.11 Indomitable Spirit]], [[Intertidal Zone]] (and elsewhere? #todo) and appears to symbolize their bond. (See also [[the pact]] and [[tiny red fish]])

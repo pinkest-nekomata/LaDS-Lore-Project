@@ -1,0 +1,1 @@
+One of [[Caleb]]'s dorm-mates at [[Aerospace Academy]]. Takes pity on [[Timothy]]'s motion sickness.

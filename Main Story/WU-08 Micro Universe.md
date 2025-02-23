@@ -7,13 +7,13 @@ Expanding on [[Rafayel]]'s time teaching at [[Linkon University]], with a meetin
 
 ## Summary
 A grad student and [[Ever]] intern [[Michael]] takes an art appreciation class with [[Rafayel]]. The key takeaways from a lore perspective are:
-* Expands on [[Rafayel]]'s ties to [[Verona]] (which is where he was before returning to [[Linkon]], per [[Rafayel Verona Anecdote]])
+* Expands on [[Rafayel]]'s ties to [[Verona]] (which is where he was before returning to [[Linkon]], per [[Siren's Song]])
 * [[Ever]] has been doing experiments on [[Lemurian]] cells ([[LCMEC]]s)
 
 ## Commentary
 The depiction of art and art critique in this story is spot on, and I definitely recommend reading it. I've focused mostly on the details that are consequential to the lore here, which is why some sections are short.
 
-Sussing out the timing of this story is a little interesting. [[Rafayel school anecdote]] seems to establish [[Rafayel]] working at [[Linkon University]] for the first time, and his initial class series is on [[Lemuria]], with a 1 year teaching commitment. Given that this story describes a spring semester class, and there's a vague comment at the end of [[Rafayel school anecdote]] about finding an "art appreciator", it's likely that this story describes Rafayel's spring class period. It's also possible that [[Rafayel]] stayed on and taught for more than a year. Inferring from [[MC#Timeline]], this is likely 2045-2047. Fortunately, the exact timing here isn't too consequential.
+Sussing out the timing of this story is a little interesting. [[A Unique Vermillion]] establishes [[Rafayel]] working at [[Linkon University]] for the first time, and his initial class series is on [[Lemuria]], with a 1 year teaching commitment. Given that this story describes a spring semester class, and [[A Unique Vermillion]] starts in late summer, it's likely that this story describes Rafayel's spring class period. It's also possible that [[Rafayel]] stayed on and taught for more than a year. Inferring from [[MC#Timeline]], this is likely 2045-2047. Fortunately, the exact timing here isn't too consequential.
 
 Given that the [[Gaia Research Center]] is functional again, it must have been rebuilt.
 
