@@ -1,1 +1,0 @@
-aka Skyhaven Aerospace Academy

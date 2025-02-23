@@ -1,5 +1,4 @@
-Anecdotes are available in the "Date" section of the app. For the original three LIs ([[Xavier]], [[Zayne]], [[Rafayel]]) each anecdote corresponds to one of their "Companion" versions available for battle. Since there can be thematic flavor text in the outfit description, the corresponding outfit's in-game descriptions are noted as well.
-
+Anecdotes are available in the "Date" section of the app. Each anecdote relates to a Companion variant, as noted below. ([[Sylus]] and [[Caleb]] currently have only one anecdote each.)
 # Xavier
 * [[A Special Vacation]]
 	* [[Xavier - Deepspace Hunter]]
