@@ -17,7 +17,7 @@ Off-screen, MC is examined by [[Zayne]] and he agrees to let her return to worki
 An unspecified amount of time later ((likely a week or two at most)), MC attends a follow-up appointment with [[Zayne]]. He gives her a small box that [[Grandma]] had left for him to give to her. Right then, a [[Wanderer]] appears in Zayne's office, even though the hospital's [[Flux Stablizer]] should prevent that possibility.
 
 [[Zayne]] and [[MC]] deal with the [[Wanderer]], and Zayne briefly loses control of his [[Evol]]. MC heads home with the box from [[Grandma]]. The cause for the [[Wanderer]] attack is left unresolved.
-# Scenes
+# Chapters
 * [[01-04.01 Family]]
 * [[01-04.02 Interlude]]
 * [[01-04.03 Within Reach]]

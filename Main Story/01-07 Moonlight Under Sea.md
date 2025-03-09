@@ -9,7 +9,7 @@ On the island, [[Rafayel]] coaches [[MC]] to resonate with the stone. It doesn't
 
 In the process of defeating it, [[MC]] ends up underwater. She has a flashback to a promise she made to [[Rafayel]]--one she's since forgotten. She calls out to [[Rafayel]] with her mind, and he saves her, taking on his [[Lemurian]] form in the process, though MC doesn't know about it.
 
-# Scenes
+# Chapters
 * [[01-07.01 Investigation]]
 * [[01-07.02 Canvas Enigmas]]
 * [[01-07.03 Secret Tracking]]

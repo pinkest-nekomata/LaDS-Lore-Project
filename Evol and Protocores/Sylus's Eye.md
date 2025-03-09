@@ -1,3 +1,6 @@
+> "It helps me see what people want the most. It exposes the desires that they refuse to admit."
+> -- Sylus, [[02-02.06 Agreement]]
+
 # Spacepedia
 [[Sylus]] has an [[Aether Core]] in his eye, which allows him to see people's desires.
 It turns out there's more than one [[Aether Core]] in the world.
@@ -15,8 +18,8 @@ Known powers:
 ## Commentary
 
 ### Dragon Core
-The Spacepedia entry is from MC's perspective, so it may not be strictly accurate that his eye's power is an Aether Core like hers; Sylus is a bit noncommittal when she mentions his eye being an Aether Core, saying "let's call it that" ( #todo citation). 
+The Spacepedia entry is from MC's perspective, so it may not be strictly accurate that his eye's power is an [[Aether Core]] like hers. When she asks Sylus if that's what his eye is, he sighs and says, "Sure. Think of it like that." ([[02-02.06 Agreement]])
 
 Given that an "Aether Core" is essentially any particularly powerful Protocore, there's no real contradiction here, but there's reason to avoid generalizing Sylus's abilities to other Aether Cores. 
 
-Notably, Dragon Cores are a type of core in [[Xianxia]], and Sylus is a dragon, so it'd be his Dragon Core. By contrast, [[MC]]'s [[Aether Core]] moreso fits the type of a "Cultivated Core".
+Notably, in [[Xianxia]], dragons are one of the types of mystical/divine beasts that can be born with a "Beast Core". Applying that trope, as a dragon, Sylus would have been born with his core vs. needing to undergo [[cultivation]] as MC does with. her 'Cultivation Core'. See also [[Cores in Xianxia]].

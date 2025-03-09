@@ -12,7 +12,7 @@ She meets [[Thomas]], learns about [[The Day of Ebbing]] and more about [[Raymon
 
 On her way home, [[MC]]'s train is attacked by a [[Wanderer]] and [[Jenna]] calls [[Xavier]] in to help her out, revealing he's part of [[Alpha Team]].
 
-# Scenes
+# Chapters
 * [[01-02.01 In UNICORNS]]
 * [[01-02.02 Close Encounter]]
 * [[01-02.03 Powder Keg]]

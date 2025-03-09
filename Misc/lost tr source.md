@@ -1,0 +1,7 @@
+There was a user, subtextually, who was active in the EN (English) fandom and was doing a fan translation project to provide a literal CN (Chinese) to EN translation for reference, especially for Sylus content. Due to reasons that I am nowhere near qualified to summarize, they ended up deleting their accounts and removing their shared documents circa January 2025. I read most of their notes for Sylus's content and found some of the translation notes to be very interesting/helpful, so I reference those here or there from memory. Please take them with a grain of salt. Where practical, I've corroborated notes with MTL (machine translation) via Google Translate. If anyone has access to other CN translations, or wants to chip in, feel free to reach out!
+
+Sources that remain:
+* [Main post on Reddit](https://www.reddit.com/r/LoveAndDeepspace/comments/1g6py9c/sylus_translation_project_cnen_translation/?share_id=PciccYNBWAP1pDXLguVIj&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
+	* [Copy on Amino Apps](https://aminoapps.com/c/evolxdeepspace/page/blog/sylus-translation-project-cn-eng/agKL_D8I0ug2WbjMVYPx6RqBDPrMlBWrqr)
+* [Clarification on Reddit](https://www.reddit.com/r/LoveAndDeepspace/comments/1gb74fs/sylus_translation_project_literal_translation/?share_id=_ohFZXm6Wt2-Ladz8L4k8&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
+* [LinkTree](https://linktr.ee/ladstranslation) (Links no longer function)

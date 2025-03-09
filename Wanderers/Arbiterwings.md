@@ -1,0 +1,2 @@
+**Description**
+> It was once a colossal statue symbolizing judgement and justice. Its body is crystalized because of [[Metaflux]]. Now, every stone feather from its large wings bears the weight of retribution. It is ready to punish all sinners.

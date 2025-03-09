@@ -8,7 +8,7 @@
 # Journey to Earth
 The long journey took them through many unfamiliar galaxies, through peaceful cosmic white noise and harrowing turbulence. The journey felt endless, though they passed much of it in hibernation pods. ([[WU-04 From The Stars#03 Waterfall Inside Forest]]).
 
-There was a mistake in their destination. ([[01-08.07 Stellar Guidance]])
+There was a mistake in their destination ([[01-08.07 Stellar Guidance]]) though Earth in the Orion galaxy was always the target ([[01-08.10 Trap]], [[cosmic cinematic]]).
 
  > Something messed with the slipsace during the Backtrack. The spaceship couldn't handle the [[Deepspace Tunnel]] fluctuations. Both she and the [[Aether Core]] vanished without a trace. For all we know, they might already be cosmic dust.
 > -- [[Noah]] about [[MC]], [[Passing By#04 Old Friend]]

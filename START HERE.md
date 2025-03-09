@@ -39,4 +39,7 @@ If you're using Obsidian, you an hover over a header to use the little arrow to 
 Brief quotations of in-game text appear in quotes in the text, "like this".
 
 Longer quotations are set aside in block quotes:
-> Like this.
+> Character: What they said.
+> *Narration, if included, goes in italics.*
+
+If actions from a cutscene or animation are described in the flow of text, they'll appear `in this format` indicating that it's a summary of what's happening on-screen, not text in the game..

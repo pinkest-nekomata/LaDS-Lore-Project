@@ -34,6 +34,7 @@ Suburbs and surrounding areas
 * [[southeastern suburbs]]
 * [[western suburbs]]
 * [[northern outskirts]]
+* [[northern suburbs]]
 * [[No-Hunt Zone 7]]
 * [[Hat Island]]
 * [[N109 Zone]]

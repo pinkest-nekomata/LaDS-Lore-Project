@@ -19,3 +19,4 @@ A special superpower only possessed by a small portion of the human population. 
 * [[Acoustic Transmission]] ([[Leon]])
 ## Trivia
 * Evol = Love backwards
+	* Even in the CN subtitles, the characters 'Evol' are used, indicating that this is intentional in all localizations

@@ -35,14 +35,53 @@ Notably, the use of the Greek Philos for its name is identical in EN and CN.
 In [[When Shooting Stars Fall]], we learn that Earth was remade as [[Philos]]. Its "extinguished core" was replaced with a "powerful, artificial one". 
 * Notably, this also implies that Earth somehow moved across space and time into the newly discovered star system, since [[WU-04 From The Stars#03 Waterfall Inside Forest]] confirms that the [[Philos]] that [[Xavier]] left behind is in another galaxy than Earth is currently.
 	* ((Could this hint at [[Ever]]'s interest in the [[Spatium Core]] which can displace even very large objects through space?))
+	* Additionally, [[cosmic cinematic#End of Long Awaited Revelry]] contains the message "Destination is in the Orion Arm of the Milky Way--Once the home of humanity: Earth" reinforcing the displacement of the planet.
 * Given the theme of cores in [[Xianxia]] fiction, this should be interpreted as more of a metaphysical/energetic core, and not the literal molten center of the planet.
 
-As shown in one of the main story cinematics (citation #todo), Earth literally broke apart into chunks separated by the vacuum of space. [[Academy MC]] refers to this as the "starry sea" in [[When Shooting Stars Fall#01 Distant Stars]]. Travel between these chunks, or "Plates", is difficult. It's the artificial core that prevents the Plates from drifting further apart--it literally holds the fragmented planet together.
-
-Based on [[Xavier]]'s reflections in ([[WU-04 From The Stars#03 Waterfall Inside Forest]]) where he looks at the sky and wonders if he can see [[Philos]], Earth must have also passed into that star system at the same time. ((What remains unclear is whether there are multiple parallel versions of [[Philos]] or not.))
+As shown in [[cosmic cinematic#End of Long Awaited Revelry]], Earth literally broke apart into chunks separated by the vacuum of space. [[Academy MC]] refers to this as the "starry sea" in [[When Shooting Stars Fall#01 Distant Stars]]. Travel between these chunks, or "Plates", is difficult. It's the artificial core that prevents the Plates from drifting further apart--it literally holds the fragmented planet together.
 
 ## Geography
 The planet is comprised of chunks, called "Plates", held together by the artificial core. There's the vacuum of space between them, making travel difficult. Clear skies are a rarity ([[When Shooting Stars Fall]]).
 
 Known Plates:
 * [[Academy]] Plate, a small one ([[When Shooting Stars Fall]])
+
+# Timeline
+This is a WIP that I'll fill in as I gather more clues. Notably, the Philos timeline is fuzzy on purpose. Themes of [[branching timelines]] allow for different "versions" of Philos to be "superimposed" on one another. From a meta perspective, this allows the writers to tell the stories that will be most impactful without worrying too much about continuity. However, the events can still be situated in an overall timeline. Also, there's reason to believe that Philos itself is in a [[time loop]], as noted below.
+
+Another helpful concept here is Philos's Plates and unreliable narrators. The Plates are relatively separate (outer space between them) so Plates without access to space technology would be isolated from one another, and may develop contradictory histories, legends, and beliefs.
+
+For example, [[Academy MC]] understands that all Philosians are immortal--but this may be true only of the people on the Academy Plate and the adjacent Plate that Xavier came from.
+
+## Theory 1: Time Loop
+Tentative events:
+* Year 0: Philos is born from Earth. ([[When Shooting Stars Fall]])
+	* Philos is not in the same galaxy that Earth was. ([[WU-04 From The Stars#03 Waterfall Inside Forest]])
+	* Philosians are effectively immortal, unless they have specific health problems
+* Year 214: [[Academy MC]] and [[Xavier]] meet
+* Year 217: [[Academy MC]] dies
+* Era: The Age of Immortality ([[Shooting Stars]])
+	* This age can only be sustained by MC's repeated death in the planet's core.
+	* The same king rules for much of this time. Xavier is prince, but he ends up leaving the role to [[Queen MC]]
+	* [[Xavier's Trailer]] implies that Philos at some point gave up on immortality.
+		* ((Additionally, it maybe was always something reserved only for a select few, but this was not known to [[Academy MC]]. The other plates could be left to their own devices.))
+	* [[Gardener MC]] could also be from this era, especially since there's reference to the royal family. The [[Tower of Secrets]] itself is sort of "outside time" anyway.
+* Era: Of Dragons ([[Beyond Cloudfall]])
+	* The loss of immortality for humans and the awakening of deeper powers in [[Philos]] creates an opening for a war for power.
+		* Loose threads: There are references to Philosian ruins on Earth in semi-canonical contexts, like the event story for Touring in Love. Sylus's "soul letter" from the letter campaign seems to imply that some of their history lies in a scottish valley. But I'm inclined to take these as thematic elements of the [[converging timelines]] due to the [[Deepspace Tunnel]]--such as MC literally pulling elements from distant space-time into her current location, making the discovery of such ruins possible.
+	* Personal theory: Dragons arise in a similar way to Wanderers, but instead of having Protocores they have Dragon Cores.
+	* Dragons rule the land (or at least one Plate of Philos) until the "Battle of Tarus" where the last dragon (Sylus) is sealed in the Abyss.
+		* In [[Beyond Cloudfall]], we see that the historians of Philos are unreliable narrators. It's possible that the dragon age didn't last as long as they say, that the dragons were never so powerful, etc. It's also possible that they were. This is left vague intentionally.
+* Era: Humanity 2.0 ([[Beyond Cloudfall]])
+	* Humans are no longer immortal, but they restore the monarchy and their power structure. They build the [[Sanctuary]], found the [[Legion of Justitia]], etc.
+	* Years of war have eroded the technology that everyday humans have access to, and with the feudalism that started in the Age of Immortality, we see a regression to more medieval vibes and technology.
+		* During their plundering, MC and Sylus are able to access starships and have a star map, so the lair may be their inter-planetary base.
+* Era: Dying Planet ([[Sea of Golden Sand]])
+	* 30,000 years have passed since the creation of Philos.
+	* On at least one of the Plates, the seas have entirely dried up, turning to desert. (This is mirrored in [[Intertidal Zone]].)
+	* Humanity struggles onward, much of their past forgotten.
+* Event: The death of Philos.
+	* Eventually, Philos's core fails. The Plates drift off into cosmic dust. Anyone who hasn't escaped into other space-times dies.
+	* 300 Million years "later", the Deepspace Tunnel connects the remains of Philos to Earth in 2034.
+		* The reason for this could very well be MC herself, and her soul-connection to Philos: see also [[MC#Theories#MC and the Deepspace Tunnel]].
+	* The expired core of Philos inspires humanity to attempt to restore Earth, moving it through the [[Deepspace Tunnel]] and occupying Philos's former location, thus completing the [[time loop]].

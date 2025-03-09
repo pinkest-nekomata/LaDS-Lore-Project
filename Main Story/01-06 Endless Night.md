@@ -12,7 +12,7 @@ The next morning, [[Xavier]] confirms that the [[modified Protocore]] from [[No-
 ## Commentary
 The title "Endless Night" likely refers to the [[N109 Zone]], which [[MC]] learns about in this chapter. There's also the loop that the train is caught in, and a general connection to the concept of the "dark night of the soul" related to MC's grief at the loss of her family.
 
-# Scenes
+# Chapters
 * [[01-06.01 Legendary Lumiere]]
 * [[01-06.02 Late Night Encounter]]
 * [[01-06.03 Next Stop]]

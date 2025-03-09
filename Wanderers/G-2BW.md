@@ -1,0 +1,2 @@
+**Battle Description**
+> A modified [[Wanderer]]. It uses a special [[Evol]] Linkage capable of restraining a [[Wanderer]]'s [[Metaflux]]. A person can control this Wanderer by manipulating the linkage via Evol.

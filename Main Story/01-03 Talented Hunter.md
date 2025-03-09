@@ -9,7 +9,7 @@ After waiting several hours, [[MC]] ventures in anyway. She encounters [[Xavier]
 [[Xavier]] attributes this scheme to [[Onychinus]]. He then instructs MC to use her [[Resonance Evol]] on the [[Flux Nexus]]--this causes a [[modified Protocore]] to emerge. They return to HQ and learn that the modifications are beyond their current understanding of [[Protocore]]s.
 
 [[Jenna]] gives MC a choice of whether to join this mission--it will be dangerous, but her [[Resonance Evol]] could be instrumental. Xavier tries to discourage her from joining, but requests that if she does decide to, she should take him as her mission partner.
-# Scenes
+# Chapters
 * [[01-03.01 Order No. 85]]
 * [[01-03.02 No-Hunt Zone No. 7]]
 * [[01-03.03 Reunion Under Moon]]

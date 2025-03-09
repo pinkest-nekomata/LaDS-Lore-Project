@@ -70,4 +70,4 @@ On a case by case basis, I may have the bandwidth to collaborate. More likely, t
 I'm working from the English (EN) localization and voice-over, plus some translation notes here and there as I see them. I'll cite those notes when I'm able. I have a decent amount of exposure to/understanding of localization and related challenges, but sadly do not have any competence in Chinese (traditional or simplified), Japanese, or Korean directly.
 
 ## What's this about translation notes that can't be cited?
-There was a user, subtextually, who was active in the EN (English) fandom and was doing a fan translation project to provide a literal CN (Chinese) to EN translation for reference. Due to reasons that I am nowhere near qualified to summarize, they ended up deleting their accounts and removing their shared documents circa January 2025. I found some of the translation notes to be very interesting/helpful, so I reference those here or there from memory. Please take them with a grain of salt. If anyone has access to other CN translations, or wants to chip in, feel free to reach out!
+See: [[lost tr source]]

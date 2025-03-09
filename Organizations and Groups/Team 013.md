@@ -2,6 +2,6 @@
 > -- [[Passing By#01 Team 013]]
 
 Captain: [[Arthur]]
-Officers: [[Tommy]], [[Luke]]
+Officers: [[Tommy]], [[Luke (Officer)]]
 
 An [[Evol Police]] team active before the [[Chronorift Catastrophe]]. Self-identified as misfits and nobodies. [[Xavier]] was on this team and helped them remake their identity. ([[Passing By#01 Team 013]])

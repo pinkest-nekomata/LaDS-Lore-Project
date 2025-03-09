@@ -30,6 +30,8 @@ The wordplay in the CN localization is more clear, and even rhyme with each othe
 Due to [[Ever]]'s experimentation, the twins are able to share what they see with each other, speak to each other telepathically, and feel the other's pain.
 
 ## Differences
+Luke wears a gold hoop earring on the *right* horn of his mask and usually speaks first. Keiran wears the same earring on the *left* horn of his mask and usually speaks second. This helps us tell them apart and also ensures they "mirror" each other, which they wouldn't if the rings were on the same side for both of them.
+
 Luke likes to chew ice and has a thrill for the cold. Kieran has a hobby of making darts, and even learned how to incorporate [[Protocore]]s into them. ([[WU-10 Mischief#03 Trick]])
 
 One of the twins has scars on his face and body from his transformation, and [[WU-10 Mischief]] is careful to not say which twin. However, given the dialogue and thematic choices, it's most likely Kieran that's the one with the scars. (See also [[WU-10 Mischief#Commentary]])
