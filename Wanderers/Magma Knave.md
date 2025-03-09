@@ -1,0 +1,2 @@
+**Description**
+> Its origin can be traced back to volcanic activity. Its body is covered in hardened magma and contains lava that can erupt at any moment. Volatile and dangerous, it is always ready for a fight.

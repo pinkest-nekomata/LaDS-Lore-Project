@@ -10,6 +10,7 @@ See also [[!LI Foils Index]]
 * Normal human lifespan in main timeline
 * Demanding jobs that keep them busy
 * Worry for MC's safety, preferring her to have a less dangerous job
+* Intense pining
 
 # Contrasting traits
 

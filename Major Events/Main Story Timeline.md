@@ -31,4 +31,17 @@ Approx 6 mo time jump. MC was supposed to take 3 months to recover, but [[Zayne]
 
 6mo + 24 days: Events of the second part of [[01-07.04 Under The Waves]] through [[01-08.01 Bonfire]].
 
-There's potentially an unspecified time skip before [[01-08.02 Desecrated Soil]], which most likely happens on the Saturday before [[Hunting Day]]. Events through [[01-08.07 Stellar Guidance]] take place that same day and into the next morning, Sunday. [[01-08.09 Into Deep]] and [[01-08.10 Trap]] cover the actual events of [[Hunting Day]].
+There's potentially an unspecified time skip of no more than 3 weeks before [[01-08.02 Desecrated Soil]], which happens on the Saturday before [[Hunting Day]]. Events through [[01-08.07 Stellar Guidance]] take place that same day and into the next morning, Sunday. [[01-08.09 Into Deep]] and [[01-08.10 Trap]] cover the actual events of [[Hunting Day]].
+
+Hunting Day: Events through [[02-01.02 Alike]].
+
+Hunting Day + 3: Events through [[02-01.03 Cornered Beast]]
+
+Hunting Day + 4: MC wakes up in bed, [[02-01.04 Into Danger]] through [[02-02.06 Agreement]]
+
+Hunting Day + 5: [[Midnight Stealth]] into [[02-02.07 Roleplay]], through [[02-02.12 Resonance's Power]].
+
+
+At the end of [[02 Long Awaited Revelry]], it's probably late Feb/early March 2049.
+* Earliest time: 7mo from the start of the main story
+* Latest time: 7mo + 3 weeks from the start of the main story

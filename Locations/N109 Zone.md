@@ -23,4 +23,14 @@ With illicit trade and dangerous research, many of its activities are related to
 * [[Solon Hotel]]
 
 **Sylus's Spacepedia Entry**
-The leader of Onychinus is said to have built his empire on illegal [[Evol]] weapons and [[Protocore]] deals. He's the most influential, dominant figure in the [[N109 Zone]]. However, he hasn't been seen for a while.
+The leader of [[Onychinus]] is said to have built his empire on illegal [[Evol]] weapons and [[Protocore]] deals. He's the most influential, dominant figure in the [[N109 Zone]]. However, he hasn't been seen for a while.
+
+# Name Origin
+The in-game explanation is that there are 108 No-Hunt Zones. 109 is also a callback to the [[Beyond Cloudfall]] myth--Sylus mentions that humans have tried to kill him 108 ways. MC represents the 109th.
+
+> Occasionally, the dragon talks about himself. He speaks about the myriad of dragon-slaying weapons in his treasure trove and the 108 ways humans have tried to kill him.
+> -- [[Beyond Cloudfall - Ch 5]]
+
+Also note the symbolism of 108 in Chinese culture/fiction:
+> **108** (一百零八) – the number One Hundred and Eight is steeped in symbolism, particularly with regards to [religion](https://en.wikipedia.org/wiki/108_(number)#Religion_and_the_arts) and [martial arts](https://en.wikipedia.org/wiki/108_(number)#Martial_arts).
+> -- [ImmortalMountain](https://immortalmountain.wordpress.com/glossary/other-miscellaneous-terms/)

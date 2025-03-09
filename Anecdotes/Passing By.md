@@ -10,7 +10,7 @@ This anecdote details [[Xavier]]'s time as an [[Evol Police]] officer in the yea
 
 Initially, [[Xavier]] is hired as a new recruit to [[Team 013]]. The disgraced team has been relegated to the records room, which allows [[Xavier]] access to old files, which he'll eventually use to help out one of the [[Backtrackers]], [[Noah]].
 
-Xavier tries to keep a low profile, but endears himself to the small team. [[Arthur]] is the captain and [[Tommy]] and [[Luke]] are the officers. He tries to keep to his desk, but ends up becoming the team's "good luck charm" as he secretly apprehends criminals and delivers them to the team. 
+Xavier tries to keep a low profile, but endears himself to the small team. [[Arthur]] is the captain and [[Tommy]] and [[Luke (Officer)]] are the officers. He tries to keep to his desk, but ends up becoming the team's "good luck charm" as he secretly apprehends criminals and delivers them to the team. 
 
 He then fakes his own death and has a brief encounter with [[Isaiah]] before vanishing again. His next stop will be to see [[Jeremiah]], as detailed in [[WU-04 From The Stars]].
 
@@ -25,7 +25,7 @@ There's also an encounter with [[Isaiah]], one of the traitors of the [[Backtrac
 > Sixteen Years Ago. Spring. Prior to [[Arthur]]'s memory decaying to a point where he couldn't remember anything.
 * 2032, a little over two years before the [[Chronorift Catastrophe]]
 
-It's shortly after the lunar new year. [[Bloomshore District]]'s special task force, [[Team 013]], is welcoming their first new recruit in five years. He has the rare [[Light Evol]], but only does utility and scouting work. [[Luke]] and [[Tommy]] discuss how their department is a dead end.
+It's shortly after the lunar new year. [[Bloomshore District]]'s special task force, [[Team 013]], is welcoming their first new recruit in five years. He has the rare [[Light Evol]], but only does utility and scouting work. [[Luke (Officer)]] and [[Tommy]] discuss how their department is a dead end.
 
 [[Arthur]] hears this with mixed emotions. He's been a police officer for sixteen years and captain of this team for nine. An injury five years ago knocked him off track, but now that he's recovered, he wants to use this new recruit to refresh the team.
 
@@ -44,9 +44,9 @@ Their next mission is someone they've gone after before--an Evol hallucinogen de
 
 [[Xavier]] goes undercover, using the name "Bob" to try to get a job. The bathhouse's owner, Roman, decides he should go by "Christian" instead and hires him. Xavier soon gets an opportunity to meet [[Lawrence]], who's there for a massage. 
 
-[[Xavier]] pretends to start the massage, then uses his knowledge of pressure points to pin [[Lawrence]] down with extreme pain and ask about his supply. Lawrence cries out, and his guards come in to stop Xavier. But Xavier reveals the strength of his Evol at this point, knocking them all out and holding Lawrence at sword-point. When [[Luke]] arrives to help, Xavier plays dumb, and pins the victory on [[Luke]].
+[[Xavier]] pretends to start the massage, then uses his knowledge of pressure points to pin [[Lawrence]] down with extreme pain and ask about his supply. Lawrence cries out, and his guards come in to stop Xavier. But Xavier reveals the strength of his Evol at this point, knocking them all out and holding Lawrence at sword-point. When [[Luke (Officer)]] arrives to help, Xavier plays dumb, and pins the victory on [[Luke (Officer)]].
 
-Two weeks later, there's a commendation ceremony, where [[Luke]] awkwardly takes credit for [[Xavier]]'s work. After that, a string of mysterious apprehensions occurs. Criminals are found tired up outside the station, or confess on livestreams. ((This is implied to be [[Xavier]]'s doing.))
+Two weeks later, there's a commendation ceremony, where [[Luke (Officer)]] awkwardly takes credit for [[Xavier]]'s work. After that, a string of mysterious apprehensions occurs. Criminals are found tired up outside the station, or confess on livestreams. ((This is implied to be [[Xavier]]'s doing.))
 
 The team has found their fighting spirit again. Tommy and Luke are offered transfers, but refuse, chalking their success up to luck. And [[Xavier]] is their good luck charm. There's an unspoken agreement to keep his secret.
 

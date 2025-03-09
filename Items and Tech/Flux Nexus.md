@@ -15,3 +15,6 @@ Known locations:
 
 # Spacepedia
 A device resembling a rock sculpture. Its a totem embedded with diamonds. According to [[Xavier]], it can capture [[Metaflux]] and even resurrect [[Wanderer]]s.
+
+# Trivia
+* The Flux Nexuses are initially described as steles, which are a common touchpoint in Chinese culture often found at temples, tombs, and other important areas. ([Wikipedia](https://en.wikipedia.org/wiki/Stele#China))

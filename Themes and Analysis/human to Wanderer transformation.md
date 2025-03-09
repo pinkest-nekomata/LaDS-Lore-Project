@@ -1,5 +1,9 @@
-> "It wore human clothing and bore a human-like visage, but its veiny skin grotesquely bulged. Its pupils glowed a sinister, unnatural blue; its aura was anything but human."
+> It wore human clothing and bore a human-like visage, but its veiny skin grotesquely bulged. Its pupils glowed a sinister, unnatural blue; its aura was anything but human.
 > -- [[Still In Dark]]
+
+> Then I hear the crackling of something burning. Yet the figures don't cry out. They don't even stop for a second.
+> Amidst the blue firelight, I see their faces--Under the corroded, crystallized skin, they seem to have human faces... They resemble humans more than [[Wanderer]]s.*
+> -- [[MC]] POV, [[02-02.04 The First Deal]]
 
 
 # Transformation

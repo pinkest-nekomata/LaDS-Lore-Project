@@ -30,15 +30,14 @@ The twins then find a page of their experiment record, which is reproduced in fu
 
 They learn that due to a rejection reaction to the [[Protocore]]s they were exposed to, "transformation" is likely within three months, which is synonymous with death. ((This will later be shown to connect to the other [[human to Wanderer transformation]]s, and the [[black crystals]].))
 
-As the twins discuss this, they reveal that the "younger one of the 303 twins... Phi- something" lived beyond his lifespan estimate. ((This is likely [[Philip]].))
+As the twins discuss this, they reveal that the "younger one of the 303 twins... Phi- something" lived beyond his lifespan estimate. ((This is [[Philip]].))
 
 They decide to go out with a bang. Realizing they're next to the [[N109 Zone]], they remember researchers mentioning [[Sylus]] as a dangerous [[Protocore]] smuggler, "that ruthless boss of [[Onychinus]]". Luke suggests they try to kill him. Kieran laughs at first, but Luke insists that getting killed by [[Sylus]] is better than transforming. Kieran ponders, then agrees.
 
 # 02 Rumor
 Over the next two weeks, the twins gather intel on Sylus. The most useful bit of information is that [[Sylus]] has a permanent luxury suite at [[Solon Hotel]], and this tidbit:
 > "They say he doesn't have a fixed appearance. He wears a new face every day. No one has ever seen his real appearance."
-* This is notable because of its similarity to something [[Sylus]] mentions in [[Beyond Cloudfall]]--others generally see something based on their own expectations, not his "true" appearance.
-* ((It could explain why [[Sylus]] is able to be active in [[Linkon]] without causing trouble, and why it sometimes takes people a while to realize it's him. However, the writers are generally consistent when describing [[Sylus]]'s appearance from multiple character POVs, and he could have kept his identity secret simply by being reclusive. It may be that this truly is just a rumor, but is a wink at [[Beyond Cloudfall]]. So, this remains inconclusive.))
+* ((This is a wink at what Sylus says in [[Beyond Cloudfall - Ch 4]]--Everyone sees something different when they look at a fiend, and it's a reflection of their own hearts. In the main story, Sylus's appearance is written consistently across character POVs. His same comment is a clue as to how he can get away with this--the vast majority of people just wouldn't expect that Onychinus's leader would casually walk around Linkon, for example.))
 
 The twins hide out in a vacant space that's "not too dilapidated" and note how quickly new acquaintances appear and disappear. "Death is only a matter of time." They meet friends one day only to learn they died two blocks over the next.
 

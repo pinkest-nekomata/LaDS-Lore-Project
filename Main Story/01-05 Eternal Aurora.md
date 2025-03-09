@@ -8,7 +8,7 @@ Once there, MC learns a little bit more about her past from [[Dr. Noah]]--especi
 
 [[MC]] and [[Zayne]] watch the aurora together, and [[Zayne]] shares that a friend of his died in "an accident" on [[Mt Eternal]] during the [[Mt Eternal incident]]. The next morning, they part ways--MC heading back to [[Linkon]] to continue her investigation, and [[Zayne]] heading into [[Mt Eternal]] for undisclosed reasons.
 
-# Scenes
+# Chapters
 * [[01-05.01 Unspoken Secret]]
 * [[01-05.02 Snow-Kissed Coffee]]
 * [[01-05.03 Beyond Expectations]]

@@ -6,7 +6,7 @@ Associated Companion: [[Xavier - Distant Youth]]
 The tragic story of [[Xavier]]'s first meeting with MC's soul unfolds at the [[Academy]] in future-[[Philos]].
 
 ## Summary
-This story is set in future-[[Philos]], on the Plate with the [[Academy]]. [[Academy MC]] is a student with the [[Resonance Evol]] and [[Protocore Syndrome]], which is a terminal diagnosis. She hides this from her crush, the mysterious [[Xavier]], who is constantly surrounded by bodyguards. They first meant in the year 214--which means it had been 214 years since Earth died and was reborn as [[Philos]], a planet of fragmented Plates separated by the vacuum of space and held together by the planet's powerful artificial core.
+This story is set in [[Philos]], on the Plate with the [[Academy]]. [[Academy MC]] is a student with the [[Resonance Evol]] and [[Protocore Syndrome]], which is a terminal diagnosis. She hides this from her crush, the mysterious [[Xavier]], who is constantly surrounded by bodyguards. They first meant in the year 214--which means it had been 214 years since Earth died and was reborn as [[Philos]], a planet of fragmented Plates separated by the vacuum of space and held together by the planet's powerful artificial core.
 
 [[Xavier]] and [[Academy MC]] work around the interruptions of [[Xavier]]'s bodyguards to slowly get to know each other better. [[Academy MC]] asks him to see a meteor shower with him, knowing she won't live long enough to see the next one. He agrees, but before they can go, MC faints and is forced to tell him about her heart condition.
 

@@ -8,4 +8,4 @@ On the day of the explosion, a news report heard in [[01-04.01 Family]] indicate
 
 However, [[WU-06 Sealed In Dust]] reveals that [[Ever]] is behind the explosion, and that the [[duckbill cap man]] that [[MC]] saw in [[01-04.02 Interlude]] is the direct culprit. His job was to kill Josephine and deliver [[Josephine's secret notes]] to [[Raincoat 2]], one of Ever's goons.
 
-In [[02 Long Awaited Revelry]], [[Philip]] reports that only two of the explosions were [[Ever]]'s doing. (Details TBA, #todo) This means that [[Ever]] was capitalizing on the [[Metaflux]] explosions as a cover. Notably, none of the [[Metaflux]] explosions were deadly.
+In [[02-01.06 Resonance and Shackles]], [[Philip]] reports that only two of the explosions were [[Ever]]'s doing--the [[Bloomshore District explosion]] and one in the [[northern suburbs]]. This means that [[Ever]] was capitalizing on the [[Metaflux]] explosions as a cover. Notably, none of the [[Metaflux]] explosions were deadly.

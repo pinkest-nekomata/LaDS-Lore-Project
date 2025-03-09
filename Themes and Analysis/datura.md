@@ -1,0 +1,3 @@
+The thematic flower of [[Sylus]] and [[MC]]'s relationship.
+
+All flowers in this genus are extremely poisonous and psychoactive. The flowers can be hallucinogenic and also induce psychosis, tying them to madness. They've been used as ritual hallucinogens and are connected to witchcraft and sorcery. Common names reflect this, like "devil's trumpet" and "devil's weed". ([Wikipedia](https://en.wikipedia.org/wiki/Datura))

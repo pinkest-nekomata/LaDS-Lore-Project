@@ -3,5 +3,5 @@
 [[Xavier]] presents this to [[MC]] in [[01-03.04 Maze]], asking if it looks familiar. MC reports that it does not. He informs her she'll see it on the [[Flux Nexus]].
 
 Conjecture:
- * This symbol appears on the [[Flux Nexus]]es, and may be related to [[Philos]] ( #todo )
+ * This symbol appears on the [[Flux Nexus]]es, and is related to [[Philos]] via the similar circular design in Philosian [[Protofield]]s. ([[Hunter Trivia - Protofields]])
  * This is a pattern or symbol from their shared past, and Xavier has recognized MC by this point and is trying to see how much she remembers.

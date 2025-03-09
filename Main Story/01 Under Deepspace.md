@@ -1,3 +1,4 @@
+*Introduces the original three love interests: [[Xavier]], [[Zayne]], and [[Rafayel]]*
 # Summary
 [[MC]] becomes a [[Deepspace Hunter]] and takes on her first mission. In the process, she meets [[Xavier]], a deepspace hunter and her mysterious mission partner, and [[Rafayel]], an artist who's been implicated in the odd behavior (and later death) of an art collector, [[Raymond]]. Along the way, [[MC]] checks in with [[Zayne]], her childhood friend and primary care physician. We learn that she has [[Protocore Syndrome]], caused by [[Protocore fragments]] around her heart, yet she's decided to take on the dangerous job as a hunter anyway.
 
@@ -9,7 +10,7 @@ Finally, her weariness catches up with her, and she ends up falling asleep at th
 
 Once she's home, [[MC]] opens the box to find [[Josephine's notes]]--experimental records about her as a test subject. With her world turned upside down, MC reaches back to [[Zayne]] for more answers, and he suggests they head to the [[Arctic]] to ask [[Dr. Noah]], MC's first cardiologist.
 
-Once in the [[Arctic]], [[Dr. Noah]] explains that [[Grandma]] was a researcher. Since [[Dr. Noah]] never saw any evidence of prior surgery in [[MC]]'s exams, his best guess is that the [[Aether Core]] next to her heart is something innate to her. However, he cautions here that there are many powerful people who would want it, so she should avoid sharing this secret with others.
+Once in the [[Arctic]], [[Dr. Noah]] explains that [[Grandma]] was a researcher. Since [[Dr. Noah]] never saw any evidence of prior surgery in [[MC]]'s exams, his best guess is that the [[Aether Core]] next to her heart is something innate to her. ((This is confirmed in [[Josephine's secret notes]].)) However, he cautions here that there are many powerful people who would want it, so she should avoid sharing this secret with others.
 
 Back in [[Linkon]], MC tries to research [[Onychinus]], a mysterious organization in the [[N109 Zone]] that's responsible for the [[modified Protocore]]. Furthermore, MC concludes something that even the [[Hunters Association]] cannot: based on information in [[Josephine's notes]], the protocores must have been modified with an [[Aether Core]], meaning [[Onychinus]] has one.
 
@@ -25,7 +26,10 @@ Thus prepared, [[MC]] heads to [[The Nest]] for [[Hunting Day]]. Her plan to get
 
 Meanwhile, [[Rafayel]] discusses his own deal with the [[mysterious Ever representative]].
 
-# Chapters
+## Commentary
+* "Under Deepspace" refers to the [[Deepspace Tunnel]] over [[Linkon]], and this segment establishes the stakes and circumstances of the series, as well as the three original LIs.
+
+# Parts
 * [[01-01 To Begin]]
 * [[01-02 The First Mission]]
 * [[01-03 Talented Hunter]]
@@ -33,10 +37,7 @@ Meanwhile, [[Rafayel]] discusses his own deal with the [[mysterious Ever represe
 * [[01-05 Eternal Aurora]]
 * [[01-06 Endless Night]]
 * [[01-07 Moonlight Under Sea]]
-
-## Commentary
-* "Under Deepspace" refers to the [[Deepspace Tunnel]] over [[Linkon]], and this segment establishes the stakes and circumstances of the series, as well as the three original LIs.
-# All Scenes
+# All Chapters
 [[01-01 To Begin]]
 * [[01-01.00 Singularity Echo]]
 * [[01-01.01 Deepspace Hunter]]
