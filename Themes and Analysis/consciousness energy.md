@@ -1,0 +1,6 @@
+From the [[Public Account]] post [[The Enduring, Death-Defying Consciousness!]]:
+> Several scholars propose that since brain waves have been proven to generate energy, our cognitive activity, such as awareness, memories, and thoughts, could potentially be stored in the universe as energy [[fluctuation]]s. Even after the physical body dies, this "[[consciousness energy]]" persists, though it may also decay, transform, become forgotten, or overlap with new ideas. This might be why we can't remember past lives.
+
+> These discussions seem to provide answers to phenomena such as memories of past lives, déjà vu, or love at first sight. Maybe past lives do exist, and those unexplainable feelings of familiarity might be the faint energy traces left by our past selves.
+
+Notably, the [[To Understand the Deepspace Tunnel]] article specifically describes the tunnel as containing energy [[fluctuation]]s, and potentially transmitting Deepspace signals. A plausible and literal interpretation of this is that [[MC]]'s memories--her previous consciousness energy--is literally being brought to this single space-time point via the [[Deepspace Tunnel]].

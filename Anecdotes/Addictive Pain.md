@@ -18,7 +18,7 @@ The World Underneath story [[WU-08 Micro Universe]] also references [[Rafayel]]'
 # 01 Ignition
 It's a tranquil summer in [[Linkon]] City. But then a masterpiece called *Illusion* goes viral, making its painter, [[Rafayel]], instantly famous.
 
-After the exhibition, journalists descend on Rafayel. Notably, one asks about the "sudden decision to return to your homeland" and another says "Some speculate that you're actually royalty from a certain maritime civilization" (i.e. [[Lemuria]]). When one asks why he decided to come to Linkon, he says "[[Linkon]] City and the people within it invoke [sic, should be "evoke"] a sense of wonder for me." ((Notably, we soon learn he's here for [[MC]], adding meaning to his next responses.))
+After the exhibition, journalists descend on Rafayel. Notably, one asks about the "sudden decision to return to your homeland" and another says "Some speculate that you're actually royalty from a certain maritime civilization" (i.e. [[Lemuria]]). When one asks why he decided to come to Linkon, he says "[[Linkon]] City and the people within it invoke \[sic] a sense of wonder for me." (Should be "evoke" not "invoke".) ((Notably, we soon learn he's here for [[MC]], adding meaning to his next responses.))
 
 They ask him to describe the feeling, and he describes it as "spice smeared on your hand, on the tip of your tongue." Musing to himself, he elaborates:
 > Only he knows it's not a matter of taste, but a sense of perception.
@@ -51,12 +51,13 @@ Rafayel warns him to keep his distance and not do anything unnecessary, then inc
 > She is only bait, disguised as a [[tiny red fish]].
 
 He muses that she might be nearby and he hasn't seen her yet, also noting:
-> No matter where she is, her aura has already attracted too many predators that don't belong in these waters. [...] there might be someone lurking in the shadows, using her as bait to capture him.
+> No matter where she is, her aura has already attracted too many predators that don't belong in these waters. \[...] there might be someone lurking in the shadows, using her as bait to capture him.
 
 Rafayel decides he has plenty of time to take it slow and safe:
 > He wants to settle the score with her, bit by bit, slowly and steadily.
 > At this thought, a deep-seated pain stings his heart, gradually seeping down, permeating his entire being. This process is undeniably painful, yet it's addictive.
-* This is a reference to the events of [[Forgotten Sea]], and the [[Lemurian disaster]] also mentioned in [[WU-03 Bouquets and Dirges#02 Wedding]].
+* This is a reference to MC's [[forgotten promise to Rafayel]], confirmed when he mentions a plan to "settle the score" in [[03-B Land of Secret Flames - 12]]
+* It *may* also be a reference, or at least a narrative parallel, to the events of [[Forgotten Sea]], and the [[Lemurian disaster]] also mentioned in [[WU-03 Bouquets and Dirges#02 Wedding]].
 
 There's a scoreboard nearby, and a picture of [[MC]] happens to be there. Though she's older than when he saw her during the [[forgotten promise to Rafayel]], "her eyes still twinkle with the same mirth as they always had."
 

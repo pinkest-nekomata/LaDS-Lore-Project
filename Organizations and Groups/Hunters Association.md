@@ -22,6 +22,8 @@ The association was created on January 1st, 2035, approx 6mo after the [[Chronor
 * [[Linkon]] City Chapter
 	* [[UNICORNS]]
 * [[Arctic Team]] (see [[Arctic Hunter]])
+* [[Chansia Branch]]
+* [[Skyhaven Branch]]
 
 ## Trivia
 * Hunters are assisted by an [[OTTO]]-CSE model, which can even dispense medications according to a hunter's needs, as determined by the data on their [[Hunter's Watch]]. It has an adorable voice. ([[01-02.01 In UNICORNS]])

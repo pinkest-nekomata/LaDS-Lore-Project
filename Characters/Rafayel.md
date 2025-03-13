@@ -24,6 +24,16 @@ Then a day later in [[01-02 The First Mission]], she investigates the painting o
 
 Based on their conversation in [[01-07.04 Under The Waves]], she'd forgotten about their bodyguard arrangement at this point. This implies that in the main story timeline, any memories in which Rafayel refers to their bodyguard arrangement would be after [[01-07.04 Under The Waves]], and so also over 6mo after [[Grandma]]'s death. Alternatively, she may have forgotten multiple times.
 
+# Childhood
+WIP -- more details to incorporate.
+* [[Rafayel]] mentions elements of his [[Lemurian]] childhood in several memories
+	* He remembers a [[Seamoon Ceremony]] with his Mother, but this could have happened after Lemuria fell. By the main story, his parents are both dead, which seems inconsistent with him actually being born ~25 years ago
+* [[forgotten promise to Rafayel]] seems to clearly indicate they were both children at the time
+* [[Lemuria]] was in ruins at this point--so it seems the only way he could have childhood memories of living underwater with [[Lemurian]]s is from his original childhood as the [[Sea God]].
+* In [[Sea of Golden Sand]], [[Rafayel]] also overlaps with [[MC]] during childhood, meaning he was "reborn" then too.
+* Lemurians are immortal due to their blood.
+* Rafayel ends up losing the "heart of the sea god" (he gives it to MC) in [[Forgotten Sea]]--could this affect his immortality?
+
 # Trivia
 * Despite being a [[Lemuria]], [[Rafayel]] easily gets seasick ([[01-07.05 Set Sail]]) and motion sick ([[Intertidal Zone]]).
 * Like a true fishie, he's afraid of cats. ([[01-07.08 Weak Fiends]])

@@ -29,6 +29,8 @@ Unspecified
 * [[West Garden Station]]
 * [[Linkon Cloud Train Terminal]]
 * [[Soaria Financial Hub]]
+* [[Linkon Bridge]]
+* [[Silver Screen Hotel]]
 
 Suburbs and surrounding areas
 * [[southeastern suburbs]]

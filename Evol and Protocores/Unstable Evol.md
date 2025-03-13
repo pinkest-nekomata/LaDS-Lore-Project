@@ -1,0 +1,2 @@
+> This rare condition, known as [[Unstable Evol]], typically emerges when one overuses their Evol. It subsides when the Evolver calms down. However, if the Evol is inherently aggressive, it can harm them. Currently, there's no definitive medical treatment for this.
+> -- [[Super Hunters Missions]]

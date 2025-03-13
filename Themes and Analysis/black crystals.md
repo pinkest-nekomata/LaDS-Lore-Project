@@ -5,6 +5,9 @@
 > [[Georgie]] lowers his head, seeing blackened ice bloom like a flower on his chest.
 > -- [[Still In Dark]], as [[Zayne - Dawnbreaker]] kills him with black ice when he turns into an Abomination
 
+> "His biopsy results show that the crystals in his heart have a certain shape and structure that's different from the ones you'd see with [[Protocore Syndrome]]. Also... when he was admitted to the hospital, he caused a [[Metaflux]] burst."
+> -- Greyson, [[03-A Thorns Under the Moon - 03]], about a [[Chansia Hospital]] patient.
+
 See also [[Zayne's death theme]] and [[human to Wanderer transformation]].
 
 # Dual meaning

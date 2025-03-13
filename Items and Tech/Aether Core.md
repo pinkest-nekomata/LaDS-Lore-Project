@@ -3,6 +3,12 @@
 
 > "Aether was originally something philosophers came up with--the fifth element, so to speak." 
 > -- [[Dr. Noah]], [[01-05.07 Aether Core]]
+
+> My hand touches my chest, the warmth pulsing like another heartbeat.
+> -- [[MC]] POV, [[03-01.01 Imbalance]] (After her [[Aether Core]] is whole again)
+
+> "Their power comes from the very core of the cosmos. If fully awakened, they would spell disaster for the world."
+> -- [[Xavier]], [[03-C Voyage of the Outcast - 01]]
 # Spacepedia
 For reasons unknown, the Protocore that resides within my heart is a secret known to only a select few.
 Aether Cores, their power surpassing that of a regular [[Protocore]], attracts anyone aware of their existence. Maybe it has something to do with [[Grandma]]'s past and what happened to my family...

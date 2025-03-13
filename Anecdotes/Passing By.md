@@ -106,7 +106,7 @@ Xavier draws all the surrounding light to himself--the street lights, search lig
 
 "You can guess how I'll erase our traces," Xavier says, and releases the light, sending a brilliant flash and streaks like shooting stars across the sky.
 
-[[Arthur]] gets an alert about the explosion. They got a tip that a dangerous criminal, [[Grey Hawk]] is there and they find him shivering in the snow. When he arrives, [[Arthur]] finds out that [[Xavier]] was "trapped" in the fire. They find his gun and ID, and declare him dead in winder of 2033, having sacrificed himself on a solo mission to apprehend the wanted criminal [[Grey Hawk]].
+[[Arthur]] gets an alert about the explosion. They got a tip that a dangerous criminal, [[Grey Hawk]] is there and they find him shivering in the snow. When he arrives, [[Arthur]] finds out that [[Xavier]] was "trapped" in the fire. They find "a police gun designated ST-[[1101]]" and ID, and declare him dead in winder of 2033, having sacrificed himself on a solo mission to apprehend the wanted criminal [[Grey Hawk]].
 
 (([[Xavier]] is with [[Jeremiah]] by summer of 2033, as detailed in [[WU-04 From The Stars]].))
 

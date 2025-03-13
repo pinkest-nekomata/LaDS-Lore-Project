@@ -1,4 +1,4 @@
-Full headline:
+[[Public Account]] post:
 > The winner of the Patients' Favorite Doctor category is [[Zayne]], a cardiac surgeon.
 
 # Key Info

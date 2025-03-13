@@ -43,5 +43,14 @@ Hunting Day + 5: [[Midnight Stealth]] into [[02-02.07 Roleplay]], through [[02-0
 
 
 At the end of [[02 Long Awaited Revelry]], it's probably late Feb/early March 2049.
-* Earliest time: 7mo from the start of the main story
-* Latest time: 7mo + 3 weeks from the start of the main story
+* Earliest time: 7mo from the start of the main story (Late Feb 2049)
+* Latest time: 7mo + 3 weeks from the start of the main story (Early March 2049)
+
+Between [[02 Long Awaited Revelry]] and [[03 Prologue To Tomorrow]], there's a two month time skip.
+* Earliest time: 9mo from the start of the main story (Late Apr 2049)
+* Latest time: 9mo + 3 weeks from the start of the main story (Early May 2049)
+	* However, [[03-C Voyage of the Outcast - 02]] specifically notes the season as autumn, meaning it would be September at the earliest. #todo
+
+The shortest amount of time the events of [[03 Prologue To Tomorrow]] could take is approx 16 days. Ignoring the mention of autumn:
+* Earliest time: 9.5 mo from the start of the main story (Mid May 2049)
+* Latest time: 10.25 mo from the start of the main story (Late May 2049)

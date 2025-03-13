@@ -5,3 +5,5 @@ This is a recurring theme in [[01 Under Deepspace]]. MC puts two and two togethe
 * The [[patrol robot]]s that they then take out in [[01-08.03 Luminous Veil]]
 
 In [[WU-06 Sealed In Dust#06 Dust]], the [[duckbill cap man]], who's confirmed to be one of the [[Backtrackers]] who turned traitor, refers to Xavier being "busy dealing with his own issues", hinting at [[duckbill cap man]] being involved in these traps.
+
+[[03-C Voyage of the Outcast - 09]] suggests that [[Soren]] may be responsible.
