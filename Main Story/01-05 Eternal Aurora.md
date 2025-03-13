@@ -1,6 +1,6 @@
 # Summary
 
-[[MC]] reads [[Josephine's notes]] and finds out that she was a test subject and that the [[Protocore fragments]] in her heart don't belong to a normal [[Protocore]], but to an [[Aether Core]]. She asks [[Zayne]] for more information, and he suggests visiting [[Dr. Noah]], MC's first cardiologist.
+[[MC]] reads [[Josephine's notes]] and finds out that she was a test subject and that the [[Protocore fragment]]s in her heart don't belong to a normal [[Protocore]], but to an [[Aether Core]]. She asks [[Zayne]] for more information, and he suggests visiting [[Dr. Noah]], MC's first cardiologist.
 
 Along the way, [[MC]] and [[Zayne]] run into each other, and learn that [[Wanderer]]s have attacked the [[[Arctic dispatch center]], halting the train schedule. After helping [[Arctic Hunter]]s deal with some [[Wanderer]]s, they borrow a [[SnowDog]] and make it to [[Snowcrest]].
 

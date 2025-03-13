@@ -7,6 +7,7 @@ Sectors:
 * [[Alpha Team]]
 * [[Data Analysis]]
 * [[Armament Tech]]
+* [[Intel Department]]
 
 # Other Info
 

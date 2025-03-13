@@ -22,3 +22,5 @@ From [[Never-Ending Winter#04 Through Troubled Times]]:
 	* Or, he saw her in his dreams before he met her, and he dreamed of becoming a "threat to her"? And then met her during the Catastrophe?
 	* #todo look for clues in key Zayne memories
 
+The [[Super Hunters Missions]] article identifies this issue as [[Unstable Evol]].
+

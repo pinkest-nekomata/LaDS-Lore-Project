@@ -68,3 +68,21 @@ After the vision she had before resonating with Sylus, MC begins to remember "an
 
 ### Entwined timelines
 See also [[converging timelines]].
+
+# End of Prologue to Tomorrow
+From [[03-01.04 No Ends]]:
+Storm clouds rage and the sky dims. [[The giant red eye]] looks down from above--this time, it resembles both a nebula and a mechanical lens. Wind swirls, and buildings seem to disintegrate around it. The following text appears:
+> Again...?!
+> My heart responds to that eye...
+> The world around me fades
+> But the call I hear becomes clearer
+> It's behind that
+> Somewhere in the distance...
+> Lies the power of [[Aether Core]]
+
+## Commentary
+
+### The eye
+So far, [[the giant red eye]] theme started with a mechanical-seeming eye that resembled a [[patrol robot]], and was echoed in a nebula-like eye that occurs when [[Sylus]] uses his power. This time, we see an eye that resembles both a mechanical lens and a nebula, and we see it clearly across the sky. Given the ominous, foreboding nature, it's fair to consider whether this is connected to the [[cosmic heartbeat]] as well. In [[03-C Voyage of the Outcast]], [[Xavier]] says the [[Aether Core]]s power come from "the core of the cosmos", which seems to be hinted at here.
+
+#todo check if the fragment is found in [[Skyhaven]]

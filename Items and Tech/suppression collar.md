@@ -11,3 +11,5 @@ From [[WU-07 With Light#04 Has the Light Vanished?]]:
 [[Xavier]]'s [[Evol]] power is limited by a neck suppression collar. He first got this collar in [[When Shooting Stars Fall]], after defying his controlling family in an effort to help [[Academy MC]].
 
 The [[Hunters Association]] was able to at least increase the threshold, but [[Xavier]]'s full power level is still limited.
+
+[[03-C Voyage of the Outcast - 10]] hints that MC's power, especially with the [[Aether Core]], can temporarily override this limit.

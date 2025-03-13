@@ -1,0 +1,1 @@
+It's briefly mentioned that alpha-P0159 (the planet ID that becomes [[Philos]]) has its Sterre Energy depleted. Sterre is an Old English antecedent for the word Star ([Etymology Online](https://www.etymonline.com/search?q=star)), but given how [[celestial bodies in CN]], this can also be understood as its planetary energy.

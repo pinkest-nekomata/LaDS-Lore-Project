@@ -1,0 +1,1 @@
+A term for the unique [[Protocurve]] identified in [[03-01.02 New Discovery]] linked to the rumors of a second [[Aether Core]] (the [[Spatium Core]]) and spatial anomalies. All the [[Wanderer]]s involved in the anomalies had [[Protocore]]s with this type of [[Protocurve]], which is capable of distorting space.

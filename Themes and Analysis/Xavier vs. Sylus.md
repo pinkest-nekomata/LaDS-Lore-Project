@@ -2,7 +2,7 @@
 
 See also: [[!LI Foils Index]]
 # Shared traits
-* From [[Philos]]
+* From [[Philos]] (and the future)
 * Effectively immortal
 * Light-haired
 * Traveled across space and time to find [[MC]]
@@ -13,6 +13,7 @@ See also: [[!LI Foils Index]]
 * God-like theming
 	* Xavier with the sleepy god trope
 	* Sylus with the dragon god trope
+* Odd sleeping habits/sleeping during the day
 # Contrasting traits
 
 | Xavier                                                                                                 | Sylus                                                                                                                               |
@@ -28,3 +29,4 @@ See also: [[!LI Foils Index]]
 | Power limited externally ([[suppression collar]])                                                      | Power limited internally, mostly by exercising restraint ("violence should be used strategically") and also by an 'internal tether' |
 | Hides his true power level from others, keeps to the sidelines usually                                 | Sometimes flaunts his power to control and influence others, comfortable in the spotlight                                           |
 | Able to resonate the first time they meet                                                              | Resonance is an ongoing struggle                                                                                                    |
+| Warns MC not to use the power of the [[Aether Core]], that it's too unpredictable and dangerous        | Helps MC complete her [[Aether Core]], encourages her to use her power.                                                             |

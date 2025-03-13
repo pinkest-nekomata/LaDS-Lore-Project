@@ -8,7 +8,7 @@ The researchers decided to "kill" [[MC]] again, and though Josephine was conflic
 
 Each time [[MC]] dies, she loses all her memory and cognitive skills and has to relearn them, though she's a particularly fast learner and her abilities quickly surpass those of other children her age. Given how tight the overall timeline is, this happens within days at most.
 
-Before the experiment can continue, the [[Chronorift Catastrophe]] occurs. [[MC]] escapes, and Josephine finds her a few days later at the shelter. From here, Josephine decides to take on the responsibility of raising her. MC's memory is unstable, but gradually improves.
+Before the experiment can continue, the [[Chronorift Catastrophe]] occurs. [[MC]] escapes, and Josephine finds her a few days later at the shelter. From here, Josephine decides to take on the responsibility of raising her. MC's memory is unstable, but gradually improves. See also [[MC's memory problems]].
 
 Josephine hopes to check in on the [[Aether Core]] to make sure [[MC]] is actually alright. Notably, the energy value is only half of what it was before the catastrophe, and Josephine wonders if something happened to MC when she was alone in the chaos.
 
