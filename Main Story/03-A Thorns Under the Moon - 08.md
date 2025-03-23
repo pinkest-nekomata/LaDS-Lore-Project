@@ -1,9 +1,11 @@
 # Summary
-[[MC]] and [[Zayne]] attempt to locate the edge of the [[Protofield]], but their path is blocked by a black [[Protocore Cluster]]. Using her [[Resonance Evol]], MC is able to determine that the other cluster is on the opposite side of the Protofield. Zayne initially wants to be the one to take the longer journey, but [[MC]] convinces him to stay by reminding him that since this is his dream, he's more vulnerable here.
+[[MC]] and [[Zayne]] attempt to locate the edge of the [[Protofield]], but their path is blocked by a black [[Protocore Cluster]]. Using her [[Resonance Evol]], MC is able to determine that the other cluster is on the opposite side of the [[Protofield]]. Zayne initially wants to be the one to take the longer journey, but [[MC]] convinces him to stay by reminding him that since this is his dream, he's more vulnerable here.
 
 [[MC]] sets out, and [[Zayne]] is left to fight the [[Wanderer]]s that emerge from the [[Protocore Cluster]]. But the [[Protofield]] also seems to give rise to elements from his nightmare--ghosts of [[William]], [[Georgie]], and Georgie's mother first ask him why he didn't save them, then beg him to kill them.
 
 [[Zayne]] sinks deeper into cold despair, his ice starting with a stalwart layer of white ice around the outside, but then becoming the black ice usually wielded by Dawnbreaker as he cuts the illusions down. Finally, the [[Protocore Cluster]] is destroyed--[[MC]] successfully reached the other one.
+
+Mirrors of ice surround him, and he goes to cut down one last humanoid figure--only it's MC, and [[black ice]] blossoms from her chest. (([[black crystal flower]]))
 
 But then ice rises to encase him, and he hears a cold male voice that tells him not to risk himself for [[MC]] and "Seek your destiny. Only then can you be redeemed".
 
@@ -32,9 +34,9 @@ A cold voice that Zayne doesn't recognize speaks at the end of this scene as ice
 > ?? (Male voice): You shouldn't throw yourself into danger just for her.
 > ?? (Male voice): Seek your destiny. Only then can you be redeemed.
 
-There are key parallels between this scene and the relationship between [[Zayne - Foreseer]] and [[Astra]] in [[Tower of Secrets]]. Astra's thorns trap and encase Zayne to punish him for seeing into his own fate (in order to help [[MC]], whose fate is bound to his). The notes about destiny and redemption hint at Astra. 
+There are key parallels between this scene and the relationship between [[Zayne - Foreseer]] and [[Astra]] in [[Tower of Secrets]]. Astra's thorns trap and encase Zayne to punish him for seeing into his own fate (in order to help [[MC]], whose fate is bound to his). The notes about destiny and redemption hint at Astra. Crucially, in both cases, black crystals pierce Zayne's chest as he's immobilized.
 
-Notably, [[03-B Land of Secret Flames]] (Rafayel's branch) and [[03-C Voyage of the Outcast]] (Xavier's branch) reference those LI's respective myths. [[Zayne - Dawnbreaker]] is the focus here and is from an anecdote ([[Still In Dark]]) not a myth, so it's reasonable to expect at least some reference to Zayne's myth here.
+[[MC]] will soon have memories from [[Tower of Secrets]], confirming that this Myth is being invoked here.
 
 # Details
 MC notes that the surroundings feel very real, unlike a regular dream. She guesses that the level of detail is because of low long the recurring dream has been haunting him. ((This is symbolically true, but we also know from [[Still In Dark]] that the dreams reflect a real place.))
@@ -58,7 +60,7 @@ It's a bittersweet moment as MC heads out, knowing they'll always support each o
 > He raises his hand. Parts of the mist detatch themselves from the air. Spiraling and condensing, they coalesce into icicles above his palm.
 > Dark impurities silently emerge from within them, but they stop spreading just as they're about to breach the outermost layer of the white crystals.
 > It's as if a looming black hole threatens to consume everything pure and white. Yet a thin, unwavering layer of pristine ice remains resolute in being the last line of defense.
-* ((This is a reference to the black ice that [[Zayne - Dawnbreaker]] uses to kill [[Abomination]]s, but in Zayne's hands it doesn't turn fully black. See also [[Zayne#Light and Dark]], [[black crystals#Dual meaning]]))
+* ((This is a reference to the [[black ice]] that [[Zayne - Dawnbreaker]] uses to kill [[Abomination]]s, but in Zayne's hands it doesn't turn fully black (yet). See also [[Zayne#Light and Dark]], [[black crystals#Dual meaning]]))
 
 > Shadows stretch. And in the boundless fog ahead, the [[Protocore Cluster]] awaits his arrival like a slumbering [[Wanderer]].
 > Within the mist, a cold wind materializes as aggressive figures sluggishly stir.
@@ -89,8 +91,8 @@ It's a bittersweet moment as MC heads out, knowing they'll always support each o
 > Girl: They're your patients... how could you... Am... I... Next... You'll... kill me... right? No... You're not Zayne. Who are you?!
 > *It's a face he knows so well in this unspeakable nightmare. Her expression is filled with disbelief and pain. Yes, it's her.*
 > Girl: Zayne... Kill me...!
-> *Black ice flowers bloom from her cheset, their petals unfurling. She's as light as a piece of paper, separated from life's weight. yet she falls almost with a thud in his stiff embrace.
-* ((Compare to the black crystals on the heart found in [[Zayne's research]] and the death of [[Cabin 607's patient]] due to [[X-Heart]]))
+> [[*Black ice]] flowers bloom from her chest, their petals unfurling. She's as light as a piece of paper, separated from life's weight. yet she falls almost with a thud in his stiff embrace.
+* ((Compare to the black crystals on the heart found in [[Zayne's research]] and the death of [[Cabin 607's patient]] due to [[X-Heart]]. See also [[black crystal flower]]. Crucially, this isn't crystals, though, but [[Zayne - Dawnbreaker]]'s [[black ice]].))
 
 > Buzzing energy engulfs Zayne's ears as he's once again pulled into the depths of a never-ending nightmare. While he knows it's an illusion, he can't break free.
 > At that moment, the cracked [[Protocore Cluster]] pulsates with a blood-red light. The air trembles around it.*
@@ -104,3 +106,4 @@ It's a bittersweet moment as MC heads out, knowing they'll always support each o
 > `A sound of blood squelching is heard.`
 > *His entire body becomes encased in ice. [[Black crystals]] pierce his chest and spread to his fingers. The intense pain leaves Zayne's back drenched in sweat. He's unable to control his body as he collapses. His heart races in fear as he hears that cold voice.*
 > ?? (Male voice): Seek your destiny. Only then can you be redeemed.
+* ((This image of black crystals piercing his chest directly mirrors his punishment from [[Astra]] in [[Tower of Secrets]].)

@@ -1,0 +1,1 @@
+Main POV character of [[WU-15 Sketches Vol 13]], and editor of the program [[Sketches]].

@@ -15,12 +15,13 @@ From [[Never-Ending Winter#04 Through Troubled Times]]:
 > A snowstorm ended that summer.
 > It was the first time a black-robed [[Grim Reaper]] appeared in his dreams.
 
-* Commentary:
-	* Several different pieces of evidence point to the summer Zayne was 12 as being the year *before* the [[Chronorift Catastrophe]]. Additionally, the memories of the summer don't include the catastrophe, which would likely be mentioned if it had happened that year.
-	* However, this makes it a bit fuzzy as to when him losing control of his Evol nearly killed MC. This passage seems to draw a direct connection between the incident "that night" and the start of the dreams ("blood [...] dripping into his dreams").
-	* Technically, [[MC]]'s whereabouts before the experiments in 2034 were unknown, so it's possible he did meet her before the [[Chronorift Catastrophe]]? But this seems unlikely.
-	* Or, he saw her in his dreams before he met her, and he dreamed of becoming a "threat to her"? And then met her during the Catastrophe?
-	* #todo look for clues in key Zayne memories
+ Commentary:
+* Several different pieces of evidence point to the summer Zayne was 12 as being the year *before* the [[Chronorift Catastrophe]]. (See [[Zayne#Timeline]].) Additionally, the memories of the summer don't include the catastrophe, which would likely be mentioned if it had happened that year.
+* However, this makes it a bit fuzzy as to when him losing control of his Evol nearly killed MC. This passage seems to draw a direct connection between the incident "that night" and the start of the dreams ("blood \[...] dripping into his dreams").
+* Technically, [[MC]]'s whereabouts before the experiments in 2034 were unknown, so it's possible he did meet her before the [[Chronorift Catastrophe]]? But this seems unlikely.
+* Or, he has only ever been referring to these nightmares which are more than just dreams to him. This is the most straightforward explanation, especially since [[03-A Thorns Under the Moon]] ties [[Zayne]] losing control of his [[Evol]] to [[MC]] being killed with [[black ice]].
+	* Given that she's thought to have untreatable "[[Protocore Syndrome]]" Zayne may fear that the exposure will eventually cause her to transform.
+	* #todo I need to track down/verify a reference that we know he ended up hurting her near a park and an ice cream truck? [[Nostalgic Sweetness]]
 
 The [[Super Hunters Missions]] article identifies this issue as [[Unstable Evol]].
 

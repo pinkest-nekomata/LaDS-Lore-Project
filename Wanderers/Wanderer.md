@@ -24,5 +24,9 @@ S and higher are very dangerous
 (Not exhaustive)
 * [[Intelligentia Type]]
 
+## Subspecies
+* [[Elemental]]
+* [[Bestial]]
+
 ## Traits
 * Lower rank [[Wanderer]]s do not have [[Protocore]]s--these form only in stronger Wanderers. ([[01-02.05 Artsy Dreams]], Spacepedia [[Protocore]] page.)

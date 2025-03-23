@@ -74,8 +74,7 @@ A few days later, Zayne officially joins [[Akso Hospital]]'s Evol-Cardiac Medica
 * Based on the timing mentioned in this story, this is within the first 2 weeks of January 2048.
 * ([[Annual Appraisal]] confirms this event occurs in 2048 and before the start of [[01 Under Deepspace]])
 
-[[Carter]] tries to twist the knife by sending a message about the death of [[Cabin 607's patient]]. When Zayne doesn't reply, Carter sends a gruesome image of the patient on the floor outside the life pod, [[black crystals]] sprouting from his chest over his heart.
-[[life pod]]
+[[Carter]] tries to twist the knife by sending a message about the death of [[Cabin 607's patient]]. When Zayne doesn't reply, Carter sends a gruesome image of the patient on the floor outside the [[life pod]], [[black crystals]] "blooming on the left side of her \[sic] chest like a magnificent dahlia". ((See also [[black crystal flower]]))
 > "Zayne, if the person lying on the operating table was your lover, would you let her die?"
 
 [[Carter]] then decides that he doesn't really need [[Zayne]] to be bought in, he just needs [[Zayne]]'s hands--ie his skill as a surgeon. He remembers that Zayne became a doctor because of a girl, and determines to use [[Dr. Noah]]'s patient list to figure out who it is.

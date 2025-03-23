@@ -82,12 +82,17 @@
 MC's voice-over adds that he's an expert in the study of [[Protocore Syndrome]] (which is not included in the in-game text of this biography).
 
 # Light and Dark
-Notably, yin and yang is a key theme in Chinese philosphy ([Wikipedia](https://en.wikipedia.org/wiki/Yin_and_yang)), and in Zayne's life we see this tension/balance of light and dark.
+Notably, yin and yang is a key theme in Chinese philosphy ([Wikipedia](https://en.wikipedia.org/wiki/Yin_and_yang)), is explicitly mentioned in [[Zayne chinese myth]], and in Zayne's life we see this tension/balance of light and dark. See also [[white ice]], [[black ice]].
 
 In Zayne's anecdotes [[Never-Ending Winter]] and [[Still In Dark]], it's revealed that when Dr. Zayne was twelve, he started having nightmares of a "[[Grim Reaper]]"--ie [[Zayne - Dawnbreaker]]. Likewise, Dawnbreaker began having fragmented dreams of the doctor when he was twelve.
 
 Dr. Zayne's anecdote is "A Pure White Heart" where he wears a light colored outfit, and Dr. Zayne is often depicted in a white lab coat. Dawnbreaker wears all black, and his anecdote is "Still in Dark", reinforcing the light/dark theme. Likewise, Dr. Zayne saves lives while Dawnbreaker ends them. Even in his myths, Zayne is depicted as two different kinds of fate diety, whose job is to ensure the right order and balance of things--this balance is closely tied to the idea of yin/yang. (See also [[Zayne's death theme]]). Likewise, dawn itself is a time between night and day, further evoking this theme. Fans have pointed out that Zayne's Chinese name evokes darkness and dawn as well ([Reddit](https://www.reddit.com/r/LoveAndDeepspace/comments/19eu6x9/comment/kjgpa4k/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)).
 
+Given that in both of his myths, Zayne comprises both yin and yang, this timeline may be a case where the two "halves" have been separated, which explains why they're so intertwined and there are so many mirrors between their timelines. It also hints at how as the story progresses, they'll continue to blur together and become more intertwined, especially after [[03-A Thorns Under the Moon]], which ends on a dream that combines both Dawnbreaker's pleasant dreams and Dr. Zayne's nightmares into one.
+
+This can also symbolize Dr. Zayne learning that sometimes death is necessary (you can't save everyone) and Dawnbreaker being able to find happiness and care and do something other than endlessly cull the [[Abomination]]s.
+
+## Twelve
 Note also that the dreams start when Zayne is twelve in each timeline, and twelve is a number with a lot of symbolism in Chinese culture, tied to keeping track of time. It's the number of the zodiac ([Wikipedia](https://en.wikipedia.org/wiki/Earthly_Branches)), and the clock is divided into 12 double-hours ([Wikipedia](https://en.wikipedia.org/wiki/Traditional_Chinese_timekeeping#Dual-hour.2Fshi)). (See also the Earthly Branches entry in [this glossary](https://immortalmountain.wordpress.com/glossary/other-miscellaneous-terms/).)
 * ((During my research, I found a claim that that 12 represents yin/yang because it can be split into two parts: 1 representing yang and 2 representing yin. ([33rdsquare.com](https://www.33rdsquare.com/is-12-a-lucky-number-in-chinese/)). However, there's reason to believe this is an AI-generated hallucination, because other sources that should mention this symbolism, like Wikipedia entries, don't. A more robust source, [Brittanica.com](https://www.britannica.com/topic/yinyang) connects Yang to odd numbers and Yin to even numbers, which corroborates the note about 12, but doesn't specifically mention the number.))
 

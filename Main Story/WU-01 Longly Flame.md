@@ -73,7 +73,7 @@ Dr Noah leads Zayne out of the lab, pressing him about why he works so hard and 
 
 # 04 Oath
 A few days later, the deal of the medical school calls in [[Dr. Noah]]. [[Zayne]] is already there. Zayne has destroyed his part of the experimental data. Even though it doesn't hurt anyone else, the dean is perplexed since this will set back [[Zayne's research]].
-* ((The magnitude of [[Zayne]]'s reaction is explained by [[Zayne's Dawnbreaker dreams]]. These nightmares of a "[[Grim Reaper]]" who kills with black crystals have been haunting him. Later, in [[Never-Ending Winter]], Zayne will see just how dangerous those black crystals are, when he's helpless to save [[William]] as he turns into a [[Wanderer]].))
+* ((The magnitude of [[Zayne]]'s reaction is explained by [[Zayne's Dawnbreaker dreams]]. These nightmares of a "[[Grim Reaper]]" who kills with [[black ice]] have been haunting him. Later, in [[Never-Ending Winter]], Zayne will see just how dangerous those black crystals are, when he's helpless to save [[William]] as he turns into a [[Wanderer]].))
 
 [[Carter]] starts to say something ("As long as we re--"), but [[Dr. Noah]] cuts him off, saying he'll handle it and the students can be let go. ((It seems Carter was about to say they can recreate the data in future experiments.))
 

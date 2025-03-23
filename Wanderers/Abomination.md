@@ -1,0 +1,1 @@
+The result of a [[human to Wanderer transformation]]. Only called by this name in [[Still In Dark]] ([[Zayne - Dawnbreaker]] timeline) but it's a useful label for the results of the transformation in the main story as well, such as those seen in [[02-02.05 Nightmare Finale]] in the [[N109 Zone]].

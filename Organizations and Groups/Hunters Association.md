@@ -21,6 +21,7 @@ The association was created on January 1st, 2035, approx 6mo after the [[Chronor
 (not exhaustive)
 * [[Linkon]] City Chapter
 	* [[UNICORNS]]
+	* [[Hunter Dispatch]]
 * [[Arctic Team]] (see [[Arctic Hunter]])
 * [[Chansia Branch]]
 * [[Skyhaven Branch]]

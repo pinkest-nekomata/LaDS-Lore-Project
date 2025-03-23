@@ -5,7 +5,7 @@
 > Amidst the blue firelight, I see their faces--Under the corroded, crystallized skin, they seem to have human faces... They resemble humans more than [[Wanderer]]s.*
 > -- [[MC]] POV, [[02-02.04 The First Deal]]
 
-
+In the [[Zayne - Dawnbreaker]] timeline, humans in the midst of transforming are called [[Abomination]]s, and this is a useful term for the phenomenon more broadly.
 # Transformation
 [[Never-Ending Winter#05 A Long Way Home]] and [[Never-Ending Winter#06 The Nightmare Worsens]] describe [[William]]'s transformation in detail:
 > "What is it?" William turns around.
@@ -21,4 +21,5 @@
 > "It's already too late... Kill me!"
 > [...] The tissue underneath the crystals rapidly forms a strange shell. [...] Crystals have encased William's body, leaving only his eyes, which stare at Zayne with a mix of pain and hope.
 
-#todo add the direct quote from [[WU-10 Mischief#04 Thrill Seeker]]
+# Luke and Kieran
+It's worth noting here that [[Sylus]] observes a similar transformation of one of the twins in [[WU-10 Mischief#04 Thrill Seeker]], but Sylus is actually able to halt the transformation with his Evol. The crystals simply shatter under a strong force. This could speak to Sylus's power level, a particularity of the Energy Manipulation Evol, a nuance in the type of transformation occurring, or a continuity error.

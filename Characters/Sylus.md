@@ -39,7 +39,11 @@ An unspecified number of years later, when inter-planetery travel around Philos 
 Presumably, he also traveled through the [[Deepspace Tunnel]] as [[Xavier]] did. Their being foils for each other reinforces this idea that they both traveled back in time in similar ways, see also [[Xavier vs. Sylus]].
 
 ## N109 Zone
-Sylus arrives in the [[N109 Zone]] after the [[Chronorift Catastrophe]] and the creation of the zone, but well before the main story events. Given that he's synonymous with the zone, it would be thematic for him to arrive shortly after the catastrophe and its creation. Since the catastrophe corresponds with the emergence of the [[Deepspace Tunnel]], Sylus also couldn't appear any further back than the early days of the [[N109 Zone]].
+Sylus arrives in the [[N109 Zone]] after the [[Chronorift Catastrophe]]. By 2036, everyone in the zone knows his name and he's established [[Onychinus]] as a primarily solo venture ([[WU-14 Elysium]]).
+
+Initially, three main factions vied for power. Tensions came to a head with the appearance of a [[Protocore map]] which kicked off the [[2036 Disaster]] during which 1/3 of the zone's population "vanished". Amidst rumors that Sylus was "eating people" (aka devouring them with his power) the bloody conflict spilled over months.
+
+In the end, [[Sylus]] emerged the lone victor. Due to a deal he made with [[Ginevra]] for the [[Protocore map]], he ensured that [[Elysium]] (and its operator [[Aislinn]]) remained unscathed and has been the intel bar's sponsor ever since.
 
 In 2046, 2 years before the main story timeline, he meets [[Luke and Kieran]] and they pry their way into his good graces. [[Sherman]] is already a peacock at this point, and [[Luke and Kieran]] volunteer to keep an eye on them. The twins are 16 at the time. ([[WU-10 Mischief]]).
 

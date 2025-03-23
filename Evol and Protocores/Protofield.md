@@ -1,5 +1,10 @@
 > As all hunters know, Wanderers are monsters formed by Metaflux, a mysterious energy from Deepspace. For reasons yet to be discovered, we struggle to deal the killing blow to them in our world. And once a Wanderer finds a chance to escape, it retreats into a dimension of its own making: the Protofield. It's hypothesized that Protofields might be a type of spacetime rift. Once we enter these Protofields, we can effectively eliminate Wanderers, and the Protofields they generate will also vanish.
 > -- [[Hunter Trivia - Protofields]]
+
+> I've developed a new hypothesis.
+> Field experience indicates that the physical dimensions of explored alternate spaces correlate with the different species and specifications of Wanderers. This humanoid-type Wanderer proves far more dangerous than the previous animal-type, and its escape route led to an alternate space vastly larger than any I've studied before.
+> I believe there exists a positive correlation between the size of the planetary Protofield spaces and the Wanderers' power levels...
+> -- [[Shaylin]], [[WU-16 Utopian Roamer#02 New Theory]]
 # Spacepedia
 Wanderers create an alternate dimension using an energy field. Currently, all relevant information is from hunters who've fought them. Because of the threats lurking in these mysterious Protofields, the [[Hunters Association]] requires two [[Evolver]]s to be present so they can support each other. They must also be ready to retreat should one of them encounter any danger.
 
@@ -9,8 +14,10 @@ So far, six types of Stellacrum have been identified: Emerald, Sapphire, Violet,
 
 ((The use of "planet" here is a bit confusing, due to [[celestial bodies in CN]] not differentiating between stars and planets. Perhaps a more helpful localization of "within a planet's Protofield" is "within an entity's Protofield", or "within a Protocore's Protofield" since in context it's more of a vague reference to what's creating the field, not specifically to a "planet" as we understand it in EN sci-fi. Note also that a [[Protocore]] is compared to a planet (or star) in [[01-03.10 Invitation]]))
 
-# Other Info
-In practice, Protofields are both a dimension that [[Wanderer]]s can pull hunters into (depicted as shimmering blue portals) and also a sort of field of influence that they can project out. "Protofield anomalies" can be observed without going into one, and can cause changes in the surrounding [[Metaflux]], including summoning more [[Wanderer]]s. ([[Never-Ending Winter]], [[01-05.10 Battle - Freezing Cold - Challenge]], [[N109 Zone]], etc.)
+# Properties
+In practice, Protofields are both a dimension that [[Wanderer]]s can pull hunters into (depicted as shimmering blue portals/rifts) and also a sort of field of influence that they can project out. "Protofield anomalies" can be observed without going into one, and can cause changes in the surrounding [[Metaflux]], including summoning more [[Wanderer]]s. ([[Never-Ending Winter]], [[01-05.10 Battle - Freezing Cold - Challenge]], [[N109 Zone]], etc.)
 
-## N109 Zone
+[[Protofield]]s are not illusions, and they exist as physical matter. When in a [[Protofield]], plants grow, and you can drink the water and eat fruit, experiencing real satiation. There's no clear documented evidence of other humans being encountered in [[Protofield]]s, but ruins and evidence of civilization and previous inhabitants remain. ([[WU-16 Utopian Roamer]], also note that an encounter with other humans seems possible in a peculiar cosmic Protofield created by a beetle-like [[Wanderer]].) The researcher [[Shaylin]] actually spent an entire month in a [[Protofield]] once.
+
+# N109 Zone
 The N109 Zone's [[Protofield]], which lies directly beneath the [[Deepspace Tunnel]], is so powerful and chaotic that not even light can pass through it, casting the area into constant darkness. ([[Land of Lost#06 Journey Begins]])

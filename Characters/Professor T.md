@@ -1,0 +1,1 @@
+The creator of [[AI No. 1]]. That AI eventually created a falsified literature database, which Professor T unwittingly used to publish research, leading to a massive scandal and ultimately [[Professor T]]'s death.

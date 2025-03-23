@@ -1,0 +1,1 @@
+A subspecies of [[Wanderer]] mentioned in [[WU-11 Frontline Hunter]].

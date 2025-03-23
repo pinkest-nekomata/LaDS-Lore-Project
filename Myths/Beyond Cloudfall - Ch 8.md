@@ -143,7 +143,7 @@ The background shifts to a courtyard in the Sanctuary. There are two dragon stat
 > MC: Hmph. That's a good thing.
 > *Sylus quickly brings his legs together and blocks my movement.*
 > Sylus: Don't move.
-> *He carefully dries my dew-soaked hair with a silk handkerchief. HIs voice had taken on a more solemn tone, as if he's grapplig with a matter of great significance. I stay nestled in his arms. When I lower my head, I see his curled-up tail. The dragon's tail coils around my ankle. Even the deepest wound on its tip has almost completely healed.*
+> *He carefully dries my dew-soaked hair with a silk handkerchief. HIs voice had taken on a more solemn tone, as if he's grappling with a matter of great significance. I stay nestled in his arms. When I lower my head, I see his curled-up tail. The dragon's tail coils around my ankle. Even the deepest wound on its tip has almost completely healed.*
 > MC: I fell asleep waiting for you these past few nights. Why didn't you wake me up?
 > *As the silk handkerchief absorbs the moisture at the ends of my hair, Sylus allows me to turn my head. A gentle smile graces his lips.*
 > Sylus: Someone was dreaming and continued to say my name--

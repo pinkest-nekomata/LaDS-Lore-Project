@@ -52,7 +52,7 @@ Tony's IT "friend" was able to restore only one frame of video, as well as the c
 
 The frame shows a skeleton holding what looks like a [[Protocore]] weapon. 
 
-> Protocore weapons were only invented in the last decade or so... How could this one have appeared in the ruins of [[Lemuria]]? Is it possible the underwater city didn't sink naturally?
+> [[Protocore weapon]]s were only invented in the last decade or so... How could this one have appeared in the ruins of [[Lemuria]]? Is it possible the underwater city didn't sink naturally?
 
 # 06 Audio File No.5: Conflict
 A call from Fred to Eleanor.

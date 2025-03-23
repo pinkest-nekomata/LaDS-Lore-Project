@@ -23,10 +23,12 @@ MC senses an [[Aether Core]]'s fluctuation and concludes she's in the [[Wanderer
 > MC: Zayne...
 > *The figure takes another step, his appearance nearly overlapping with the dark figure I had seen before. I move back.*
 > Zayne: ... How are you feeling?
-> *After hesitating for a moment, I reach out and touch his cheek. I trace his eeybrows and the contours of his face. I recognize the features I know so well. In this silence, he remains motionless. He just looks at me.*
+> *After hesitating for a moment, I reach out and touch his cheek. I trace his eyebrows and the contours of his face. I recognize the features I know so well. In this silence, he remains motionless. He just looks at me.*
 > MC: I'm fine. I think I just had a dream.
 > *Perhaps it's the influence of the [[Protofield]] that caused me to have those strange illusions... Shaking my head to clear my thoughts, I shift my focus to the room. The cracked, grayish-white walls enclose a space where a sofa, holographic screen, refrigerator, and various functional home appliances exist in close proximity. It looks like the "Home" of someone who struggles living a normal life.*
-* ((This is [[Zayne - Dawnbreaker]]'s apartment, also seen in [[Still In Dark]].))
+* ((The background image is clearly Dr. Zayne's living room in the late afternoon sun, but the description doesn't match. Dr Zayne has a house, while [[Zayne - Dawnbreaker]] has an apartment, as seen in [[Still In Dark]]. It's described like this:
+	* "The room lacks decorations, and the furniture is extremely simple. The only hint of "humanity" is the faint cracks on the grayish-white walls--signs of age and neglect. In the center of the living room is a holographic screen displaying what appears to be a very old TV show." When Zayne opens the refrigerator it seems to be close by.
+	* Given the almost perfect match between the language, that MC doesn't just call it "Zayne's place", and that the anecdote is explicit this is an apartment, I think we should interpret this location as Dawnbreaker's apartment, not as Dr. Zayne's living room. There's reason to believe that they're in Dr Zayne's living room later, in the Akso Hospital layer.))
 
 Zayne asks if she remembers what happened in the ward, and she realizes they're still in the [[Wanderer]]'s [[Protofield]]. Zayne confirms. Outside the window, the city is a desolate skeleton.
 

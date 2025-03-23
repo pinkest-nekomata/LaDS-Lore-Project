@@ -20,8 +20,8 @@ Fourteen years ago, with the opening of the [[Deepspace Tunnel]], countless [[Wa
 # Other Info
 
 ## Timeline
-The catastrophe began in the summer of 2034. ([[WU-04 From The Stars]] begins in Summer 2033, and then the Catastrophe chapter says "a year later", indicating that the catastrophe begins during summer 2034.)
-
+The catastrophe began in the summer of 2034. ([[WU-04 From The Stars]] begins in Summer 2033, and then the Catastrophe chapter says "a year later", indicating that the catastrophe begins during summer 2034.) [[WU-16 Utopian Roamer]] gives a partial date of 2034-X-X6, indicating it occurred on the 16th or 26th (or maybe 6th) of the month.
+ 
 There's a three day unnatural "polar night" (i.e., period without a full sunrise) before the first [[Wanderer]] appears. Much of the death (including when [[Xavier]] saves [[MC]]) happens in the first few days, but the conflict drags on.
 
 By January 1st 2035, [[Azure Square]] has been rebuilt. On that day, the [[Hunters Association]] is founded, and humanity accepts that it will have to coexist with [[Wanderer]]s. ([[WU-04 From The Stars#04 Catastrophe]])

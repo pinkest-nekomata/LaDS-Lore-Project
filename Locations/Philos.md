@@ -49,6 +49,11 @@ As shown in [[cosmic cinematic#End of Long Awaited Revelry]], Earth literally br
 # Power Source
 #todo Key info in [[Shooting Stars]] here: [YT Link](https://www.youtube.com/watch?v=XO9qTMvnts0&t=2078s)
 
+[[WU-16 Utopian Roamer#Chaos and Rebirth]] contains additional hints:
+> The [[Protofield]]'s energy signature differs completely from Earth's, showing striking similarities to Wanderer energy patterns instead... Could Wanderer interference be affecting my readings?
+
+One potential interpretation is that the energy readings are actually due to [[Philos]]'s artificial core, which as noted above involves consuming human energy to sustain itself and results in the formation of Wanderers. It's another clue connecting the appearance of [[Wanderer]]s to properties of [[Philos]] itself.
+
 # Geography
 The planet is comprised of chunks, called "Plates", held together by the artificial core. There's the vacuum of space between them, making travel difficult. Clear skies are a rarity ([[When Shooting Stars Fall]]).
 

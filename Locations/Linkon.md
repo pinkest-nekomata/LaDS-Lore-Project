@@ -5,6 +5,12 @@ Linkon was one of the cities that suffered from the initial [[Wanderer]] attacks
 
 # Other Info
 
+## Key Organizations
+* [[Hunters Association]] (Linkon Branch)
+	* [[UNICORNS]]
+* [[Linkon City Police Department]]
+	* aka [[Evol Police]]
+
 ## Known Locations
 (Not exhaustive)
 
@@ -22,7 +28,10 @@ Metro Area
 * [[Whitesand Bay]]
 
 Unspecified
-* [[Empyreal Ring District 23]]
+* [[Empyreal Ring District]]
+	* [[Empyreal Ring District 23]]
+	* [[Empyreal Ring Park]]
+	* Riverside area
 * [[Linkon Greenhouse]]
 * [[Akso Hospital]]
 * [[Linkon Botanical Garden]]
@@ -31,6 +40,9 @@ Unspecified
 * [[Soaria Financial Hub]]
 * [[Linkon Bridge]]
 * [[Silver Screen Hotel]]
+* [[Shellbank District]]
+* [[Philee District]]
+	* [[Hillside Gardens]]
 
 Suburbs and surrounding areas
 * [[southeastern suburbs]]

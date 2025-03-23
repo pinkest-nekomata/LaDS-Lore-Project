@@ -88,7 +88,7 @@ The twin who isn't transforming steels himself and offers to "help" (i.e. delive
 
 The twin puts on a show of bravado, saying he doesn't care if he dies Sylus tests them one last time, wrapping them both in mist. They think he's finally going to kill them, and fear of death finally overwhelms them. Sylus teases them, saying he thought they had a death wish--and they finally confess they don't.
 
-So, "with a derisive snort," Sylus redirects the mist to shatter the [[black crystals]], and the pain vanishes, the transformation halted.
+So, "with a derisive snort," Sylus redirects his power to shatter the [[black crystals]], and the pain vanishes, the transformation halted.
 
 > "In the [[N109 Zone]], dying is easy," Sylus says as he leaves, his tone almost teasing. "Staying alive--now that's the real proof of strength."
 
