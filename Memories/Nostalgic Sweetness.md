@@ -1,7 +1,7 @@
 # Memory
-LI: [[Zayne]]
-Rarity: n/a
-Type: Bond
+*LI:* [[Zayne]]
+*Rarity*: n/a
+*Type:* Bond
 
 **Description**
 > This Friday marks Zayne's long-awaited vacation. I made sure to ask for a day off that day. We originally planned to visit [[Maltosio]], a dessert shop in [[Bloomshore District]]. However, [[Zayne]] suddenly had a really bad toothache. Left with no other choice, I took him to the dentist...
@@ -14,7 +14,7 @@ Type: Bond
 	* Zayne says "I can't easily forget things and not worry. Unlike some." This could be him teasing, or it could hint at his guilt that this is when he lost control of his Evol and hurt her ([[Zayne losing control of his Evol]]) but it's not clear either way from this memory.
 
 
-# Transcript(s)
+# Quotes
 MC asks why Zayne is so fond of [[Old Popcicle]]s.
 > Zayne: When I was young, there was a... A girl I had met by chance. At the time, [[Wanderer]]s were everywhere, and people were on high alert. Hospitals had become shelters. The pediatric ward was filled with homeless children. It was an afternoon when I passed a small garden. A girl was crying, tears streaming down her face as she held a popsicle.
 > MC: Was she sad that her popcicle melted?

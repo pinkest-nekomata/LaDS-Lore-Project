@@ -14,7 +14,7 @@ One of the legends that [[Rafayel]] mentions is that the [[blue hole]] can be co
 ### Heart of the sea
 #todo, add details from [[Forgotten Sea]] about how [[MC]] ends up with the [[Sea God]]'s heart due to [[the pact]].
 
-# Description
+# Details
 After they defeat the [[Wanderer]], the [[Protofield]] disappears and MC finds herself under the water. She starts to swim for the surface, but then hears [[Rafayel]] tell her to stop and turn her head. She hears his voice normally, then he gives her a gentle kiss, and she's able to breathe normally underwater too.
 
 He teases her about seeing if her tears turn to pearls, then touches the area around her eyes before conjuring a tiny [[Flammula]]. He says it's time to find his treasure. The fish rubs him affectionately, then guides them into the depths.
