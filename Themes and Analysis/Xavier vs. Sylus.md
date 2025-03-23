@@ -14,6 +14,9 @@ See also: [[!LI Foils Index]]
 	* Xavier with the sleepy god trope
 	* Sylus with the dragon god trope
 * Odd sleeping habits/sleeping during the day
+* Odd/modified sense of taste
+	* Xavier with his acclimation to Philosian food
+	* Sylus with a dragon's muted sense of taste
 # Contrasting traits
 
 | Xavier                                                                                                 | Sylus                                                                                                                               |
