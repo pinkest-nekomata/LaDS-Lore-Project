@@ -123,6 +123,7 @@ Strawberry's bright read evokes pools of blood. The Red Savina pepper is notable
 * Plus half a **soul**
 	* The 10.5 grams is a reference to the idea that a soul weighs 21 grams ([Wikipedia](https://en.wikipedia.org/wiki/21_grams_experiment)), so 10.5 is exactly half. (They trade half their souls in [[Beyond Cloudfall]].)
 
+The message, "I'm waiting for you", seems to hint that this is a romantic gesture during the time before Sylus and MC reconnect.
 # Special services:
 * (1) Assassination
 * (2) Arms Deals
