@@ -16,7 +16,9 @@ Once inside, he meets [[Aislinn]] who's tending bar, and asks for the [[Connoiss
 At the end of the night, [[Aislinn]] discovers she was speaking to [[Phantom Thief Pea]] because he left the frog plushie with a gift box in its arms. Thanks to this gift, she learns that [[Phantom Thief Pea]] effectively saved her life in the past, working with [[Ginevra]] to procure the [[Protocore map]] that started the [[2036 Disaster]], and getting it to [[Sylus]] in exchange for continued protection of [[Elysium]] and [[Aislinn]].
 
 ### Timing
-Based on what appears to be a reference to [[Sylus]] and [[MC]] working together, this meeting occurs during the main story timeline of 2048/2049, twelve years after the [[2036 Disaster]].
+"Today's Special" on the [[Connoisseur's Menu]] is for [[MC]] from [[Sylus]], but this doesn't necessarily mean they've reconnected--the message "I'm waiting for you" hints more at the time before they've reconnected.
+
+Without more detail on the timeline of [[Phantom Thief Pea]]'s crimes, the timing of this story remains unclear.
 
 ## Aislinn & Elysium
 See [[Aislinn#Backstory]] and [[Elysium#Backstory]] for additional details.
@@ -76,7 +78,13 @@ Also, by this point, everyone in the [[N109 Zone]] knows the name [[Sylus]]. He'
 > "Eating people? What's that about?"
 > "You heard about some Evolvers going missing, right? They say it all began after [[Sylus]]'s [[Onychinus]] came into existence."
 
-That night, the [[2036 Disaster]] breaks out. Against all odds, [[Elysium]] and [[Aislinn]] emerge unscathed. Once [[Sylus]] emerges victorious, their benefactor is revealed. [[Mephisto]] arrives at [[Elysium]], and [[Aislinn]] learns that a deal was made for [[Sylus]] to protect [[Elysium]] and herself in exchange for the [[Protocore map]].
+That night, the [[2036 Disaster]] breaks out. At midnight, Aislinn gets a chaotic call from [[Ginevra]]:
+> On the other end, chaos reigned: Gunshots, something like a beast's roar, and human screams. Amid the clamor, she heard Ginevra's voice.
+> "No matter what happens, don't leave Elysium. And..."
+> Her final words were drowned out by a massive explosion from the street.
+* "Something like a beast's roar" could describe a Wanderer, but Aislinn would likely specifically recognize this. So, this is likely a reference to a dragon's roar (which is heard many times in Beyond Cloudfall) and an indication that [[Sylus]] retains his dragon abilities in the main story timeline. (This is also supported by the rumors of him having horns and wings in [[02-02.01 Alone]])
+
+Against all odds, [[Elysium]] and [[Aislinn]] emerge unscathed. Once [[Sylus]] emerges victorious, their benefactor is revealed. [[Mephisto]] arrives at [[Elysium]], and [[Aislinn]] learns that a deal was made for [[Sylus]] to protect [[Elysium]] and herself in exchange for the [[Protocore map]].
 > \[...] a black crow delivered its master's message: "The deal is done. I'll be taking the map."
 
 # 05 Today's Special
