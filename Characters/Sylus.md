@@ -51,6 +51,11 @@ By the time MC enters the [[N109 Zone]] (approx February 2049, see [[Main Story 
 
 As of approx Feb 2049, Sylus has regained control of the [[N109 Zone]]. But by this point, the area outside the zone is more dangerous. [[Xavier]] notes this before she heads in ([[01-08.07 Stellar Guidance]]). ((The change may relate to the fluctations caused by the [[Aether Core]] at the [[Flux Nexus]] beneath the [[Deepspace Tunnel]] during [[02-02.12 Resonance's Power]]))
 
+# Abilities
+Sylus's [[Evol]] is described as "energy manipulation", but he has other powers as well. [[Sylus's Eye]] is described by [[MC]] as an "[[Aether Core]]", but given how it's portrayed in [[Beyond Cloudfall]], it's probably better understood as one of his innate abilities, specifically analogous to a "beast core" and an inherent part of him being a dragon (see [[Cores in Xianxia]]).
+
+There are a couple of pieces of evidence that Sylus has also retained his draconic features from [[Sylus - Abysm Sovereign]] into the current timeline. In [[02-02.01 Alone]], the [[Little Girl]] that [[MC]] meets refers to a rumor of him having "horns and wings". In [[WU-14 Elysium#04 Strawberry Disaster Special]] specifically mentions "something like a beast's roar" being heard during the chaos. This is likely a reference to a dragon's roar, since any noise a Wanderer made would likely be specifically described as a Wanderer's noise.
+
 # Sincerity
 A minor recurring theme, mentioned here and there including in [[Land of Lost]] and [[Grassland Romance]].
 
