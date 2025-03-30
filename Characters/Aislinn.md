@@ -50,6 +50,7 @@ That night at midnight, Aislinn gets a chaotic call from [[Ginevra]]:
 > On the other end, chaos reigned: Gunshots, something like a beast's roar, and human screams. Amid the clamor, she heard Ginevra's voice.
 > "No matter what happens, don't leave Elysium. And..."
 > Her final words were drowned out by a massive explosion from the street.
+* "Something like a beast's roar" could describe a Wanderer, but Aislinn would likely specifically recognize this. So, this is likely a reference to a dragon's roar (which is heard many times in Beyond Cloudfall) and an indication that [[Sylus]] retains his dragon abilities in the main story timeline. (This is also supported by the rumors of him having horns and wings in [[02-02.01 Alone]])
 
 The [[2036 Disaster]] begins, casting the [[N109 Zone]] into months of chaos. [[Aislinn]] doesn't initially understand how/why she and [[Elysium]] remain unscathed:
 > Not until a black crow delivered its master's message: "The deal is done. I'll be taking the map."
