@@ -8,13 +8,15 @@ Rarity: Five star
 ![[600px-Sylus_Magnum_Opus_portrait.webp]]
 
 **Description**
-> TBA
+> A date with no special occasion--just the desire to see each other.
 
 # Key Info
-* 
+* MC and Sylus are indirect about their desire to see each other at this point, preferring to "leave traces" in each others' lives.
+* They go to the mall together and plan a camping trip
+* Sylus buys MC a pile of clothes without checking the price tags, and this results in a new About Him entry.
 
 # Trivia
-* 
+* Sylus hasn't gone camping in a while
 
 # Quotes
 
