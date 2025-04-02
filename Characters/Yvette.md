@@ -11,4 +11,4 @@ From [[WU-15 Sketches Vol 13#01 Featured Character]]:
 # Personal Life
 She was high school sweethearts with [[Liam]] and they joined the [[Deepspace Aviation Administration]] together. They were considered a perfect couple. She researched energy, he became a pilot. They had two children together--a boy and a girl.
 
-But after he joined the [[Farspace Fleet]] ((and experienced the personality changes caused by the [[Toring Chip]])) they divorced and Yvette now raises their kids by herself. They live in [[Linkon]] but commute to [[Skyhaven Elementary]] for school.
+But after he joined the [[Farspace Fleet]] ((and experienced the personality changes caused by the [[Toring chip]])) they divorced and Yvette now raises their kids by herself. They live in [[Linkon]] but commute to [[Skyhaven Elementary]] for school.

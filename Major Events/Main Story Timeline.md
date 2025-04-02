@@ -12,6 +12,7 @@ Day 4: Events of [[01-03.09 Another Predicament]] through the end of [[01-03 Tal
 Approx 2 week time jump, assuming the events of [[01-04.01 Family]] are the visit that [[Caleb]] and [[MC]] discussed in [[01-01.09 Rainfall Curtain]] as "at the end of the month."
 
 Day 18: Events of [[01-04.01 Family]] through [[01-04.03 Within Reach]]
+* ((It wasn't in question, but [[WU-19 Serpent's Cast]] confirms that the [[Bloomshore District explosion]] occurs in 2048, but also indicates that there's snow on the ground at the time. But also it doesn't seem to be winter in [[01-04.03 Within Reach]]? Kind of at a loss with this one, might just be a continuity error (or the circus is in the arctic??)))
 
 Approx 6 mo time jump. MC was supposed to take 3 months to recover, but [[Zayne]] had allowed her to return to work early. For ease of notekeeping, I'll mark the times from here as if it were an exact 6mo skip, but all dates are approximate.
 * Assuming it's correct that the main story starts in July, these events would pick back up again in approx January 2049.

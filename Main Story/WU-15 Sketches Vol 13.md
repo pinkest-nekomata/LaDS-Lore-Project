@@ -12,7 +12,7 @@ Cover image: Magazine cover of an artistic silhouette of a face, with the text "
 
 It's revealed that [[Skyhaven]]'s islands were originally ones from the earth, and then the [[Chronorift Catastrophe]] caused gravity and magnetic anomalies that lifted them skyward, especially [[Whirlreef Island]]. Yvette used to be a resident, but didn't move to the island when it became part of [[Skyhaven]], recognizing that it fundamentally was no longer the same.
 
-A guest lecture at [[Skyhaven University]] points at parallels between [[Protocore]] technology and the greed and hubris of early nuclear technology, and then a visit to the [[Farspace Fleet]] base reveals why [[Yvette]] put her feet back on the ground--her ex-husband is [[Liam]], [[Caleb]]'s now-robotic Adjutant. ((His personality change was due to the [[Toring Chip]] and the Fleet's influence.))
+A guest lecture at [[Skyhaven University]] points at parallels between [[Protocore]] technology and the greed and hubris of early nuclear technology, and then a visit to the [[Farspace Fleet]] base reveals why [[Yvette]] put her feet back on the ground--her ex-husband is [[Liam]], [[Caleb]]'s now-robotic Adjutant. ((His personality change was due to the [[Toring chip]] and the Fleet's influence.))
 
 Yvette's parting sentiment is best understood with the original CN in mind; She implies poetically that in chasing after [[Protocore]] technology, people like [[Liam]] have lost their own "cores", rendering them "coreless" which is pronounced the same as "heartless"("careless") in CN.
 
@@ -73,7 +73,7 @@ Caleb replies:
 > The commander gazes at [[Yvette]] with a perfectly measured smile, which she meets with ice in her eyes.
 > "I want to know what's out there in deep space that makes you so willing to abandon everything here on Earth."
 > "Humanity's problem was never about energy--it's about refusing to let go of what we already have, even when it's become worthless. A tethered kite will never reach the far sky, Ms. Yvette."
-* ((Contrast this directly to [[Pathless Realm#03 Night Flight]] which specifically establishes the image of Caleb as a kite and MC as being/holding his string, and this being how he makes it back from his doomed Deepspace Tunnel trip. This comment foreshadows the personality changes caused by the [[Toring Chip]].))
+* ((Contrast this directly to [[Pathless Realm#03 Night Flight]] which specifically establishes the image of Caleb as a kite and MC as being/holding his string, and this being how he makes it back from his doomed Deepspace Tunnel trip. This comment foreshadows the personality changes caused by the [[Toring chip]].))
 
 As her son returns to her, [[Yvette]] tells [[Caleb]] she's working on a new book called 'Heartless'. He wishes her success.
 
