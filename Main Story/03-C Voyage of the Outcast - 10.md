@@ -8,8 +8,8 @@ Fortunately, it's equipped to use [[Evol]] as emergency power. This time, [[Xavi
 
 # Details
 Their destination is revealed as a massive spaceship hidden behind the trees.
-> Unlike the wreckage I saw in No-Hunt Zone 42, this one is more intact with far more sophisticated engineering.
-* ((We know from [[01-03 Talented Hunter]] and [[WU-04 From The Stars#03 Waterfall Inside Forest]] that the [[Traceback II]] wreckage is in [[No-Hunt Zone 7]]. Given that this wreckage has "more sophisticated engineering", its not immediately clear what wreckage MC is referring to here. Wreckage also wasn't mentioned in [[01-03 Talented Hunter]]. This could be a minor continuity error.))
+> Unlike the wreckage I saw in [[No-Hunt Zone 42]], this one is more intact with far more sophisticated engineering.
+* ((We know from [[Silvery Polyphony]] and [[WU-04 From The Stars#03 Waterfall Inside Forest]] that the [[Traceback II]] wreckage is near [[No-Hunt Zone 19]]. Given that this wreckage has "more sophisticated engineering", its not immediately clear what wreckage MC is referring to here.))
 
 Inside is a command center and scattered papers. MC asks if he really intents to use the spaceship to escape.
 > Xavier: It can break through the most chaotic gravitational energy flux. A [[Protofield]] might not stand a chance against it. Let's just try and see. \[...]

@@ -18,7 +18,7 @@ There was a mistake in their destination ([[01-08.07 Stellar Guidance]]) though 
 # Crash site
 The ship crashed on Earth in a forest. Part of the wreckage is underground. ([[WU-04 From The Stars]])
 
-Eventually, [[Linkon]] City was built nearby, as was a secret signal station, but the ship remained hidden. After the [[Chronorift Catastrophe]], the area became [[No-Hunt Zone 7]], which features heavily in the main story chapter [[01-03 Talented Hunter]]. ((The descriptions of the no-hunt zone and of the forest in [[WU-04 From The Stars#03 Waterfall Inside Forest]] clearly parallel one another, especially the signal station.))
+Eventually, [[Linkon]] City was built nearby, as was a secret signal station, but the ship remained hidden beyond a valley. After the [[Chronorift Catastrophe]], the area of the signal station became [[No-Hunt Zone 19]], which MC and Xavier visit in [[Silvery Polyphony]].
 
 # Other Info
 * It runs on [[Protocore]] Energy ([[03-C Voyage of the Outcast - 10]])

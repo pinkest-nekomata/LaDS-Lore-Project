@@ -4,5 +4,10 @@ If there is a chaotic [[Protofield]] and frequent [[Wanderer]] appearances, the 
 * [[No-Hunt Zone 7]]
 
 # Other Info
+* There are 108 official No-Hunt Zones (Spacepedia entry for [[N109 Zone]]).
 
-There are 108 official No-Hunt Zones (Spacepedia entry for [[N109 Zone]]).
+# Known Zones
+A non-exhaustive list of zones mentioned in the story and in memories:
+* [[No-Hunt Zone 42]]
+* [[No-Hunt Zone 7]]
+* [[No-Hunt Zone 19]]

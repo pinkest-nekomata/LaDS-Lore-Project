@@ -1,0 +1,1 @@
+In [[03-C Voyage of the Outcast - 10]], [[MC]] mentions seeing wreckage in this zone that reminds her of the intact [[Traceback II]].
