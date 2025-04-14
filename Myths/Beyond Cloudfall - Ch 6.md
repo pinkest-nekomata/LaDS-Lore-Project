@@ -8,7 +8,8 @@ The duo enjoys the throne room, and a moment of closeness. But MC feels the mark
 Sylus begins to speak with his draconic voice, reminding her she's nothing more than a piece of food to him. He loses control, attacking her and trying to drain her soul again. On the brink of death, she instinctively draws the sword and plunges it through his chest.
 
 Horrified, she tries to defend the grievously wounded dragon from the incoming soldiers. But the madness overtakes him, and he transforms into his full draconic form, stumbling through the city and causing destruction before flying to Tarus City, trailing blood.
- 
+
+← [[Beyond Cloudfall - Ch 5]] | [[Beyond Cloudfall - Ch 7]] →
 ## Commentary
 
 # Details

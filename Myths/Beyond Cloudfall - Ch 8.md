@@ -7,6 +7,8 @@ Sometimes, she believes she never left the chapel. In these happy dreams, they b
 
 But then there is the nightmare--where the Fiend is declared dead and she holds the secret of his survival. Chained at the [[Sanctuary]]--the first one they destroyed--he visits her each night, but only she can see him. They speak of dreams, then make a promise to never betray each other.
 
+← [[Beyond Cloudfall - Ch 7]] | [[Beyond Cloudfall - Ch 9]] →
+
 ## Commentary
 
 # Details

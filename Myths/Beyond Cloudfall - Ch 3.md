@@ -13,6 +13,7 @@ It rains for three days. Sylus comforts her by releasing a mountain cat into the
 
 Finally, she gives him a name, selecting something that sounds similar to the ancient language. Sylus.
 
+← [[Beyond Cloudfall - Ch 2]] | [[Beyond Cloudfall - Ch 4]] →
 
 ## Commentary
 

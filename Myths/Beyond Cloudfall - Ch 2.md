@@ -2,6 +2,8 @@
 At the sanctuary, [[Sorceress MC]] and [[Sylus]] see the mural that supposedly depicts the Fiend's imprisonment. They destroy the Sanctuary, but the [[Legion of Justitia]] is no match for the dragon, and MC is unable to escape.
 
 The dragon brings her back to his lair, and she flees the first chance she gets--only to find that the sheer cliffs that surround the lair keep her trapped. Following him, he leads her to his horde, which is overflowing with riches and the weapons left by those who came to kill him and failed. He tells her to take whatever she wants, encouraging her greed. Only once she embraces her desires will she be worthy to be the Fiend's meal.
+
+← [[Beyond Cloudfall - Ch 1]] | [[Beyond Cloudfall - Ch 3]] →
 ## Commentary
 
 # Details

@@ -12,6 +12,8 @@ He urges her to press on--if she doesn't, Fate will take both of them to the Aby
 His defiance of fate, his death so she can live, is like a sword in her own chest. She curses him with immortality--so that she might be the only one who can grant him a true death.
 
 In so doing, she fully embraces her nature--and finally becomes a dragon. But only after her beloved is gone.
+
+← [[Beyond Cloudfall - Ch 8]] | [[Beyond Cloudfall]] ||
 ## Commentary
 
 # Details

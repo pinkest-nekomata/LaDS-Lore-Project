@@ -7,6 +7,8 @@ This time, when he asks her what she wants, she has a new kind of answer--she wa
 
 Sylus decides she needs to see what happens to a dragon's lover. He takes her to Tarus for a play, but she falls asleep during it. As he carries her home, she asks him to tell her the story. So, he tells his story--their story. At the end, he reveals that a dragon's fate is always to kill their beloved.
 
+← [[Beyond Cloudfall - Ch 4]] | [[Beyond Cloudfall - Ch 6]] →
+
 ## Commentary
 
 # Details
