@@ -1,4 +1,6 @@
 aka Skyhaven Guard Station Archipelago, actually a series of islands.
+
+![[Skyrise_Isle_Spacepedia_image.png]]
 # Spacepedia
 Skyhaven is an artificial floating island hovering near [[Linkon]] City. A [[Protocore]] serves as its primary energy source. It is home to the most cutting-edge research centers and advanced tech organizations such as the [[Deepspace Aviation Administration]].
 

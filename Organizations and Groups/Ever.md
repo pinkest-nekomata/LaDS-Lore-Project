@@ -1,6 +1,7 @@
 Full name: Ever Group
 Sometimes stylized as EVER
 
+![[Ever_Group_Spacepedia_image.webp]]
 # Spacepedia
 With its roots in biotechnology, Ever Group has bceocme a large company in industries such as biotech, aerospace, Evol Energy, and international trade.
 

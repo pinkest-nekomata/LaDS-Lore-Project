@@ -1,6 +1,7 @@
 Full name: Deepspace Hunters Association
 Short name: The Association
 
+![[Hunters_Association_Spacepedia_image.png]]
 # Spacepedia
 An organization founded by experts in the deepspace hunting industry under the [[World Evol Government]]'s supervision. its purpose is to selected talented individuals, regulate the deepspace hunting industry, and sometimes discipline hunters. The Association also seres as a support service for every hunter, providing them with resources in their fight against [[Wanderer]]s.
 

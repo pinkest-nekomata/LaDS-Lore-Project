@@ -1,5 +1,5 @@
-Full name: Linkon City
-
+![[Linkon_City_Spacepedia_image.png]]
+aka: Linkon City
 # Spacepedia
 Linkon was one of the cities that suffered from the initial [[Wanderer]] attacks during the [[Chronorift Catastrophe]] 14 years ago. It also served as the first line of defense in the battle against them. With the help of [[Protocore]] energy, it has been rebuilt into a bustling metropolis, but many areas still maintain traditional ways of life. It is a city that embodies heroism and the liveliness of everyday life.
 

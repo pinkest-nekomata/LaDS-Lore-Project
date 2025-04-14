@@ -1,5 +1,6 @@
 "Your performance was recorded and uploaded to our database by the Hunter's Watch each one of you is wearing." -- [[Jenna]], [[01-01.06 UNICORNS]]
 
+![[Hunter_Equipment_Spacepedia_image.png]]
 # Spacepedia
 An essential piece of equipment for any [[Deepspace Hunter]]. It resembles a watch and provides many functions such as assigning missions, detecting nearby [[Wanderer]]s, scanning for [[Metaflux]], and calling for backup.
 

@@ -5,6 +5,8 @@
 > Field experience indicates that the physical dimensions of explored alternate spaces correlate with the different species and specifications of Wanderers. This humanoid-type Wanderer proves far more dangerous than the previous animal-type, and its escape route led to an alternate space vastly larger than any I've studied before.
 > I believe there exists a positive correlation between the size of the planetary Protofield spaces and the Wanderers' power levels...
 > -- [[Shaylin]], [[WU-16 Utopian Roamer#02 New Theory]]
+
+![[Protofield_Spacepedia_image.png]]
 # Spacepedia
 Wanderers create an alternate dimension using an energy field. Currently, all relevant information is from hunters who've fought them. Because of the threats lurking in these mysterious Protofields, the [[Hunters Association]] requires two [[Evolver]]s to be present so they can support each other. They must also be ready to retreat should one of them encounter any danger.
 

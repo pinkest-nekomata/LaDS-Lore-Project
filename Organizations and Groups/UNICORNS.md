@@ -5,6 +5,7 @@
 > -- [[WU-11 Frontline Hunter]]
 * ((The subway station is a reference to [[01-06.04 Loop of Mirrors]], where [[MC]] and [[Xavier]] shattered all the glass on a train and in a subway station to fight a [[Tezcatlipoca]].))
 
+![[UNICORNS_Spacepedia_image.webp]]
 # Spacepedia
 One of the teams under the [[Hunters Association]]. First established during the disaster 14 years ago (([[Chronorift Catastrophe]])), it is responsible for dealing with [[Wanderer]]-related incidents, especially those involving dangerous Wanderers. Its logo is that of a unicorn.
 
