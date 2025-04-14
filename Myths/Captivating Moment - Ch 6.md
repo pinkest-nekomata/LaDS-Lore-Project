@@ -9,7 +9,7 @@ As the people trailing them gather, Sylus invites MC back onto his motorcycle. H
 ## Commentary
 
 ### Main Story Timeline
-This myth pretty clearly fits into [[Operation Aether Ordeal]], and notes the season to be spring. This is in line with the most simple interpretation of the time skips leading up to [[03 Prologue To Tomorrow]], except that [[03-C Voyage of the Outcast]] specifically notes the season to be autumn. [[WU-19 Serpent's Cast]] specifically places the [[Bloomshore District explosion]] in winter to resolve this discrepancy. See also [[Main Story Timeline Discrepancies]].
+This myth pretty clearly fits into [[Operation Aether Ordeal]], and notes the season to be spring. This is in line with the most simple interpretation of the time skips leading up to [[03 Prologue To Tomorrow]], except that [[03-C Voyage of the Outcast]] specifically notes the season to be autumn. [[WU-19 Serpent's Cast]] specifically places the [[Bloomshore District explosion]] in winter to resolve this discrepancy. See also [[Timeline Analysis - Bloomshore District Explosion]] and [[Timeline Analysis - Prologue to Tomorrow]].
 
 # Details
 They leave the building at sunrise, heading through a nearby park. MC is initially relieved, but this reveals that she still has more to learn.
@@ -79,7 +79,7 @@ They leave the building at sunrise, heading through a nearby park. MC is initial
 > Sylus: They're fake. You can't tell unless you take a closer look.
 > *Leaning against his motorcycle, Sylus looks at the tree canopy in front of him.*
 > *The tree covered in blooming, pink flowers looks like cotton candy under the sun.*
-* ((It's specifically noted to be spring, but there are some inconsistencies regarding the season of [[Operation Aether Ordeal]]. See also [[Main Story Timeline Discrepancies]].))
+* ((It's specifically noted to be spring, but there are some inconsistencies regarding the season of [[Operation Aether Ordeal]]. See also [[Timeline Analysis - Prologue to Tomorrow]].))
 
 > Sylus: Plants struggle to grow when there's no sunlight. So, people in the N109 Zone are used to living without plants.
 > MC: The vegetation here might be surprised that someone would get himself into danger just to see them.
