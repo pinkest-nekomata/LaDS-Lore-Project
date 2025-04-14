@@ -41,6 +41,6 @@ Hilariously, [[Xavier]] stumbles across him at this point, and [[Nero]] shoves t
 # 05 A Little Chat
 Two weeks later, [[Lumiere]] is still ranked in the top 10 hunters. [[Nero]]'s username ranks as well, thanks to his defense of Lumiere.
 
-[[Nero]] then runs into [[Xavier]], referencing the three incidents where only [[Xavier]] is the common thread, and says, "You're Lumiere... 's ultimate fan, right?" He also references [[Xavier's limited myth]] when he says "You pulled some strings for that movie gig, didn't you?"
+[[Nero]] then runs into [[Xavier]], referencing the three incidents where only [[Xavier]] is the common thread, and says, "You're Lumiere... 's ultimate fan, right?" He also references [[Twilight's Dawn]] when he says "You pulled some strings for that movie gig, didn't you?"
 
 Finally, [[Nero]] promises to send [[Xavier]] any new info on [[Lumiere]], now that he "knows" he's a fellow "fan".

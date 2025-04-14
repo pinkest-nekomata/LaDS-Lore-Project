@@ -82,7 +82,7 @@
 MC's voice-over adds that he's an expert in the study of [[Protocore Syndrome]] (which is not included in the in-game text of this biography).
 
 # Light and Dark
-Notably, yin and yang is a key theme in Chinese philosphy ([Wikipedia](https://en.wikipedia.org/wiki/Yin_and_yang)), is explicitly mentioned in [[Zayne chinese myth]], and in Zayne's life we see this tension/balance of light and dark. See also [[white ice]], [[black ice]].
+Notably, yin and yang is a key theme in Chinese philosphy ([Wikipedia](https://en.wikipedia.org/wiki/Yin_and_yang)), is explicitly mentioned in [[Snow's Embrace]], and in Zayne's life we see this tension/balance of light and dark. See also [[white ice]], [[black ice]].
 
 In Zayne's anecdotes [[Never-Ending Winter]] and [[Still In Dark]], it's revealed that when Dr. Zayne was twelve, he started having nightmares of a "[[Grim Reaper]]"--ie [[Zayne - Dawnbreaker]]. Likewise, Dawnbreaker began having fragmented dreams of the doctor when he was twelve.
 

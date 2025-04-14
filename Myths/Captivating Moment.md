@@ -1,7 +1,11 @@
 [[Sylus]]'s permanent myth, providing more insight into his life in the [[N109 Zone]] through [[MC]]'s perspective.
 
+Companion: [[Sylus - Relentless Conquerer]]
+
 **Description**
 > In these three days together, l've been collecting puzzle pieces, slowly revealing a side of you only I know.
+
+![[Myth - Captivating Moment.png]]
 
 # Index
 * [[Captivating Moment - Ch 1]]

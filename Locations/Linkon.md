@@ -26,9 +26,6 @@ City Center/Downtown
 * Unnamed building
 	* [[Kovi's gambling lounge]]
 
-Metro Area
-* [[Whitesand Bay]]
-
 Unspecified
 * [[Empyreal Ring District]]
 	* [[Empyreal Ring District 23]]
@@ -40,11 +37,15 @@ Unspecified
 * [[West Garden Station]]
 * [[Linkon Cloud Train Terminal]]
 * [[Soaria Financial Hub]]
-* [[Linkon Bridge]]
+* [[Linkon Bridge]] ([[Movere Bridge]]?)
 * [[Silver Screen Hotel]]
 * [[Shellbank District]]
 * [[Philee District]]
 	* [[Hillside Gardens]]
+* [[Linkon City Convention and Exhibition Center]]
+
+Metro Area
+* [[Whitesand Bay]]
 
 Suburbs and surrounding areas
 * [[southeastern suburbs]]

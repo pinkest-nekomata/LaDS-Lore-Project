@@ -8,6 +8,7 @@ A non-exhaustive list of Sylus's residences, safe houses, and other key location
 	* [[Sylus's base]], aka [[Onychinus]]'s base
 	* [[Sylus's luxury suite]]
 
-International
+Outside [[Linkon]]
 * [[small country in the south]]
 	* Luxury hotel suite with another private boxing ring
+* [[Goldwood City]], features in [[Greedy Heart]]

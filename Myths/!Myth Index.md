@@ -1,19 +1,20 @@
 
 # Xavier
 * [[Shooting Stars]] (Permanent)
-* [[Xavier's limited myth]]
+* [[Twilight's Dawn]]
 
 # Zayne
 * [[Tower of Secrets]] (Permanent)
-* [[Zayne chinese myth]]
+* [[Snow's Embrace]] (Limited)
 
 # Rafayel
 * [[Sea of Golden Sand]] (Permanent)
 * [[Forgotten Sea]] (Limited)
 
 # Sylus
-* [[Captivating Moment]]
-* [[Beyond Cloudfall]]
+* [[Captivating Moment]] (Permanent)
+* [[Beyond Cloudfall]] (Limited)
 
 # Caleb
-* [[Caleb Farspace myth]]
+* [[Lucid Dreams]] (Permanent)
+* [[Decoherence]] (Limited)

@@ -1,1 +1,2 @@
-"The steep, winding road through the mountains near the western suburbs is lined with trees that could cover the sky. (It's like you're in the wilderness. There's nothing to see, and you can't really go anywhere...)" -- [[01-02.02 Close Encounter]]
+> The steep, winding road through the mountains near the western suburbs is lined with trees that could cover the sky. (It's like you're in the wilderness. There's nothing to see, and you can't really go anywhere...)
+-- [[01-02.02 Close Encounter]]

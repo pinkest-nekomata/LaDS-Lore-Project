@@ -1,0 +1,1 @@
+The humans' gleaming white capital city in [[Beyond Cloudfall]]. Contrast to [[Tarus]] City.
