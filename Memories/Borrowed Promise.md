@@ -5,7 +5,7 @@
 *Release date:* 2025-01-22
 *[lads.wiki page](https://lads.wiki/wiki/Caleb:_Borrowed_Promise)*
 
-![[600px-Caleb_Borrowed_Promise_portrait.webp]]
+![[Caleb_Borrowed_Promise_full.png]]
 
 **Description**
 > Old Days: One summer in high school, I had a small disagreement with a friend, which left me feeling down. Sensing my mood, Caleb knocked on my door...

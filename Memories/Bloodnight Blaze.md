@@ -5,7 +5,7 @@
 *Release date:* 2024-12-02
 *[lads.wiki page](https://lads.wiki/wiki/Sylus:_Bloodnight_Blaze)*
 
-![[600px-Sylus_Bloodnight_Blaze_portrait.webp]]
+![[1200px-Sylus_Bloodnight_Blaze_full.webp]]
 
 **Description**
 > Sylus is injured. This might be a good chance to discover his vulnerabilities.
