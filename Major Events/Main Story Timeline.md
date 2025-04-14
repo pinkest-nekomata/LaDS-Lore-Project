@@ -1,3 +1,4 @@
+NOTE: This page is being replaced with [[Main Story Timeline Flowchart.canvas|Main Story Timeline Flowchart]], so new additions should go there and follow the tabular formatting used for key events.
 
 Day -14: Approx date that [[Raymond]] starts showing symptoms. ([[01-02.02 Close Encounter]])
 
