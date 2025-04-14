@@ -9,6 +9,8 @@ Mirrors of ice surround him, and he goes to cut down one last humanoid figure--o
 
 But then ice rises to encase him, and he hears a cold male voice that tells him not to risk himself for [[MC]] and "Seek your destiny. Only then can you be redeemed".
 
+← [[03-A Thorns Under the Moon - 07]] | [[03-A Thorns Under the Moon - 09]] →
+
 ## Commentary
 
 ### Past 'victims'

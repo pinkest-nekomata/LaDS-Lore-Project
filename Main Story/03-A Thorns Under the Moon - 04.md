@@ -7,6 +7,7 @@ During the surgery, he and MC both spot a scale-like crystal just like the [[Wan
 
 Unwilling to leave the patient, [[Zayne]] asks MC to regulate the [[Metaflux]] with her [[Evol]] and buy him time. She agrees.
 
+← [[03-A Thorns Under the Moon - 03]] | [[03-A Thorns Under the Moon - 05]] →
 ## Commentary
 Zayne is willing to put his life on the line for his patients, as usual.
 

@@ -3,6 +3,8 @@ MC falls through Zayne's nightmare of her being impaled by black crystals, excep
 
 She pieces together that they're inside a manifestation [[Zayne]]'s dream. ((Readers know about [[Zayne's Dawnbreaker dreams]], but MC doesn't yet.)) Zayne reveals she's been unconscious two days by his reckoning. They pause to eat chocolate together to ensure MC keeps up her strength. Zayne admits this place is the scene of his nightmares.
 
+← [[03-A Thorns Under the Moon - 06]] | [[03-A Thorns Under the Moon - 08]] →
+
 ## Commentary
 [[Still In Dark]] puts the setting here in context, and is very helpful to read/reread alongside this part of the story.
 

@@ -5,6 +5,7 @@ MC reflects it's her first time seeing him in surgery--and she also got to see h
 
 A call comes in, and Zayne is shocked to hear the patient is already awake.
 
+← [[03-A Thorns Under the Moon - 04]] | [[03-A Thorns Under the Moon - 06]] →
 ## Commentary
 Zayne hints more here that he knows more about the [[Aether Core]](s) than he's let on. Or, at least, he has his hunches.
 

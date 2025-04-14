@@ -7,6 +7,8 @@ But as she's clearing the ice from his hand, she's suddenly back in the misty ha
 
 MC wakes up and realizes that Zayne has been risking himself while she's unconscious.
 
+← [[03-A Thorns Under the Moon - 08]] | [[03-A Thorns Under the Moon - 10]] →
+
 ## Commentary
 The return to the misty hall of [[Akso Hospital]] confirms that this second layer of the nightmare is the one where he sees her in the halls of the hospital.
 

@@ -2,6 +2,8 @@
 [[Jenna]] reveals that a [[Wanderer]] with a [[Beta-Protocurve]] is active in [[Chansia City]] and is causing patients with [[Protocore Syndrome]] to go into coma/shock. [[Zayne]] has already been assigned to the [[Akso Hospital]] team supporting [[Chansia Hospital]], so [[MC]] volunteers to go as a hunter escort. Her mission is to search for traces of an [[Aether Core]].
 
 As she goes to meet [[Zayne]] outside, [[Carter]] appears. He offers her white roses, gushing about meeting her, but also very persistent in trying to get her the flowers/etc. Zayne effectively shoos him off, but not before [[Carter]] gives a veiled threat.
+
+← [[03-A Thorns Under the Moon - 01]] | [[03-A Thorns Under the Moon - 03]] →
 ## Commentary
 Carter's behavior is very sus here. [[Carter]] and [[Zayne]] both worked under [[Dr. Noah]] in med school, and [[Carter]] wanted to recreate [[Zayne's research]]. He's been trying to recruit Zayne to project [[X-Heart]] at [[Xander Sciences]] for years, as [[WU-02 Snowy Stairs]] reveals, even though patients have [[black crystals]] growing in their hearts and eventually die anyway. During that story, [[Carter]] resolved to try to use [[MC]] to get to [[Zayne]], effectively holding him hostage for his surgical skills. 
 # Details
