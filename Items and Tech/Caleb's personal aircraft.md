@@ -1,0 +1,1 @@
+It has a small cockpit built for two. Caleb uses it to get around [[Skyhaven]], especially to and from [[Caleb's place]] and the [[Farspace Fleet command center]].

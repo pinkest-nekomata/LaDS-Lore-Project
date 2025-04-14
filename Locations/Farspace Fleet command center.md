@@ -1,0 +1,1 @@
+Housed within the highest of [[Skyhaven]]'s [[Guard Station]]s and encircled by the [[Skyhaven Ring]]. Fleet starships land and take off for [[Deepspace Tunnel]] missions from this location.

@@ -8,7 +8,7 @@ Cover image: [[Viper]] and [[Professor Lucius]]
 # Summary
 [[Viper]] recovers a young [[Evolver]] from the trafficking organization [[Viridilus]]. Against [[Professor Lucius]]'s wishes, he kills the group's leader, taking revenge for his own childhood experience of being trafficked.
 
-Viper returns with the girl to the [[Toring Cyberkinetics Institute]], where [[Caleb]] has just been recovered from the [[Bloomshore District explosion]]. Caleb is near death due to having used his [[Evol]] to contain the blast, thus sparing [[MC]] from injury ((but not being able to save [[Grandma]])). [[Professor Lucius]] takes a break form working on Caleb's "repairs", which are facing issues due to him rejecting the [[Toring chip]] technology, to greet the young girl. 
+Viper returns with the girl to the [[Toring Cyberkinetics Institute]], where [[Caleb]] has just been recovered from the [[Bloomshore District explosion]]. Caleb is near death due to having used his [[Evol]] to contain the blast, thus sparing [[MC]] from injury ((but not being able to also save [[Grandma]])). [[Professor Lucius]] takes a break form working on Caleb's "repairs", which are facing issues due to him rejecting the [[Toring chip]] technology, to greet the young girl. 
 
 He welcomes her to the "family", but as soon as she's gone the shallow nature of his affection is revealed, especially in how he's discarded [[Viper]], who he used to call his "perfect" child.
 
@@ -52,7 +52,7 @@ Within the institute, researchers gather around a cryogenic experiment chamber. 
 
 [[Professor Lucius]] reflects on how he recovered [[Caleb]] from the rubble of the [[Bloomshore District explosion]] three days ago. He knows that Caleb is Test Subject 002, that MC was called Unicorn, and that [[Grandma]] (Josephine) hid both children away. 
 
-Based on his analysis, the reason for Caleb's near-death is that he used his [[Evol]] to contain the blast, taking on the brunt of the explosion. ((This was not enough to save [[Grandma]], whose health was poor to begin with, but likely spared [[MC]].))
+Based on his analysis, the reason for Caleb's near-death is that he used his [[Evol]] to contain the blast, taking on the brunt of the explosion. ((In [[04-01.04 Gentle Gaze]], when asked about [[Grandma]], [[Caleb]] tells [[MC]] "I couldn't protect both of you" confirming that he intentionally used his Evol to spare [[MC]] from injury.))
 
 Lucius notes that when Caleb was recovered:
 > Fragments of a broken communication device were still lodged in his collar, which had been stained in blood. Perhaps this was the last piece of evidence that proves his attempt to contact someone before the explosion.

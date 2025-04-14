@@ -6,6 +6,10 @@
 > -- [[MC]] POV, [[02-02.04 The First Deal]]
 
 In the [[Zayne - Dawnbreaker]] timeline, humans in the midst of transforming are called [[Abomination]]s, and this is a useful term for the phenomenon more broadly.
+
+# Circumstances
+> "After that incident, we learned that under extremely special circumstances--When [[Wanderer]]s strike, their attacks cause energy crystals to grow in the afflicted area. They corrode the human body and grow a sort of "shell" over it. Once that happens, the victims can lose their sanity within seconds and uncontrollably lash out at anyone around them."
+> -- [[Zayne]], [[04-01.07 Unexpected]]
 # Transformation
 [[Never-Ending Winter#05 A Long Way Home]] and [[Never-Ending Winter#06 The Nightmare Worsens]] describe [[William]]'s transformation in detail:
 > "What is it?" William turns around.

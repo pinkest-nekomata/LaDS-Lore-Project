@@ -12,6 +12,9 @@ In [[WU-06 Sealed In Dust#06 Dust]], an [[Ever]] hitman and one of the [[Backtra
 
 In [[02 Long Awaited Revelry]], [[Sylus]] notes that her power is only a fraction of what it once was. ( #todo, more specific citation)
 
+# Misc Info
+* As a result of her trauma from the [[Chronorift Catastrophe]], MC had "astrophobia" when she was younger, because the sound of thunder reminded her of the sound of [[Wanderer]] roars. Caleb would alway sit with her and helped her get over her fear. ([[04-01.05 Visitation]])
+
 # Timeline
 
 ## Quick Reference

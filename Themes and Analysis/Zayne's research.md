@@ -10,10 +10,16 @@
 > "It's also... because of... someone. I don't want to be incapable of doing anything again when I become a threat to her."
 > --[[Zayne]], [[WU-01 Longly Flame#03 Heart]]
 
-> "[[Dr. Noah]], this project is about the application of [[Protocore]] Energy in interventional cardiology procedures. But during the experiment..."
+> "[[Dr. Noah]], this project is about the application of [[Protocore Energy]] in interventional cardiology procedures. But during the experiment..."
 > *Zayne closed his eyes and shook his head. He took out the only remaining image from his data and handed it to Dr. Noah. The picture was a heart that was mostly covered in [[black crystals]]. To be more precise, it looked like a human heart, beating and growing out of black crystals.*
 > -- [[WU-01 Longly Flame#04 Oath]]
 * ((This chapter being named "Oath", along with setting these events near the first-years swearing their medical oaths, connects Zayne's decision here to the idea of the Hippocratic oath--first, do no harm. He believes this research is harming/could harm people, so he destroys the data.))
 
-> "If you had kept going, maybe you would've already broken free from the shackles of natural law," Carter says. "Zayne, your talents are wasted at [[Akso Hospital]]. [[Xander Sciences]] doesn't want to see a genius like you be forgotten. The [[Evol]] technology you're insisting on is so last year. No one wants an artificial lump that needs to be charged in their heart now. Protoore tech is the golden brick that will pave the way to the future."
+> "If you had kept going, maybe you would've already broken free from the shackles of natural law," Carter says. "Zayne, your talents are wasted at [[Akso Hospital]]. [[Xander Sciences]] doesn't want to see a genius like you be forgotten. The [[Evol]] technology you're insisting on is so last year. No one wants an artificial lump that needs to be charged in their heart now. Protocore tech is the golden brick that will pave the way to the future."
 > -- [[Carter]], [[WU-02 Snowy Stairs#02 Yesterday Once More]]
+
+> Zayne: After that incident, we learned that under extremely special circumstances--When [[Wanderer]]s strike, their attacks cause energy crystals to grow in the afflicted area. They corrode the human body and grow a sort of "shell" over it. Once that happens, the victims can lose their sanity within seconds and uncontrollably lash out at anyone around them.
+> *Some of the vague relationships between a few things become clearer: Zayne's secret research, the small animals at Dr. Noah's home...*
+> MC: Your research with [[Dr. Noah]] in the [[Arctic]] involves this, right?
+> Zayne: It does.
+> -- [[04-01.07 Unexpected]]

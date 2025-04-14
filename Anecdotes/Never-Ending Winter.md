@@ -100,7 +100,7 @@ As [[Zayne]] wraps his wounds, [[William]] confronts him--Zayne should have stay
 > It was the first time a black-robed [[Grim Reaper]] appeared in his dreams.
 
 # 05 A Long Way Home
-((This starts with the note "the day grows shorter", potentially indicating the events occur after June 21st (the summer equinox), but it may just be thematic.))
+((This starts with the note "the days grow shorter", potentially indicating the events occur after June 21st (the summer equinox), but it may just be thematic.))
 
 The group reaches the valley, and over 15 of the original team members have died. (This means the tallies on [[Zayne's notebook]] now number more than 20.) Finally, they've neared the [[Protofield]]'s center. The team goes through some jargon as they set up the anti-[[Protofield]] equipment.
 

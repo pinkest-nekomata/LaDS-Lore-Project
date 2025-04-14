@@ -37,6 +37,7 @@ Meanwhile, [[Rafayel]] discusses his own deal with the [[mysterious Ever represe
 * [[01-05 Eternal Aurora]]
 * [[01-06 Endless Night]]
 * [[01-07 Moonlight Under Sea]]
+* [[01-08 Galactic Sunset]]
 # All Chapters
 [[01-01 To Begin]]
 * [[01-01.00 Singularity Echo]]

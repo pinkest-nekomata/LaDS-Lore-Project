@@ -1,0 +1,1 @@
+Specific location of the [[Cascade District explosion]] in [[Skyhaven]]'s [[Cascade District]].

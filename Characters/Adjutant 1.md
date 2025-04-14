@@ -1,0 +1,1 @@
+[[Colonel]] [[Caleb]]'s Adjutant before [[Liam]]. During [[04-01.01 Infiltration]], it's revealed that this Adjutant is an agent for the "old guard" who wants Caleb dead, so the Adjutant tried to crash the ship in Deepspace and also tried to assassinate Caleb with a knife right as they were about to land. Caleb executed him on the spot.

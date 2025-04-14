@@ -10,7 +10,7 @@ Caleb and MC reunite, then head back to the house. After briefly bickering about
 
 This pause ends up saving MC's life--an explosion occurs a moment later, engulfing [[MC's childhood home]] in flames. She's able to recover [[Caleb's necklace]].
 
-((Later, in [[Homecoming Wings]], we learn that [[Caleb]] survived this explosion thanks to [[Ever]]'s intervention, though his arm couldn't be saved and was replaced with a mechanical prosthetic.))
+((Later, in [[04 Homecoming Wings]], we learn that [[Caleb]] survived this explosion thanks to [[Ever]]'s intervention, though his arm couldn't be saved and was replaced with a mechanical prosthetic.))
 
 Off-screen, MC is examined by [[Zayne]] and he agrees to let her return to working as a hunter, even though he would have recommended three months rest otherwise. She undergoes a cardiac Evol evaluation.
 

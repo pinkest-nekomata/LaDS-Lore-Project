@@ -55,7 +55,7 @@ They briefly discuss how [[Yvette]] feels about [[Cloud]] now. She says she was 
 
 [[Yvette]] reveals that she and [[Liam]] (who has not yet been named) were high school sweethearts and joined the [[Deepspace Aviation Administration]] together.
 
-As the kids arrive, [[Yvette]] offers to take them to the [[Skyhaven Ring]] to see if they can visit their father, and invites [[Juniper]] along, saying it might shed some light on things.
+As the kids arrive, [[Yvette]] offers to take them to the [[Skyhaven Ring]] (and, by extension, the [[Farspace Fleet command center]]) to see if they can visit their father, and invites [[Juniper]] along, saying it might shed some light on things.
 
 # 05 Heartless
 
