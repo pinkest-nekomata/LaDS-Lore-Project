@@ -1,0 +1,1 @@
+Dedicated to training hunters. Teaches a variety of skills like basing boxing technique.

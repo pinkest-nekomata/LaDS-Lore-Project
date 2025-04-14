@@ -12,7 +12,7 @@
 * [[Forgotten Sea]] (Limited)
 
 # Sylus
-* [[Sylus Captivating Myth]]
+* [[Captivating Moment]]
 * [[Beyond Cloudfall]]
 
 # Caleb

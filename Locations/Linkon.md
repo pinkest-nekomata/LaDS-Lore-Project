@@ -14,7 +14,7 @@ Linkon was one of the cities that suffered from the initial [[Wanderer]] attacks
 ## Known Locations
 (Not exhaustive)
 
-City Center
+City Center/Downtown
 * [[Azure Square]]
 * [[central business district]], home to [[Flux Arts]]
 * [[Universum]]
@@ -23,6 +23,8 @@ City Center
 * [[MC's apartment]]
 * [[The Nest]] (tentative)
 * [[Linkon Central Park]]
+* Unnamed building
+	* [[Kovi's gambling lounge]]
 
 Metro Area
 * [[Whitesand Bay]]

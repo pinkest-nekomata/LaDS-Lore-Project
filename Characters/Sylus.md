@@ -17,7 +17,7 @@ The leader of [[Onychinus]] is said to have built his empire on illegal [[Evol]]
 
 Companion variants:
 * [[Sylus - Otherworldly Visitor]] (Default)
-* [[Sylus - Relentless Conquerer]] (Permanent Myth, [[Sylus Captivating Myth]])
+* [[Sylus - Relentless Conquerer]] (Permanent Myth, [[Captivating Moment]])
 * [[Sylus - Abysm Sovereign]] (Limited Myth, [[Beyond Cloudfall]])
 
 See also:

@@ -1,0 +1,1 @@
+The exclusive weapon for the [[Sylus - Relentless Conquerer]] companion. He gives her these pistols in [[Captivating Moment - Ch 7]].
