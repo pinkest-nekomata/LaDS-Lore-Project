@@ -13,7 +13,7 @@ MC is able to suppress the [[Metaflux]] and the surgery finishes successfully. A
 
 In the lounge, Zayne offers to do an Evol examination for MC, using patches attached to her fingers. She says she feels fine, but he knows she pushed herself. He reveals that he knows that the [[Metaflux]] wasn't the kind that an ordinary [[Wanderer]] could generate, and that MC is also there due to the [[Aether Core]] investigation.
 
-Remember that [[Zayne]] worked under [[Dr. Noah]] and has known about [[Aether Core]]s for a while, she loosens up. She wonders if the human-like [[Wanderer]]s were also created by the Aether Core. But Zayne says an [[Aether Core]] alone wouldn't cause mutation (MC has no problems with hers). Zayne suspects "someone attempted to be smart, but ended up failing in the process."
+Remember that [[Zayne]] worked under [[Dr. Noah]] and has known about [[Aether Core]]s for a while, she loosens up. She wonders if the [[human-like Wanderer]]s were also created by the Aether Core. But Zayne says an [[Aether Core]] alone wouldn't cause mutation (MC has no problems with hers). Zayne suspects "someone attempted to be smart, but ended up failing in the process."
 
 Zayne adds:
 > In this world, many forces covet the [[Aether Core]]. You have'nt met all of them yet.

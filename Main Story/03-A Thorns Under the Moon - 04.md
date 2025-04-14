@@ -3,7 +3,7 @@ The patient is in critical condition, so Zayne prioritizes a surgery to remove t
 
 [[MC]] meets [[Captain Willow]] from the [[Chansia Branch]] of the [[Hunters Association]] and they share notes on the [[Wanderer]], which resembles a [[Myst]].
 
-During the surgery, he and MC both spot a scale-like crystal just like the [[Wanderer crystal sample]] from the human-like [[Wanderer]]s in the [[N109 Zone]]. Once the last crystal is removed, a [[Metaflux]] fluctuation occurs, setting off alarms.
+During the surgery, he and MC both spot a scale-like crystal just like the [[Wanderer crystal sample]] from the [[human-like Wanderer]]s in the [[N109 Zone]]. Once the last crystal is removed, a [[Metaflux]] fluctuation occurs, setting off alarms.
 
 Unwilling to leave the patient, [[Zayne]] asks MC to regulate the [[Metaflux]] with her [[Evol]] and buy him time. She agrees.
 

@@ -3,7 +3,7 @@
 
 After heading back to [[Linkon]], [[Zayne]] is finally able to sleep. [[Simone]] calls [[MC]] and reveals that a strange device found in the ICU is a [[Radio-Frequency Chip]], which is able to summon [[Wanderer]]s. [[MC]] suspects [[Carter]] instantly, but [[Simone]] points out that [[Ever]] acquired [[Xander Sciences]] recently, after [[Raymond]]'s death.
 
-MC puts this together with the human-like [[Wanderer]]s she saw in the [[N109 Zone]] to determine that Ever is creating monsters.
+MC puts this together with the [[human-like Wanderer]]s she saw in the [[N109 Zone]] to determine that Ever is creating monsters.
 
 Though Zayne's dreams are initially pleasant, the dreaded nightmare of his ice hurting her returns.
 
