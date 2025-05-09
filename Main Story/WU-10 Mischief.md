@@ -35,7 +35,7 @@ As the twins discuss this, they reveal that the "younger one of the 303 twins...
 They decide to go out with a bang. Realizing they're next to the [[N109 Zone]], they remember researchers mentioning [[Sylus]] as a dangerous [[Protocore]] smuggler, "that ruthless boss of [[Onychinus]]". Luke suggests they try to kill him. Kieran laughs at first, but Luke insists that getting killed by [[Sylus]] is better than transforming. Kieran ponders, then agrees.
 
 # 02 Rumor
-Over the next two weeks, the twins gather intel on Sylus. The most useful bit of information is that [[Sylus]] has a permanent luxury suite at [[Solon Hotel]], and this tidbit:
+Over the next two weeks, the twins gather intel on Sylus. The most useful bit of (alleged) information is that [[Sylus]] has a permanent luxury suite at [[Solon Hotel]] (see also [[Sylus's Solon Hotel suite]]), and this tidbit:
 > "They say he doesn't have a fixed appearance. He wears a new face every day. No one has ever seen his real appearance."
 * ((This is a wink at what Sylus says in [[Beyond Cloudfall - Ch 4]]--Everyone sees something different when they look at a fiend, and it's a reflection of their own hearts. In the main story, Sylus's appearance is written consistently across character POVs. His same comment is a clue as to how he can get away with this--the vast majority of people just wouldn't expect that Onychinus's leader would casually walk around Linkon, for example.))
 

@@ -1,0 +1,2 @@
+> "Well, they say Sylus has a permanent luxury suite at [[Solon Hotel]]. The walls are stuffed with the bodies of his enemies. It's haunted at night."
+> -- [[Luke and Kieran]], [[WU-10 Mischief#02 Rumor]]

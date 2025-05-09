@@ -6,7 +6,8 @@ A non-exhaustive list of Sylus's residences, safe houses, and other key location
 [[Linkon]] Area
 * [[N109 Zone]]
 	* [[Sylus's base]], aka [[Onychinus]]'s base
-	* [[Sylus's luxury suite]]
+	* [[Sylus's luxury suite]] (see also [[Sylus's luxury suite#Location]])
+	* [[Sylus's Solon Hotel suite]] (alleged in [[WU-10 Mischief#02 Rumor]])
 
 Outside [[Linkon]]
 * [[small country in the south]]
