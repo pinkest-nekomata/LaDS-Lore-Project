@@ -1,0 +1,1 @@
+A harmless [[Wanderer]] that [[Xavier]] has befriended.
