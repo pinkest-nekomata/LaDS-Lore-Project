@@ -13,3 +13,6 @@ Outside [[Linkon]]
 * [[small country in the south]]
 	* Luxury hotel suite with another private boxing ring
 * [[Goldwood City]], features in [[Greedy Heart]]
+
+Unspecified
+* [[Sylus's castle]], introduced in [[Valleydream Bloom]]

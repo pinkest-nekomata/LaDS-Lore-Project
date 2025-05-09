@@ -16,7 +16,9 @@ There was a mistake in their destination ([[01-08.07 Stellar Guidance]]) though 
  > Something messed with the slipspace during the Backtrack. The spaceship couldn't handle the [[Deepspace Tunnel]] fluctuations. Both she and the [[Aether Core]] vanished without a trace. For all we know, they might already be cosmic dust.
 > -- [[Noah]] about [[MC]], [[Passing By#04 Old Friend]]
 # Crash site
-The ship crashed on Earth in a forest. Part of the wreckage is underground. ([[WU-04 From The Stars]])
+The ship crashed on Earth in a field of flowers that later became a forest, then [[No-Hunt Zone 42]]. Xavier says that at that time, the flowers hadn't fully bloomed, the weather wasn't as nice, and his feelings were different. ([[Inflorescence Imprints]])
+
+Part of the wreckage is underground. ([[WU-04 From The Stars]])
 
 Eventually, [[Linkon]] City was built nearby, as was a secret signal station, but the ship remained hidden beyond a valley. After the [[Chronorift Catastrophe]], the area of the signal station became [[No-Hunt Zone 19]], which MC and Xavier visit in [[Silvery Polyphony]].
 

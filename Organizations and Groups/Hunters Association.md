@@ -24,8 +24,10 @@ The association was created on January 1st, 2035, approx 6mo after the [[Chronor
 	* [[UNICORNS]]
 	* [[Hunter Dispatch]]
 * [[Arctic Team]] (see [[Arctic Hunter]])
-* [[Chansia Branch]]
-* [[Skyhaven Branch]]
+* [[Chansia Branch]] ([[03-A Thorns Under the Moon]])
+* [[Skyhaven Branch]] ([[04 Homecoming Wings]])
+* [[Dawnlight Branch]] ([[Fragrant Possession]])
 
 ## Trivia
 * Hunters are assisted by an [[OTTO]]-CSE model, which can even dispense medications according to a hunter's needs, as determined by the data on their [[Hunter's Watch]]. It has an adorable voice. ([[01-02.01 In UNICORNS]])
+* The Association has a PR department that organizes things like magazine interviews to help try to recruit more hunters. ([[Fragrant Possession]])

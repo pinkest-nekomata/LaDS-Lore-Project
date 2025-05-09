@@ -1,0 +1,1 @@
+Now a memorial hall after it served as a temporary medical shelter during the [[Chronorift Catastrophe]] ([[Fragrant Possession]]).
