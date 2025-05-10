@@ -1,0 +1,1 @@
+An unnamed girl who leads [[MC]] to [[Elysium]] in [[02-01.08 Hesitation]]. Generally unfazed by the chaos and has a keen business sense. Calls [[Shopkeeper]] "Auntie".

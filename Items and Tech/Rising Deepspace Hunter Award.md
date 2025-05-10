@@ -1,0 +1,3 @@
+MC wins this award for rookie hunters in [[Fragrant Possession]]. Tara says it's been three years since a [[Linkon]] hunter won the award.
+
+Since this is an LI-specific Memoria, it's not necessarily a global canon event for all timelines. A potential place in the main story timeline would be the spring of 2050, approx 6mo after [[04 Homecoming Wings]]. (See also [[Main Story Timeline Flowchart.canvas|Main Story Timeline Flowchart]].)

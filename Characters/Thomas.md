@@ -12,5 +12,8 @@ A professional art broker. Owns [[Flux Arts]] and is [[Rafayel]]'s agent. Consta
 
 First Mention: [[01-02.06 Next Target]]
 
+He's married to [[Solana]] and they have an infant daughter ([[WU-13 High & Low Culture]]).
+
+His favorite TV show is a romantic drama, [[Let's Watch the Meteor Shower]] ([[WU-13 High & Low Culture]]).
 ## Backstory
 [[A Unique Vermillion#03 Passionate Colors]] reveals that [[Thomas]] used to be an artist himself. While he was competent technically, his paintings were missing that *je ne sais qoui* compared to Rafayel's--it's [[Rafayel]]'s custom pigments that give him the edge and make his paintings truly one-of-a-kind. Though they met as fellow artists at an exhibition, Thomas ends up going to business school just so he can be Rafayel's agent and bring those colors to more people. 

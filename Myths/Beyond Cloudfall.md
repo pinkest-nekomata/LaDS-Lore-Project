@@ -1,4 +1,8 @@
 [[Sylus]]'s limited myth, detailing his days as a dragon with [[Sorceress MC]].
+
+Companion: [[Sylus - Abysm Sovereign]]
+
+![[Myth - Beyond Cloudfall.png]]
 # Index
 * [[Beyond Cloudfall - Ch 1]]
 * [[Beyond Cloudfall - Ch 2]]

@@ -16,6 +16,20 @@ This is some pretty key lore both for [[Zayne]] and for the [[human to Wanderer 
 
 By the time [[Carter]] is trying to recruit [[Zayne]] to [[X-Heart]], [[Zayne]] already holds the secret of what happened to [[William]] and knows that [[Protocore]] exposure will do more harm than good.
 
+### Who kills William?
+There are two possible ways to interpret William's death--either that Dr. Zayne did what needed to be done and is haunted by it, or [[Zayne - Dawnbreaker]] intervened through blurring timelines. The latter is suggested [here](https://www.reddit.com/r/LoveAndDeepspace/comments/1hasvxt/comment/m1bxc17/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and each interpretation has interesting supporting evidence:
+
+Evidence for Dr. Zayne: 
+* After William dies, there's literal blood on his hands, and a reference to [[black ice]] reminiscent of Dawnbreaker
+* Zayne specifically sees there's no other option and life can be shockingly ugly at times
+* That Dawnbreaker is just another part of his visions, haunting him now that he's "become" a killer is a straightforward explanation
+
+Evidence for Dawnbreaker:
+* The narrative specifically doesn't mention the source of the killing blow
+* The blood on Zayne's hands could be his own, as his own crystals pierce him even in the main timeline, and he soon realizes he's in a pool of his own blood
+
+A third interpretation is that this ambiguity is intentional, and perhaps Dr. Zayne himself doesn't know. The blurring of Zayne and Dawnbreaker is a key theme, especially in [[03-A Thorns Under the Moon]], where Dr. Zayne wields [[black ice]].
+
 # 01 Night's Daytime Brightness
 We start with one of [[Zayne's Dawnbreaker dreams]]:
 > All Zayne sees is a world of ice and snow. He steps over dozens of bodies, blood still dripping from his hands. With a wave, dark crystals pierce through several other still struggling.
@@ -86,7 +100,7 @@ As [[Zayne]] wraps his wounds, [[William]] confronts him--Zayne should have stay
 > It was the first time a black-robed [[Grim Reaper]] appeared in his dreams.
 
 # 05 A Long Way Home
-((This starts with the note "the day grows shorter", potentially indicating the events occur after June 21st (the summer equinox), but it may just be thematic.))
+((This starts with the note "the days grow shorter", potentially indicating the events occur after June 21st (the summer equinox), but it may just be thematic.))
 
 The group reaches the valley, and over 15 of the original team members have died. (This means the tallies on [[Zayne's notebook]] now number more than 20.) Finally, they've neared the [[Protofield]]'s center. The team goes through some jargon as they set up the anti-[[Protofield]] equipment.
 
@@ -103,17 +117,20 @@ They successfully destroy the [[Protofield]], allowing HQ to get their signal an
 # 06 The Nightmare Worsens
 The narrative details [[William]]'s transformation (edited to focus on the transformation itself):
 > "What is this?"
-> Suspicious, [[William]] touches them. He finds the fine [[black crystals]] are now growing on his hand and sting. He tries to wipe them off, fling them off, even use his [[Evol]] to get rid of them. The crystals continue to grow. [...]
+> Suspicious, [[William]] touches them. He finds the fine [[black crystals]] are now growing on his hand and sting. He tries to wipe them off, fling them off, even use his [[Evol]] to get rid of them. The crystals continue to grow. \[...]
 > It all happens so suddenly.
-> The crystals accumulate, and Wiliam's expression goes from surprised to panicked. "W-what's going on?!"
-> But the crystals don't give him any time to react. Within seconds, his limbs corrode, twisting into uncomfortable, strange positions. The air around him explodes. [...] His bones and muscles are torn and start to dissolve. he cries out in pain.
-> [...] The crystals, consuming bone, devouring marrow, climb to his neck. HIs arms, moving on their own, attack [[Zayne]]. William watches with dread as his body becomes twisted and gnarled.
+> The crystals accumulate, and William's expression goes from surprised to panicked. "W-what's going on?!"
+> But the crystals don't give him any time to react. Within seconds, his limbs corrode, twisting into uncomfortable, strange positions. The air around him explodes. \[...] His bones and muscles are torn and start to dissolve. he cries out in pain.
+> \[...] The crystals, consuming bone, devouring marrow, climb to his neck. HIs arms, moving on their own, attack [[Zayne]]. William watches with dread as his body becomes twisted and gnarled.
 > "It's already too late... Kill me!"
-> [...] The tissue underneath the crystals rapidly forms a strange shell. [...] Crystals have encased William's body, leaving only his eyes, which stare at Zayne with a mix of pain and hope.
+> \[...] The tissue underneath the crystals rapidly forms a strange shell. \[...] Crystals have encased William's body, leaving only his eyes, which stare at Zayne with a mix of pain and hope.
 
-As [[William]] transforms, [[Zayne]] desperately tries to help him--reaching out, repeatedly trying to freeze the crystals. William warns him to stay back, especially after the explosion knocks Zayne away, but still, he persists. The crystals fly outwards, injuring Zayne, as William continues to try to convince him that he's beyond help. He finally accepts there's nothing he can do. Zayne is reminded of the figures in his dreams, also begging to be killed. Finally, Zayne acts.
+As [[William]] transforms, [[Zayne]] desperately tries to help him--reaching out, repeatedly trying to freeze the crystals. William warns him to stay back, especially after the explosion knocks Zayne away, but still, he persists. The crystals fly outwards, injuring Zayne, as William continues to try to convince him that he's beyond help. He finally accepts there's nothing he can do. Zayne is reminded of the figures in his dreams, also begging to be killed. ((Like in those dreams, [[William]] is turning into an [[Abomination]].)) 
 
->The icicles in his palm are coated in blood, soaked with a boundless black.
+>Snow falls again.
+>Zayne moves his stiff fingers. The icicles in his palm are coated in blood, soaked with a boundless black.
+* ((This is also a reference to the [[black ice]] that [[Zayne - Dawnbreaker]] wields.))
+* ((See above for a more detailed discussion of whether it's Dr. Zayne or Dawnbreaker that kills William here. Note that the literal blood on Zayne's hands could be [[William]]'s, but shortly after, Zayne notices that he's in a pool of his own blood. Even in the mains tory timeline, his own crystals pierce his skin and leave scars [[01-02.03 Powder Keg]].))
 
 William's body dissipates into grayish-blue smoke, like a [[Wanderer]].  Then, Zayne has another dream-like vision:
 > The people he killed in his dreams appear once more. Body after body sprawled in front of him, turning the valley into a giant tomb.
@@ -121,7 +138,7 @@ William's body dissipates into grayish-blue smoke, like a [[Wanderer]].  Then, Z
 > 
 > He looks up. The [[Grim Reaper]] stands in the distance, watching him on the snowy mountain covered in blood and death.
 
-((It's worth noting here that [[Sylus]] observes a similar transformation of one of the twins in [[WU-10 Mischief#04 Thrill Seeker]], but Sylus is actually able to halt the transformation with his Evol. This could speak to Sylus's power level, a particularity of the Energy Manipulation Evol, a nuance in the type of transformation occurring, or just a small inconsistency across different writers.))
+
 
 Three years later (2046), [[Zayne]] receives the [[Linde Award]]. ((This is consistent with [[Zayne#Akso Hospital Biography]].)) [[Greyson]] gives him a hard time for not going to the ceremony in person, and [[Zayne]] makes an excuse about needing to be there for a patient. However, after he tosses the award in his drawer next to [[William]]'s martyr medal that [[Sienna]] gave him in [[WU-01 Longly Flame#01 The One Left]], it's clear that he feels he doesn't deserve the award.
 

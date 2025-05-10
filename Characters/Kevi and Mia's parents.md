@@ -1,0 +1,2 @@
+* Were in possession of a [[Spatium Core]] fragment, and gave it to [[Kevi]] when they "left", telling him to protect [[Mia]] and use the fragment to hide.
+* Previously warned [[Kevi]] not to trust anyone "dressed like them" (i.e. other members of the [[Farspace Fleet]])

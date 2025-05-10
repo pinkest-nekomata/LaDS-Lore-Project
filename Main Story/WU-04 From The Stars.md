@@ -33,7 +33,7 @@ Jeremiah sighs and returns to the kitchen.
 Jeremiah further reflects on how things must be hard for [[Xavier]] as the captain of the [[Traceback II]] team, since he's watched members keep splintering off after all these years. The appeal of mundane life, romance, and companionship is too strong. Even though the team braved great danger in space together, they've now drifted apart. (The [[Backtrackers]] and [[Traceback II]] pages contain additional direct quotes from this chapter.)
 
 # 03 Waterfall Inside Forest
-[[Xavier]] heads out to a forest on the city outskirts, where the largest cosmic signal transmission and reception station has been secretly built by [[Linkon]]. ((This description confirms that this location later becomes [[No-Hunt Zone 7]], which is described as a forest with the ruins of a signal station.))
+[[Xavier]] heads out to a forest on the city outskirts, where the largest cosmic signal transmission and reception station has been secretly built by [[Linkon]]. ((This is most likely [[No-Hunt Zone 19]]. [[Xavier]] and [[MC]] visit an intact signal tower during [[Silvery Polyphony]], and it's clear that [[Xavier]] has been inside that tower before.))
 
 Xavier reflects on how he could teleport to his destination, but he prefers to slow his journey when he passes the signal station. He comments on the chatter of the maintenance staff.
 

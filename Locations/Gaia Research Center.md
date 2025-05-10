@@ -6,7 +6,9 @@
 
 The research group where [[Grandma]] worked and did experiments on [[MC]] as a child. See [[Josephine's notes]] and [[Josephine's secret notes]] for more information on these experiments.
 
-The research center was destroyed during the [[Chronorift Catastrophe]] ([[WU-06 Sealed In Dust#04 Post-Catastrophe Journal]]) and then was rebuilt. It's featured in [[WU-08 Micro Universe]], which happens circa 2046.
+Originally located in the biotech district that became the [[N109 Zone]], the research center was destroyed during the [[Chronorift Catastrophe]] ([[WU-06 Sealed In Dust#04 Post-Catastrophe Journal]], [[04-02.10 Crossroads]]).
+
+Later, a new building was created with the same name. It's featured in [[WU-08 Micro Universe]], which happens circa 2046.
 
 # Commentary
 Note that "Gaia" effectively means "Earth" (or the Earth goddess), and in [[Shooting Stars]] we learn that [[MC]]'s [[Aether Core]] allows her to serve as infinite energy to keep [[Philos]] alive--at the cost of her repeated death. The name of this project may foreshadow that [[Ever]] was already aware of the future problem [[Philos]] would face, perhaps due to [[Backtrackers]] violating their [[Nonintervention Principle]].

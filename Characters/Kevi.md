@@ -1,0 +1,7 @@
+About ten years old. One of the twins involved in the [[Cascade District explosion]]. 
+
+He was initially declared to be missing. MC briefly glimpses his hand in [[04-01.01 Infiltration]].
+
+Later, MC is able to coax him out with [[Lucia]] and learns that his parents gave him the [[Spatium Core]] fragment and told him to use its pocket dimension to hide, and to never trust the [[Farspace Fleet]]. MC makes arrangements to get him to [[Zayne]] and the [[Hunters Association]], but in [[04-01.10 Heart's Crossing]] [[Caleb]] disrupts this by keeping MC at his house (potentially by drugging her) and the [[Farspace Fleet]] picks up Kevi instead. The next morning, Caleb and MC get news of [[Mia]]'s death. At Mia's funeral, [[Kevi]] is strangely calm, and MC suspects something's wrong. [[Viper]] gives her a tip and she heads to [[Lucius's Villa]] and finds that [[Kevi]] has been adopted by [[Professor Lucius]] and given some kind of "chip" to control his mind and emotions.
+
+In [[04-02.05 Covert Operation]], MC runs into a young girl who also mentions [[Professor Lucius]] and that she "failed" his test, and so was doomed to transform into a [[Wanderer]]. Since [[Kevi]] showed the crystals and then recovered, we can assume that he "passed" this test, whatever it is.

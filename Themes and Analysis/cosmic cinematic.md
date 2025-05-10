@@ -86,3 +86,34 @@ Storm clouds rage and the sky dims. [[The giant red eye]] looks down from above-
 So far, [[the giant red eye]] theme started with a mechanical-seeming eye that resembled a [[patrol robot]], and was echoed in a nebula-like eye that occurs when [[Sylus]] uses his power. This time, we see an eye that resembles both a mechanical lens and a nebula, and we see it clearly across the sky. Given the ominous, foreboding nature, it's fair to consider whether this is connected to the [[cosmic heartbeat]] as well. In [[03-C Voyage of the Outcast]], [[Xavier]] says the [[Aether Core]]s power come from "the core of the cosmos", which seems to be hinted at here.
 
 #todo check if the fragment is found in [[Skyhaven]]
+
+# Start of Homecoming Wings
+Though not a full cinematic, [[MC]] further reflects on the scene that ends Prologue to Tomorrow:
+
+The narrative picks up directly form [[03-01.04 No Ends]], with the eye-like nebula as the background, though it's not as distinctly red in this image.
+
+> My vision goes dark. Everything blurs as the universe finds a strange stillness inits chaos. And then it fades to nothing.
+> A strong resonance pulses through my body. It stirs fragmented memories that drift like fading apparitions.
+> A pale planet appears. It's strange yet familiar...
+> And then there's an overwhelming force as silent as a black hole...
+> It's... a massive, artificial "eye".
+
+An explosion is heard and fire moves across the screen, leaving red embers.
+> ...It's been a while since I dreamed about the explosion.
+> Looking back, those roaring flames feel like a surreal, distant nightmare.
+> The searing heat in my dreams is still vivid but the pain in my heart is gone. Maybe it's because...
+> The [[Aether Core]] within me has achieved full power.
+
+# End of Homecoming Wings
+Instead of a cinematic, [[04 Homecoming Wings]] ends with this poem:
+> In a forest where shattered stars rest, a crystalline pool appears.
+> As if infused with the wine of life, it's clear yet murky.
+> Young Traveler, do not drink from it.
+> Lost Lover, do not drink from it.
+> But when flowers wither in their sleep, when winds fall silent, when the vigilant owl closes its eyes--
+> Only then can you drink deep of these waters.
+> Let the Dead sing:
+> "O Fountain of Atei! Cleanse my time, nourish my flesh, spare me from the loneliness of eternal rest!
+> Spare me from the loneliness of eternal rest..."
+
+See also [[The Fountain of Atei]].

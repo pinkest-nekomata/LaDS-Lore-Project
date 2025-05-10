@@ -1,0 +1,1 @@
+"A regal-looking old man", [[Captivating Moment - Ch 5]]

@@ -17,12 +17,12 @@ At graduation, [[Gideon]] and [[Patrick]] are selected for the [[Deepspace Aviat
 ## Commentary
 
 ### Caleb's mental state
-This anecdote hints that Caleb's sunny attitude has a dark side in that it's more dissociative than genuine. It's not that he's processed the danger or his negative feelings--he simply is able to operate as if they don't exist. This theme plays out in [[Homecoming Wings]] and his memories as well.
+This anecdote hints that Caleb's sunny attitude has a dark side in that it's more dissociative than genuine. It's not that he's processed the danger or his negative feelings--he simply is able to operate as if they don't exist. This theme plays out in [[04 Homecoming Wings]] and his memories as well.
 
 ### Caleb and Ever
 In a dream that's meant to be taken as a memory, Caleb recalls being under observation in what is almost certainly an [[Ever]] lab as they test his Gravity Evol (due to the similarities to [[Josephine's notes]] and [[Josephine's secret notes]]). It's likely that he also escaped the research facility during the [[Chronorift Catastrophe]] which is how he and [[MC]] ended up finding each other in the shelter, and part of why [[Grandma]] ended up taking him in too. 
 
-His "miraculous recovery" and subsequent symptoms of dissociative amnesia and chaotic dreams (which are memories) also foreshadow [[Ever]]'s involvement in his treatment and recovery. ( #todo compare to [[Cybezin]] when adding [[Homecoming Wings]])
+His "miraculous recovery" and subsequent symptoms of dissociative amnesia and chaotic dreams (which are memories) also foreshadow [[Ever]]'s involvement in his treatment and recovery. ( #todo compare to [[Cybezin]] when adding [[04 Homecoming Wings]])
 
 ### Caleb hiding his injuries
 This anecdote clearly establishes the pattern of Caleb hiding even serious injuries from MC. [[Hidden Waves]] explicitly confirms that this is because he wants her to feel she can depend on him, so he can't show weakness. The juxtaposition of their seemingly warm relationship, but him spending a month alone in the hospital to keep from revealing his injuries to her is telling.
@@ -129,7 +129,7 @@ Gideon and Patrick wave bye from their train home as the train to [[Linkon]] Cit
 He finds [[MC]] asleep at her desk in the process of wrapping a present. She's written two cards--one congratulating him on passing the assessment, the other comforting him if he didn't.
 
 > Ever since the accident, his symptoms of dissociative amnesia have become more pronounced. Chaotic dreams are a more frequent occurrence. The doctor says these are common effects of [[Deepspace Tunnel]] navigation, and a full recovery will require an extended period of rest. The medication has sedative properties with low fever or drowsiness as side effects. It's important not to use it too often to avoid dependence.
-* #todo compare this to [[Cybezin]] when adding [[Homecoming Wings]]
+* #todo compare this to [[Cybezin]] when adding [[04 Homecoming Wings]]
 
 Caleb dreams:
 > Evol Monitoring Experiment No. 742 will now commence. The test subject is Donor 002. The subject's age is approximately 9-10 years old..."
@@ -153,7 +153,7 @@ The door to MC's room, which is next to his, is ajar so he quietly slips in. Sit
 * ((Compare to the "red string of fate" which ties two people, and the memory he had in Deepspace about the kite string.))
 
 Reflecting on the baby birds hiding from the rain outside, he wonders, "Do humans become attached to things like baby birds? He isn't sure."
-* ((This reflection hints at how Caleb's memories and personalities are fragmented to the point of not quite remembering how humans are supposed to act. This also foreshadows his become more machine-like as shown in [[Homecoming Wings]].))
+* ((This reflection hints at how Caleb's memories and personalities are fragmented to the point of not quite remembering how humans are supposed to act. This also foreshadows his become more machine-like as shown in [[04 Homecoming Wings]].))
 # 06 Graduation Ceremony
 It's the graduation ceremony. The list of [[Deepspace Aviation Administration]] selections is out, with [[Gideon]] and [[Patrick]] making the list. However, [[Caleb]] is at the bottom of the alternates list, with the requirement of repeating the flight assessment. [[Thomas]], in his jealosy, secretly hopes it's humilating.
 

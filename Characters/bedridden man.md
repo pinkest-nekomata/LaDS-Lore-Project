@@ -1,0 +1,1 @@
+An unnamed man working with [[Professor Lucius]]. He appears to be confined to a hospital ward and is very sick, and has been waiting for many years.

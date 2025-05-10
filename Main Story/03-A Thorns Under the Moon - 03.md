@@ -5,6 +5,8 @@ Three days later, [[MC]], [[Greyson]] and [[Zayne]] all meet at the airport. Gre
 
 [[Zayne]] arrives to tell them not to jump to conclusions, but he knows more than he's letting on.
 
+←[[03-A Thorns Under the Moon - 02]] | [[03-A Thorns Under the Moon - 04]] →
+
 ## Commentary
 It's pretty clear that [[Zayne]] is trying to deal with this himself (as usual) and not get [[Greyson]] or [[MC]] too involved. He's already seen [[black crystals]] around a patient's heart before--in [[Zayne's research]] and also in project [[X-Heart]] recently.
 

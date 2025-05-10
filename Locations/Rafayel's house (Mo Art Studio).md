@@ -2,6 +2,7 @@
 
 Out front, the gate is labeled Mo Art Studio.
 
+![[Mo_Art_Studio_Spacepedia_image.webp]]
 # Spacepedia
 Situated on an island in [[Whitesand Bay]], it is an art gallery and the private art studio of [[Rafayel]], a famous painter. The first floor is the gallery, but it is usually closed to the public. The second floor is Rafayel's home and art studio.
 

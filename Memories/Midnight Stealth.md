@@ -1,7 +1,7 @@
 # Memory
-LI: [[Sylus]]
-Rarity: n/a
-Type: Bond
+*LI:* [[Sylus]]
+*Rarity:* n/a
+*Type:* Bond
 
 **Description**
 > I have to get the brooch within 24 hours so that [[Sylus]] will allow me to go to the auction and look for the [[Aether Core]]... if Sylus believes he can stop me, HE IS WRONG
@@ -142,7 +142,7 @@ In the living room, MC scribbles out doodles she's made in a daily planner. Meph
 > MC: Let me go! I already have it!
 > `MC tries to pull her hand away and Sylus pushes it back to the bed--hitting the gun. It goes off, and confetti bursts out of it. A heart-shaped smoke cloud hangs in the air above them as confetti falls. "Love" is written with negative space inside it.`
 > Sylus: `(Scoffs and sighs.)` You're so gullible, kitten.
-* ((According my memory of a translation note that's been taken down, in the original CN he calls her taste tacky here instead of inferring the twins were responsible. Personally, I love the localization here.))
+* ((According to [[lost tr source]], in the original CN he calls her taste tacky here instead of inferring the twins were responsible. Personally, I love the localization here.))
 
 > MC: (Those two, they obviously...)
 > Sylus: `(Half-laugh.) He pulls the brooch from her hand, then flicks the clasp open.
@@ -151,7 +151,7 @@ In the living room, MC scribbles out doodles she's made in a daily planner. Meph
 > MC: Does this count as... passing your test?
 > Sylus: Barely. The auction is about to start, but what will happen after that...
 > MC: `(Determined)` I'm ready for whatever is going on here!
-* ((According to my memory of a translation note that's been taken down, in the original CN she demands that he stay by her side during the auction, and that's what he's replying 'Deal' to. This localization has MC not asking for help yet, giving her a more assertive personality for the EN market. "Deal" can still be understood to be him confirming that she's passed and he'll hold up his end of the bargain.))
+* ((According to[[lost tr source]], in the original CN she demands that he stay by her side during the auction, and that's what he's replying 'Deal' to. This localization has MC not asking for help yet, giving her a more assertive personality for the EN market. "Deal" can still be understood to be him confirming that she's passed and he'll hold up his end of the bargain.))
 
 > Sylus: Heh. ...Deal. Don't lose this brooch. It proves you're allowed to come and go in the N109 Zone as you please. `(Looks away and stands.)`
 

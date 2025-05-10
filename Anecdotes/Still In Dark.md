@@ -101,6 +101,7 @@ Later that night, he dreamed of being a doctor and treating [[MC]].
 
 Georgie marvels at his first sunset--he's only seen them in VR before. At that moment, [[Detective Ivan]] and the others arrive to "save" Georgie, finding the sweet birthday scene. That's when Georgie turns into an Abomination. Georgie injures Ivan, but Zayne kills him with a black ice shard through the heart before he can do more harm.
 >Georgie lowers his head, seeing blackened ice bloom like a flower on his chest.
+* See also: [[black crystal flower]]
 
 Georgie asked if the monster woke up--then dissolves into mist.
 

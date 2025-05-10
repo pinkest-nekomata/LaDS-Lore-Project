@@ -2,6 +2,8 @@
 As [[Zayne]] and [[Greyson]] check on the patient, [[Carter]] appears and gives enough detail to confirm the patient was part of [[X-Heart]]. He tries and fails to pique her interest. Greyson calls her into the ICU, sending Carter away.
 
 With the patient, MC begins her questions about the [[Aether Core]]. The patient reports being trapped in a nightmare, and recognizes an image of [[Myst]]. As he does so, fluctuations occur, engulfing the room. The [[Wanderer]] appears, and as [[MC]] and [[Zayne]] try to fight it, white mist engulfs the room.
+
+← [[03-A Thorns Under the Moon - 05]] | [[03-A Thorns Under the Moon - 07]] →
 ## Commentary
 [[Carter]]'s description of this patient's relationship with [[Xander Sciences]] is almost identical to how he talks about [[X-Heart]], though he doesn't say the name here.
 

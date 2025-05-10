@@ -1,6 +1,7 @@
 > "Wanderers are everywhere. Literally. I even heard there's one that's sorta like a lemon. Am I wrong?" 
 > -- [[Rafayel]], [[01-02.09 Coral Stone Mystery]]
 
+![[Wanderers_Spacepedia_image.webp]]
 # Spacepedia
 These monsters are made from [[Metaflux]]. They first appeared from the [[Deepspace Tunnel]] in various forms. While most species lack intelligence, they are formidable. They attach humans and animals and are not easy to defeat.
 
@@ -23,6 +24,10 @@ S and higher are very dangerous
 ## Types
 (Not exhaustive)
 * [[Intelligentia Type]]
+
+## Subspecies
+* [[Elemental]]
+* [[Bestial]]
 
 ## Traits
 * Lower rank [[Wanderer]]s do not have [[Protocore]]s--these form only in stronger Wanderers. ([[01-02.05 Artsy Dreams]], Spacepedia [[Protocore]] page.)

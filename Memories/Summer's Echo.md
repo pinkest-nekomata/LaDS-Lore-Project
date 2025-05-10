@@ -1,7 +1,11 @@
 # Memory
-LI: [[Caleb]]
-Rarity: Four star
-Type: Tender Moments
+*LI:* [[Caleb]]
+*Rarity:* Four star
+*Type:* Tender Moments
+*Release date:* 2025-01-22
+*[lads.wiki page](https://lads.wiki/wiki/Caleb:_Summer%27s_Echo)*
+
+![[1200px-Caleb_Summer%27s_Echo_full.webp]]
 
 **Description**
 > Old Days: With Caleb's first summer vacation in college coming to an end, he was about to return to [[Skyhaven]]. The thought of saying goodbye made me feel a bit melancholic. Noticing this, Caleb suggested we take a walk around the neighborhood.

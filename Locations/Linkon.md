@@ -1,14 +1,20 @@
-Full name: Linkon City
-
+![[Linkon_City_Spacepedia_image.png]]
+aka: Linkon City
 # Spacepedia
 Linkon was one of the cities that suffered from the initial [[Wanderer]] attacks during the [[Chronorift Catastrophe]] 14 years ago. It also served as the first line of defense in the battle against them. With the help of [[Protocore]] energy, it has been rebuilt into a bustling metropolis, but many areas still maintain traditional ways of life. It is a city that embodies heroism and the liveliness of everyday life.
 
 # Other Info
 
+## Key Organizations
+* [[Hunters Association]] (Linkon Branch)
+	* [[UNICORNS]]
+* [[Linkon City Police Department]]
+	* aka [[Evol Police]]
+
 ## Known Locations
 (Not exhaustive)
 
-City Center
+City Center/Downtown
 * [[Azure Square]]
 * [[central business district]], home to [[Flux Arts]]
 * [[Universum]]
@@ -17,20 +23,30 @@ City Center
 * [[MC's apartment]]
 * [[The Nest]] (tentative)
 * [[Linkon Central Park]]
-
-Metro Area
-* [[Whitesand Bay]]
+* Unnamed building
+	* [[Kovi's gambling lounge]]
 
 Unspecified
-* [[Empyreal Ring District 23]]
+* [[Empyreal Ring District]]
+	* [[Empyreal Ring District 23]]
+	* [[Empyreal Ring Park]]
+	* Riverside area
 * [[Linkon Greenhouse]]
 * [[Akso Hospital]]
 * [[Linkon Botanical Garden]]
 * [[West Garden Station]]
 * [[Linkon Cloud Train Terminal]]
 * [[Soaria Financial Hub]]
-* [[Linkon Bridge]]
+* [[Linkon Bridge]] ([[Movere Bridge]]?)
 * [[Silver Screen Hotel]]
+* [[Shellbank District]]
+* [[Philee District]]
+	* [[Hillside Gardens]]
+* [[Linkon City Convention and Exhibition Center]]
+* [[Wall Iris Park]]
+
+Metro Area
+* [[Whitesand Bay]]
 
 Suburbs and surrounding areas
 * [[southeastern suburbs]]

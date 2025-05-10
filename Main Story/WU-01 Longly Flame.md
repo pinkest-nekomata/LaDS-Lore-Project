@@ -8,11 +8,11 @@ Cover image: A pale hand grips a caduceus made of ice
 ## Summary
 Zayne accepts [[William]]'s martyr medal from [[Sienna]], who can't bear to look at it.
 
-[[Dr. Noah]] reflects on his time with [[Zayne]], especially [[Zayne's research]] at [[Skyhaven University]] Medical school.
+[[Dr. Noah]] reflects on his time with [[Zayne]], especially [[Zayne's research]] at [[Skyhaven School of Medicine]].
 * Part of why [[Zayne]] is working so hard is for "her", [[MC]], so he's not helpless the next time he becomes a threat to her
 * [[Zayne]] was doing research on using [[Protocore]] Energy for interventional cardiology, but destroyed his data when [[black crystals]] took over a patient's heart.
 
-Autumn 2047 is [[Dr. Noah]]'s last first year oath ceremony before he retires and heads to the [[Arctic]]. At this time, [[Zayne]] hasn't met up with [[MC]] again yet, though he's preparing to take over her case from [[Dr. Noah]]. That actual case transfer is described in [[WU-02 Snowy Stairs#05 Snow Depth]].
+Autumn 2047 is [[Dr. Noah]]'s last first-year oath ceremony before he retires and heads to the [[Arctic]]. At this time, [[Zayne]] hasn't met up with [[MC]] again yet, though he's preparing to take over her case from [[Dr. Noah]]. That actual case transfer is described in [[WU-02 Snowy Stairs#05 Snow Depth]].
 
 ## Commentary
 
@@ -72,8 +72,8 @@ Dr Noah leads Zayne out of the lab, pressing him about why he works so hard and 
 > --[[Zayne]], [[WU-01 Longly Flame#03 Heart]]
 
 # 04 Oath
-A few days later, the deal of the medical school calls in [[Dr. Noah]]. [[Zayne]] is already there. Zayne has destroyed his part of the experimental data. Even though it doesn't hurt anyone else, the dean is perplexed since this will set back [[Zayne's research]].
-* ((The magnitude of [[Zayne]]'s reaction is explained by [[Zayne's Dawnbreaker dreams]]. These nightmares of a "[[Grim Reaper]]" who kills with black crystals have been haunting him. Later, in [[Never-Ending Winter]], Zayne will see just how dangerous those black crystals are, when he's helpless to save [[William]] as he turns into a [[Wanderer]].))
+A few days later, the deal of the medical school calls in [[Dr. Noah]]. [[Zayne]] is already there. Zayne has destroyed his part of the experimental data. ((The next chapter will confirm that the research was performed in the [[Arctic]], and the data was destroyed there as well.)) Even though it doesn't hurt anyone else, the dean is perplexed since this will set back [[Zayne's research]].
+* ((The magnitude of [[Zayne]]'s reaction is explained by [[Zayne's Dawnbreaker dreams]]. These nightmares of a "[[Grim Reaper]]" who kills with [[black ice]] have been haunting him. Later, in [[Never-Ending Winter]], Zayne will see just how dangerous those black crystals are, when he's helpless to save [[William]] as he turns into a [[Wanderer]].))
 
 [[Carter]] starts to say something ("As long as we re--"), but [[Dr. Noah]] cuts him off, saying he'll handle it and the students can be let go. ((It seems Carter was about to say they can recreate the data in future experiments.))
 
@@ -90,4 +90,4 @@ Afterwards, [[Dr. Noah]] and [[Zayne]] talk. Dr Noah also told the dean how [[Za
 Dr Noah watches [[Zayne]] leave [[Akso Hospital]] for the night.
 
 > He remembers that night when a single light glowed in the campsite during a blizzard in the [[Arctic]]. He remembered the lonely figure leaving in the cold wind the next day when the experiment's data were destroyed. Perhaps the path the young man walks has only heavy snow and level ground. He's destined to walk alone. As his teacher, Dr Noah can only hope that one day a fork in the road will appear before the young man, offering him tranquil respite.
-* ((It makes more sense for this [[Arctic]] memory to be related to the [[Mt Eternal incident]] or a subsequent research trip, not when Zayne destroyed his data in 2040, but it's not particularly consequential since it's mostly an emotional/atmospheric note.))
+* ((This reveals that [[Zayne's research]] was connected to the [[Arctic]] even before the [[Mt Eternal incident]].))

@@ -3,6 +3,7 @@ MC and Sylus go on a shopping trip into [[Tarus]], finding it to be a pretty mun
 
 New trinkets in hand, they return to the lair.
 
+← [[Beyond Cloudfall - Ch 3]] | [[Beyond Cloudfall - Ch 5]] →
 ## Commentary
 
 # Details

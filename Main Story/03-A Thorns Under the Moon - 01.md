@@ -7,6 +7,8 @@ Back at the hospital, [[MC]] tries to get [[Zayne]] to take his insomnia serious
 
 On the way to dinner, [[Jenna]] calls with a lead on a new [[Beta-Protocurve]] location. [[Zayne]] offers to drive MC.
 
+← [[03-A Thorns Under the Moon]] | [[03-A Thorns Under the Moon - 02]] →
+
 ## Commentary
 We can expect this nightmare and clues here to build on [[Zayne's Dawnbreaker dreams]], and [[Zayne losing control of his Evol]] and his fears of hurting MC.
 
@@ -34,7 +36,7 @@ She reminds him he has a business trip coming up, and he might collapse. He says
 > MC: No matter how many other doctors there are, they're for other people. My doctor is right here in front of me.
 > Zayne: `(smiling softly)` Alright, I'll be careful and stay alive.
 
-MC guesses that [[Zayne]] started having nightmares after she gave him the [[Wanderer crystal sample]] from the human-like [[Wanderer]]s she collected in [[02-02.05 Nightmare Finale]].
+MC guesses that [[Zayne]] started having nightmares after she gave him the [[Wanderer crystal sample]] from the [[human-like Wanderer]]s she collected in [[02-02.05 Nightmare Finale]].
 
 He insists it's a coincidence, then reports progress on the crystal analysis. MC wants to know if it's related to [[Protocore Syndrome]]. He'll tell her once the results are conclusive.
 

@@ -1,6 +1,4 @@
-aka Tarus City, "city of ebony"
-
-
+aka Tarus City, "city of ebony", contrast to [[Ivory City]]
 
 A location in [[Beyond Cloudfall]].
 

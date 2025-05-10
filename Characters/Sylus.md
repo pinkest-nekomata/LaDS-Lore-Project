@@ -17,7 +17,7 @@ The leader of [[Onychinus]] is said to have built his empire on illegal [[Evol]]
 
 Companion variants:
 * [[Sylus - Otherworldly Visitor]] (Default)
-* [[Sylus - Relentless Conquerer]] (Permanent Myth, [[Sylus Captivating Myth]])
+* [[Sylus - Relentless Conquerer]] (Permanent Myth, [[Captivating Moment]])
 * [[Sylus - Abysm Sovereign]] (Limited Myth, [[Beyond Cloudfall]])
 
 See also:
@@ -39,13 +39,22 @@ An unspecified number of years later, when inter-planetery travel around Philos 
 Presumably, he also traveled through the [[Deepspace Tunnel]] as [[Xavier]] did. Their being foils for each other reinforces this idea that they both traveled back in time in similar ways, see also [[Xavier vs. Sylus]].
 
 ## N109 Zone
-Sylus arrives in the [[N109 Zone]] after the [[Chronorift Catastrophe]] and the creation of the zone, but well before the main story events. Given that he's synonymous with the zone, it would be thematic for him to arrive shortly after the catastrophe and its creation. Since the catastrophe corresponds with the emergence of the [[Deepspace Tunnel]], Sylus also couldn't appear any further back than the early days of the [[N109 Zone]].
+Sylus arrives in the [[N109 Zone]] after the [[Chronorift Catastrophe]]. By 2036, everyone in the zone knows his name and he's established [[Onychinus]] as a primarily solo venture ([[WU-14 Elysium]]).
+
+Initially, three main factions vied for power. Tensions came to a head with the appearance of a [[Protocore map]] which kicked off the [[2036 Disaster]] during which 1/3 of the zone's population "vanished". Amidst rumors that Sylus was "eating people" (aka devouring them with his power) the bloody conflict spilled over months.
+
+In the end, [[Sylus]] emerged the lone victor. Due to a deal he made with [[Ginevra]] for the [[Protocore map]], he ensured that [[Elysium]] (and its operator [[Aislinn]]) remained unscathed and has been the intel bar's sponsor ever since.
 
 In 2046, 2 years before the main story timeline, he meets [[Luke and Kieran]] and they pry their way into his good graces. [[Sherman]] is already a peacock at this point, and [[Luke and Kieran]] volunteer to keep an eye on them. The twins are 16 at the time. ([[WU-10 Mischief]]).
 
 By the time MC enters the [[N109 Zone]] (approx February 2049, see [[Main Story Timeline]]) Sylus hasn't been seen "for a while" to the point that many people thought he was dead. What he was doing in that time remains unclear, though we know that [[Mephisto]] was watching [[MC]] at [[No-Hunt Zone 7]] 6.5-7 months prior ([[01-03.08 Where Light Vanishes]]), so he may have been focused on tracking her progress.
 
 As of approx Feb 2049, Sylus has regained control of the [[N109 Zone]]. But by this point, the area outside the zone is more dangerous. [[Xavier]] notes this before she heads in ([[01-08.07 Stellar Guidance]]). ((The change may relate to the fluctations caused by the [[Aether Core]] at the [[Flux Nexus]] beneath the [[Deepspace Tunnel]] during [[02-02.12 Resonance's Power]]))
+
+# Abilities
+Sylus's [[Evol]] is described as "energy manipulation", but he has other powers as well. [[Sylus's Eye]] is described by [[MC]] as an "[[Aether Core]]", but given how it's portrayed in [[Beyond Cloudfall]], it's probably better understood as one of his innate abilities, specifically analogous to a "beast core" and an inherent part of him being a dragon (see [[Cores in Xianxia]]).
+
+There are a couple of pieces of evidence that Sylus has also retained his draconic features from [[Sylus - Abysm Sovereign]] into the current timeline. In [[02-02.01 Alone]], the [[Little Girl]] that [[MC]] meets refers to a rumor of him having "horns and wings". In [[WU-14 Elysium#04 Strawberry Disaster Special]] specifically mentions "something like a beast's roar" being heard during the chaos. This is likely a reference to a dragon's roar, since any noise a Wanderer made would likely be specifically described as a Wanderer's noise.
 
 # Sincerity
 A minor recurring theme, mentioned here and there including in [[Land of Lost]] and [[Grassland Romance]].

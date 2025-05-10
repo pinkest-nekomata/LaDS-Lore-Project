@@ -7,7 +7,7 @@ MC presses Xavier for his true theories, and he finally relents, saying that he 
 # Details
 Upon defeating the [[Wanderer]], a rift seems to form, then deposits [[MC]] back in the research center. It's morning now. Xavier is behind her. She briefly sees his [[suppression collar]] activate at his neck, then disappear.
 
-Xavier says he's fine, just a little tired. He offers her a green [[Protocore fragment]]. ((A piece of the [[Spatium Core]].)) He asks her to sit with him and reports that the police and [[Hunters Association]] have been called and are on their way. MC is worried and tries to get up, but he pulls her down next to him, asking her to listen to a song with him. ((This is something they did together in their stolen moments in [[When Shooting Stars Fall]].))
+Xavier says he's fine, just a little tired. He offers her a green [[Protocore fragment]]. ((A piece of the [[Spatium Core]].)) He asks her to sit with him and reports that the police (([[Linkon City Police Department]])) and [[Hunters Association]] have been called and are on their way. MC is worried and tries to get up, but he pulls her down next to him, asking her to listen to a song with him. ((This is something they did together in their stolen moments in [[When Shooting Stars Fall]].))
 
 She teases him that they're wireless, so she won't have to lean as close to him. He says he's too tired to drift away--and wouldn't, anyway.
 

@@ -1,0 +1,1 @@
+ie the [[Colonel]]'s ship. [[Caleb]] returns on this ship in [[04-01.02 Above the Clouds]].

@@ -5,7 +5,7 @@ Cover image: A skyscraper with a red eye symbol on it and a full moon hologram a
 
 [[Greyson]] reflects on the limits of their ability as doctors to save the hunters they care about.
 ## Summary
-By following [[Greyson]] and his hunter crush, this story highlights the fear and anxiety of caring for a hunter. Greyson reflects on their limits as medical professionals, eventually wondering whether the families of patients who've died see them as guardian angels or [[Grim Reaper]]s. Zayne doesn't have an answer for this.
+By following [[Greyson]] and his hunter crush, this story highlights the fear and anxiety of caring for a hunter. Greyson reflects on their limits as medical professionals, eventually wondering whether the families of patients who've died see them as [[guardian angel]]s or [[Grim Reaper]]s. Zayne doesn't have an answer for this.
 
 We also have the symbol of the [[snow velvet]] flower in [[Zayne]]'s office. They only grow on [[Mt Eternal]], and even there are going extinct. He's able to keep it alive with his [[Evol]]--but eventually it grows [[black crystals]], and he determines it to be beyond saving. This is a poignant parallel to his relationship with [[MC]], especially because in [[WU-02 Snowy Stairs]] he admits to himself that he'd do anything to keep her alive. Here, he must accept the limits with the snow velvet--but he knows he won't with her.
 

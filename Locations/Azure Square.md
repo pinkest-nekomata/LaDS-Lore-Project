@@ -3,6 +3,7 @@
 
 > "In Azure Square, the carnival is holding a space-themed event. A hologram has been used to construct a castle-shaped fountain. In the middle of the plaza is a towering, circular screen. The newscaster enthusiastically discusses information the Deepspace Aviation Administration has brought back." -- [[01-08.03 Luminous Veil]]
 
+![[Azure_Square_Spacepedia_image.png]]
 # Spacepedia
 A beautiful square in the heart of [[Linkon]] City.
 

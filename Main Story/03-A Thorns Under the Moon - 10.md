@@ -3,6 +3,8 @@ As [[MC]] recovers, she insists on resonating with [[Zayne]] again. They briefly
 
 They head back out into the hospital's courtyard, and briefly discuss their options. They decide to destroy the [[Protofield]], resonating and coating the entire place in ice. This forces the mutated [[Wanderer]] out of hiding.
 
+← [[03-A Thorns Under the Moon - 09]] | [[03-A Thorns Under the Moon - 11]] →
+
 ## Commentary
 With MC's help, Zayne is able to wield the black ice without negative consequences.
 

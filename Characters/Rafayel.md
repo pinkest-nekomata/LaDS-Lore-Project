@@ -16,7 +16,7 @@
 
 # Relationship Timeline
 
-( #todo add their childhood meeting that MC forgot)
+They meet as children on the shore of [[Hat Island]], but this is forgotten due to [[MC's memory problems]]. Thus establishing the [[forgotten promise to Rafayel]].
 
 MC first meets him as an adult in [[01-01.07 Ripples]].
 

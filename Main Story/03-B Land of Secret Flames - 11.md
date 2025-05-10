@@ -17,6 +17,8 @@ This branch is the only one that does not feature a [[Wanderer]] with space-dist
 # Details
 > We leave the [[blue hole]] via a narrow gap in the seabed. When we resurface, we find ourselves in the ocean. There's a small island in the distance. A nearby ship gently rocks with the waves. It looks as if it's been waiting for a long time. Boarding the ship's hold, I look at its old mast and sails. I know this is the ship that ran aground on the island.
 
+The kindled scene ([[Seething Flames]]) begins here.
+
 Rafayel comes to. MC asks what happened. Sounding irritated, he asks for a minute, leaning his head against his elbow on the side of the ship.
 
 MC asks if he's hurt, showing concern. She holds the back of her hand to his neck.

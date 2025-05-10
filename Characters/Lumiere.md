@@ -21,7 +21,7 @@ From [[01-06.02 Late Night Encounter]]
 > Hunter who once stole and sold Protocores was found dead at home. Dying message points at Lumiere.
 > The case of X--sentenced to three years in prison and put on probation for one year earlier this year for stealing and selling [[Protocore]]s--has been under scrutiny. Police have revealed that buttons "G" and "L" on X's computer keyboard were stained with blood...
 > Viewpoint 24 hours 2 months ago
-* ((Note that "high-risk" and "high-value" are two localizations used for the same "high-risk" concept in the original CN. This is based on my memory of translation notes no longer available to be cited.))
+* ((Note that "high-risk" and "high-value" are two localizations used for the same "high-risk" concept in the original CN. ([[lost tr source]])))
 
 ## Lumiere- Real Time
 > Coke Zero with Sugar: I would have loved to see Lumiere save the day, but I guess I'm 15 years too late for that... (four likes)

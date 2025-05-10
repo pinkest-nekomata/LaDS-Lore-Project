@@ -1,4 +1,4 @@
-de# Summary
+# Summary
 [[Sorceress MC]] has been sentenced to death by the [[Sacred Judicator]], cast into the [[Abyss]] which is full of fire and [[Wanderer]]. She runs for her life. As the [[Wanderer]]s descend, the dragon trapped there stops time and tells her that if she pulls out the sword, he'll save her life.
 
 She does so, and the sword becomes golden light that pours into her--along with a red-black tendril of darkness (a piece of the dragon's soul). Thus, the Fiend is unleashed from the [[Abyss]].
@@ -6,6 +6,8 @@ She does so, and the sword becomes golden light that pours into her--along with 
 He flies her to the [[black chapel]], and attempts to reclaim the piece of his soul. This drags hers out too, nearly killing her in the process--but she refuses, and takes her power back. He uses his eye (See also [[Sylus's Eye]]) and she covets its power.
 
 Trying to think of a way to escape the dragon, she demands to be taken back to the [[Sanctuary]] in the [[Ivory City]] for revenge.
+
+← [[Beyond Cloudfall]] | [[Beyond Cloudfall - Ch 2]] →
 
 ## Commentary
 

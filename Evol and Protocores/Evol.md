@@ -17,6 +17,9 @@ A special superpower only possessed by a small portion of the human population. 
 * [[Micromodification]] ([[Simone]])
 * [[Memory Alteration]] ([[Andrew]])
 * [[Acoustic Transmission]] ([[Leon]])
+* [[Physical Enhancement]] ([[Shaylin]])
+* [[Creatura Class]] (Mentioned in [[WU-19 Serpent's Cast]])
+* [[Serpens Class]] ([[Viper]])
 ## Trivia
 * Evol = Love backwards
 	* Even in the CN subtitles, the characters 'Evol' are used, indicating that this is intentional in all localizations

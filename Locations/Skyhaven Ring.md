@@ -1,0 +1,1 @@
+> At [[Skyhaven]]'s peak, the [[Skyhaven Ring]] resembes an aureole above a deity's head, encircling the highest Guard Station--home to the [[Farspace Fleet]] base. [[Protocore]] energy flows through this massive celestial ring, creating sreams of light in a spectacular rainbow of colors.

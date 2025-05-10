@@ -25,7 +25,7 @@ Note this description from  [ImmortalMountain](https://immortalmountain.wordpres
 Compare to the game:
 * Hunters kill Wanderers to obtain their cores
 * Cores are sold and traded for money, and "high-risk" cores from particularly dangerous Wanderers are especially valuable
-* [[Protocore weapons]] are analogous to using Protocores to craft magical items. Viewed through a sci-fi lens, magic becomes technology. [[Protocore]]s and their energy enable supernatural feats/items such as the floating city of [[Skyhaven]] or even [[Mephisto]] himself
+* [[Protocore weapon]]s are analogous to using Protocores to craft magical items. Viewed through a sci-fi lens, magic becomes technology. [[Protocore]]s and their energy enable supernatural feats/items such as the floating city of [[Skyhaven]] or even [[Mephisto]] himself
 * In [[Beyond Cloudfall]], there's a reference to [[Sylus - Abysm Sovereign]] consuming [[Wanderer]] [[Protocore]]s as sustenance instead of human souls.
 
 Note that [[Sylus]], being a dragon originally, would have a Beast Core. His powers awaken quickly in his early life.

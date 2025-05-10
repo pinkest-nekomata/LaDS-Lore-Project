@@ -1,0 +1,1 @@
+One of [[Ever]]'s main chip suppliers, and in possession of important [[Protocore]] technologies. Referenced in [[WU-18 Depths of Chaos]].

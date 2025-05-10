@@ -10,6 +10,7 @@
 
 > Q: According to what we know so far, the Deepspace Tunnel distorts [[spacetime]]. So, is it possible to gain insight into our future by accessing the consciousness energy within it?   
 > A: The concept of "the past, present, and future" is deeply rooted in our perception of time. But does time really exist? Understandably, what we perceive as the future has already transpired on a universal scale. In any case, as ordinary individuals, we are bound by a unidirectional experience of time. Since we cannot access our "future consciousness," we are still unaware of what lies ahead. 
+* See also [[past, present, and future coexist]]
 
 > Q: Humor us for a second. Let's say there's an individual whose consciousness persists across the universe and their consciousness isn't consumed or transformed. If they obtained all the consciousness energy belonging to them in each cycle of rebirth, could they become an omniscient and omnipotent god?   
 > A: It's possible. Imagine that at every moment we perceive, there exists the same individual, irrespective of the past, present, or future. From their perspective, our future has already unfolded and cannot be altered. However, within their realm, a future may still exist. 

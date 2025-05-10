@@ -12,7 +12,8 @@ Originally a forest surrounding Linkon City, it was chosen as the location for a
 # Other Info
 
 ## Traceback II
-[[WU-04 From The Stars#03 Waterfall Inside Forest]] details [[Xavier]] visiting this area before the [[Chronorift Catastrophe]]. The signal station is a secret at that point in time, and the forest is peaceful. Hidden pas a dark valley is the crash site of the [[Traceback II]].
+[[WU-04 From The Stars#03 Waterfall Inside Forest]] details [[Xavier]] visiting this area before the [[Chronorift Catastrophe]]. The signal station is a secret at that point in time, and the forest is peaceful. Hidden past a dark valley is the crash site of the [[Traceback II]].
+* Could this actually be [[No-Hunt Zone 19]] from [[Silvery Polyphony]]? #todo
 
 ## Main Story
 Key location in [[01-03 Talented Hunter]].

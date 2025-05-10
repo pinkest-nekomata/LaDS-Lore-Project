@@ -3,13 +3,16 @@
 
 After heading back to [[Linkon]], [[Zayne]] is finally able to sleep. [[Simone]] calls [[MC]] and reveals that a strange device found in the ICU is a [[Radio-Frequency Chip]], which is able to summon [[Wanderer]]s. [[MC]] suspects [[Carter]] instantly, but [[Simone]] points out that [[Ever]] acquired [[Xander Sciences]] recently, after [[Raymond]]'s death.
 
-MC puts this together with the human-like [[Wanderer]]s she saw in the [[N109 Zone]] to determine that Ever is creating monsters.
+MC puts this together with the [[human-like Wanderer]]s she saw in the [[N109 Zone]] to determine that Ever is creating monsters.
 
 Though Zayne's dreams are initially pleasant, the dreaded nightmare of his ice hurting her returns.
 
+← [[03-A Thorns Under the Moon - 11]] | [[03-01.03 Onward Again]] →
+
 ## Commentary
 
-
+### Freezing over Akso hospital
+This use of [[Zayne]] and [[MC]]'s resonance to cover [[Akso Hospital]] in ice to drive out the [[Wanderer]] potentially mirrors/foreshadows the freezing of [[Akso Hospital]] mentioned in [[Zayne's Trailer]]. It's not yet clear whether the freezing of Akso Hospital's "original location" has already happened or is going to happen from the perspective of the main story timeline. ((Given that Zayne says he hopes they don't meet again, tonally it would be more appropriate for this to be before they meet and get close.))
 # Details
 
 > *Once the final blow is dealt to the [[Wanderer]], an intense tremor surges from the depths of my heart. But the resonance is unmistakable this time. It's akin to gentle waves brimming with power.
@@ -37,4 +40,4 @@ The scene shifts to a sunny street.
 > `The scene changes back to the dim hospital hallway.`
 > *Yet the two find themselves tumbling back into the seemingly endless empty corridor.
 > Black crystals emerge from his palm. They encroach on the girls' forearm. Sunlight is engulfed by darkness once more.*
-
+* ((Usually, Dawnbreaker's dreams are the warm, sunny ones and Dr. Zayne's are the nightmares. Here, the two dreams blur, indicating that perhaps Dr. Zayne and Dawnbreaker are blurring as well.))

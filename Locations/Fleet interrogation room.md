@@ -1,0 +1,1 @@
+Located on the [[Farspace Fleet starship]] that [[Caleb]] flew back from [[Deepspace]] in [[04-01.02 Above the Clouds]]. It's equipped with bright lights, a one-way mirror, cameras, and more.

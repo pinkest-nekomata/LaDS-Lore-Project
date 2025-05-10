@@ -1,0 +1,10 @@
+Title: # Love and Deepspace | \[Nestled Embrace] Sylus's Birthday Immersive Video ([YouTube](https://www.youtube.com/watch?v=92I04o2_FZI))
+
+# Caption
+> A wild soul, unbound and untamed. And yet, the fierce beast bares his most vulnerable part in the palm of his beloved. In or out of the cage, wherever you are, you are his only place of rest. Winds roam the wilds, he rests by your side. He captures these tender moments through the lens, of commemorating this one-of-a-kind birthday journey. Whispers and longing drift in the rain of blossoms. Blazing love echoes forever through the wild. May every moment ahead grant you both, bound by fate, somewhere to nestle at ease.
+
+# Transcript
+> It's rare for me to be in broad daylight. The sunlight is making me squint, but being able to escape the concrete jungle with you and drive into the wilderness... It's just as I hoped. Today will be a special day.
+> Now, we've entered their territory. Mountains, plains--they're hunting grounds for their own kind. Some think animals are fierce and cruel. However, they also have a side that isn't very noticeable. Even the fiercest creatures will retract their claws and expose their soft underbellies to their closest kin. The wild and untameable make an exception for their beloved.
+> Every creature needs a haven where they can lower their guard. Take right now, for example. With you by my side, I feel at ease. Everyone is paired up. We'd stick out like a sore thumb if we weren't holding hands. Now we're actually in the same boat, two peas in a pod.
+> Close proximity and touch are how animals show affection. I've never tried to hide them from you--my gaze, my gestures, and every single step I take toward you. There's someone in this world who sees my vulnerabilities and weaknesses, yet still chooses to be with me, so we can become each other's source of strength. As for my birthday wish, I just want that person to always be by my side. After all, having someone who can rub my belly whenever I want is definitely a blessing. You can't resist even if you tried. You know you can't escape me.

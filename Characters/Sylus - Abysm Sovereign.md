@@ -52,8 +52,24 @@ From [[Beyond Cloudfall - Ch 5]]
 From [[Beyond Cloudfall - Ch 8]]
 > Sylus: Before I was sealed away, I did dream of you. I just didn't expect I'd be willing to dry that person's hair one day.
 
+From [[Beyond Cloudfall - Ch 9]]
+> Deep within a cave, the boy who grew up with dragons tightly grips the dagger. He presses the gleaming blade against the base of his tender horn.
+> He clenches his teeth. Blood flows down a moment later and passes his right eye that's filled with rage.
+> It's not long before they're discovered. All the dragons are killed in the valley except for him. He's taken away as a human.
+> But when people saw the horns growing on his head, blades once sheathed were thrust into his chest.
+> He rolls into the rubble at the bottom of the valley. His blood boils. He doesn't know how, but he manages to stand. His legs tremble.
+> When he comes to his senses, everyone who hurt him is already lying in a pool of blood.
+> Black-red mist drifts from their bodies. It travels along the dragon's horns to his tail before entering the wound in the young man's chest.
+> His hunched back splits open. From two bloody streaks, two dragon wings struggle to release themselves. They shatter stones as they suddenly unfold.
+> The curse he once despised has become his strength.
+> He doesn't hesitate this time. He flies into the depths of the valley.
+
+> *My beloved was born into apocalyptic terror. People cursed his existence, fabricated his sins, and celebrated his death.*
+> *Only one person ever gazed into his jewel-like eyes, embraced his burning soul, and sang to him in the night wind. He had already etched the traces of his existence deep into my life...*
+> *Yet his retaliation against fate pierces my chest like a sword.*
+
 # Madness
-There are parallels between the madness of the dragon's curse and these concepts in Xianxia fiction. See also [[cultivation]]. The madness isn't necessarily meant to be Qi Deviation, but the context of the tropes is helpful.
+There are parallels between the madness of the dragon's curse and the following concepts in Xianxia fiction. See also [[cultivation]]. The madness isn't necessarily meant to be Qi Deviation, but the context of the tropes is helpful.
 
 From [ImmortalMountain](https://immortalmountain.wordpress.com/glossary/wuxia-xianxia-xuanhuan-terms/)'s [[Xianxia]] glossary:
 > **Internal Demons** (心魔 xīnmó) – literally translates as “Heart Devils”. Rather than standard demons or devils, these are a practitioner’s negative emotions and other mental barriers which hinder their training/cultivation. Internal Demons, in some cases, can even attack the practitioner from the inside, and failure to adequately resist them may result in Qi Deviation.

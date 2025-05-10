@@ -7,6 +7,7 @@ He tells her that she's his fated archnemesis, destined to kill her. She replies
 
 Without hesitation, she does so. He asks her to stay by his side until the end of time, and then they fall asleep together.
 
+← [[Beyond Cloudfall - Ch 6]] | [[Beyond Cloudfall - Ch 8]] →
 ## Commentary
 
 # Details

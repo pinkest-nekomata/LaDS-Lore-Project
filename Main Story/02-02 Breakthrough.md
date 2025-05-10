@@ -3,7 +3,7 @@ Finally willing to try to work with [[Sylus]], [[MC]] emerges from the [[Odd Wor
 
 While she's still eavesdropping, [[Wire Jaw]] arrives with a search party to look for her. She hides with the [[Little Girl]] and the help of the [[Shopkeeper]], and just as she tries to make a break for the exit, [[Sylus]] arrives. He deals with the thugs, though allows [[Wire Jaw]]  to panic and summon [[Wanderer]]s before fleeing. Sylus leaves MC to fend for herself for fives minutes while he lets [[Wire Jaw]] lead him to a nearby [[Flux Nexus]] that is the source of the disturbance.
 
-Meanwhile, [[Mephisto]] helps [[MC]] fight human-like [[Wanderer]]s, which only fall when the [[Flux Nexus]] is destroyed. Back at [[Sylus's base]], MC has to pass one more test before [[Sylus]] will take her to the [[Protocore auction]]--she needs to steal his brooch. (These are the events of [[Midnight Stealth]]).
+Meanwhile, [[Mephisto]] helps [[MC]] fight [[human-like Wanderer]]s, which only fall when the [[Flux Nexus]] is destroyed. Back at [[Sylus's base]], MC has to pass one more test before [[Sylus]] will take her to the [[Protocore auction]]--she needs to steal his brooch. (These are the events of [[Midnight Stealth]]).
 
 After barely passing the test, MC heads with Sylus to the [[Solon Hotel]] and the [[Protocore auction]]. She serves as a distraction on the auction floor while Sylus, who many had presumed dead, goes to meet with [[Sherman]]. Sherman tries and fails to make an appeal for his life, and Sylus confirms that [[Ever]] bought [[Sherman]] out in the most boring way possible. (Ever isn't specifically mentioned, but all clues point in this direction--or a highly related faction.)
 

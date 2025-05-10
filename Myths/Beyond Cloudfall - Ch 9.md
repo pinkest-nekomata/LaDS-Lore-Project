@@ -12,6 +12,8 @@ He urges her to press on--if she doesn't, Fate will take both of them to the Aby
 His defiance of fate, his death so she can live, is like a sword in her own chest. She curses him with immortality--so that she might be the only one who can grant him a true death.
 
 In so doing, she fully embraces her nature--and finally becomes a dragon. But only after her beloved is gone.
+
+← [[Beyond Cloudfall - Ch 8]] | [[Beyond Cloudfall]] ||
 ## Commentary
 
 # Details
@@ -48,13 +50,13 @@ In so doing, she fully embraces her nature--and finally becomes a dragon. But on
 > Tiny notes squeeze their way out of my chest. They gradually forge the fragments of an unfinished melody.*
 > MC: (If you can't hear this now... Someone might never sing for you ever again...)
 > *Soul-piercing lightning repeatedly interrupts my song. But I keep singing, unaware that all other sounds have faded away. The entire Court of Justitia falls into complete silence. Only the sorrowful [[requiem]] echoes through its halls.
-> As the final. notes fade into the earth, there is a long silence. And then, as if to respond in kind, a deep, resounding roar emerges from behind the crimson clouds.*
+> As the final notes fade into the earth, there is a long silence. And then, as if to respond in kind, a deep, resounding roar emerges from behind the crimson clouds.*
 > MC: (Is that... a dragon?)
 > Sacred Judicator: ...It's here. The dragon is here. The true Doomsday Judgement has begun! Get her! Get the bait! 
 > *The floor rumbles as the eighteen towering statues surrounding the court pivot, revealing their spearheads. The [[Legion of Justitia]] surge from all directions like a tide, the cold gleam of their blades pointing at the dragon.
 > Only upon hearing the [[Sacred Judicator]]'s command do I realize my judgment was actually a trap for the dragon. The flames tremble on the ground.
 > Stone feathers launched by the [[Arbiterwings]] pierce through the dragon's wings, while electrified arrows from the Legion lodge themselves in his scales. The wings are nearly shredded, but no amount of damage can stop a dragon in a frenzy.
-> It's as if he feels no pain. In the end, I am the only one left standign on this vast platform of the Court of Justitia.
+> It's as if he feels no pain. In the end, I am the only one left standing on this vast platform of the Court of Justitia.
 > Through the clouds, the dragon, battered and broken, dives toward me, his eyes filled with nothing but the wild chaos of a beast.
 > I know he's just a dragon now. He doesn't recognize me anymore.
 

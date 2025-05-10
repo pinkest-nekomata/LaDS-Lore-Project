@@ -1,4 +1,4 @@
-Companion variant: Distant Youth
+Companion variant: Foreseer
 Outfit: Ode to Glory
 Myth: [[Tower of Secrets]]
 
