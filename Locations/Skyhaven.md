@@ -20,6 +20,9 @@ Known locations:
 	* [[Villa Area 6]]
 * [[Willow Medical Center]]
 * [[Skyhaven School of Medicine]]
+* [[Aerospace Center]]
+	* Sunset Promenade
+* [[Lucius's Villa]] (Chelseven, 93rd Azureway Road) Secluded area
 
 # Other Info
 * Home to [[Aerospace Academy]], which feeds the [[Deepspace Aviation Administration]].

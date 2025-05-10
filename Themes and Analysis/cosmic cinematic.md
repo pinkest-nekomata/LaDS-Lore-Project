@@ -103,3 +103,17 @@ An explosion is heard and fire moves across the screen, leaving red embers.
 > Looking back, those roaring flames feel like a surreal, distant nightmare.
 > The searing heat in my dreams is still vivid but the pain in my heart is gone. Maybe it's because...
 > The [[Aether Core]] within me has achieved full power.
+
+# End of Homecoming Wings
+Instead of a cinematic, [[04 Homecoming Wings]] ends with this poem:
+> In a forest where shattered stars rest, a crystalline pool appears.
+> As if infused with the wine of life, it's clear yet murky.
+> Young Traveler, do not drink from it.
+> Lost Lover, do not drink from it.
+> But when flowers wither in their sleep, when winds fall silent, when the vigilant owl closes its eyes--
+> Only then can you drink deep of these waters.
+> Let the Dead sing:
+> "O Fountain of Atei! Cleanse my time, nourish my flesh, spare me from the loneliness of eternal rest!
+> Spare me from the loneliness of eternal rest..."
+
+See also [[The Fountain of Atei]].

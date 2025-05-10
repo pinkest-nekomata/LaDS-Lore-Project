@@ -2,6 +2,25 @@
 > So far, the mastermind remains hidden...
 > -- [[Classified Intel - N109 Zone]]
 
+# Known Info
+
+* [[Sylus]] is aware of [[The Fountain of Atei]], though in [[02-01.05 Desire]] he says he doesn't care about other peoples' business.
+* [[Ever]] is behind the project.
+* [[Professor Lucius]] is heavily involved.
+* At the end of [[04 Homecoming Wings]], the plan is about to be put into motion.
+
+# Poem
+[[04 Homecoming Wings]] ends with this poem:
+> In a forest where shattered stars rest, a crystalline pool appears.
+> As if infused with the wine of life, it's clear yet murky.
+> Young Traveler, do not drink from it.
+> Lost Lover, do not drink from it.
+> But when flowers wither in their sleep, when winds fall silent, when the vigilant owl closes its eyes--
+> Only then can you drink deep of these waters.
+> Let the Dead sing:
+> "O Fountain of Atei! Cleanse my time, nourish my flesh, spare me from the loneliness of eternal rest!
+> Spare me from the loneliness of eternal rest..."
+
 # Name
 The name evokes the [Fountain of Youth](https://en.wikipedia.org/wiki/Fountain_of_Youth), hinting at a goal of immortality, which we know is part of the [[X-Heart]] project that also involves exposing human hearts to [[Protocore]]s, and which [[Ever]] announced in the [[Public Account]] post [[Immortality No Longer a Dream!]] . We also know this goal of immortality was/will be achieved (at least in the version of the timeline [[Xavier]] is from, see also [[branching timelines]]) at the cost of feeding humans into the core of [[Philos]], giving rise to new [[Wanderer]]s. ([[Shooting Stars]])
 

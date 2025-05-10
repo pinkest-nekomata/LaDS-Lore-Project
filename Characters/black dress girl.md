@@ -1,0 +1,1 @@
+One of the "children" of [[Professor Lucius]]. Values love and kindness. Depicted as a silhouette with shoulder-length hair in [[04-02.10 Crossroads]].
