@@ -3,6 +3,7 @@ While hiding, [[MC]] and [[Rafayel]] overhear more of the conversation between [
 
 When the coast seems to be clear, MC and Rafayel emerge, but Maxwell has lingered. To try to avoid suspicion, Rafayel pretends they were fighting, and MC plays along. It's at least enough that [[Maxwell]] doesn't have them detained, but he orders extra security (ruining their plan) and tells them to steer clear of the fourth floor.
 
+← [[03-B Land of Secret Flames - 04]] | [[03-B Land of Secret Flames - 06]] →
 # Details
 In the storage area, [[MC]] and [[Rafayel]] huddle close and stay quiet. MC complains he's poking her, so he shifts but quarters are tight--he ends up almost holding her waist. The conversation continues above them:
 

@@ -1,5 +1,9 @@
 # Summary
+[[MC]] finally has a chance to get close to [[Gabriella]] at the party, but finds that the jewelry is perfectly normal. She and [[Rafayel]] head to the [[blue hole]] as she vents her frustrations. As [[Rafayel]] comforts her with sparklers and mini fireworks, the [[Ever]] reps suddenly approach.
 
+MC and Rafayel go to confront them, but there's a [[Metaflux]] surge and they instead decide to head to the [[blue hole]] for "treasure hunting".
+
+← [[03-B Land of Secret Flames - 07]] | [[03-B Land of Secret Flames - 09]] →
 # Details
 It's 7pm, and the party is in full swing at the manor near the [[blue hole]]. [[Maxwell]] presents the jewelry to [[Gabriella]], revealing that the gemstones are from the place they fell in love, hence the outsized value to him. But his true gift is to give her the deed to [[Jewel Reef]]. Fireworks punctuate his declaration. He refers to the [[blue hole]] as not only the island's heart, but the sea's as well. He renames the island Gabriella's Atoll.
 * ((Given the references to the ocean's heart, that the jewelry is said to be worn around her neck, and the deep blue color, this is likely a wink at the iconic [Heart of the Ocean](https://titanic.fandom.com/wiki/Heart_of_the_Ocean) necklace from the move *Titanic*.))

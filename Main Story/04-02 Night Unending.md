@@ -12,7 +12,8 @@ That night, MC uses the tracker to follow Caleb to the [[Final Clean-Up]]. Here 
 Their confrontation escalates ([[04-02.09 Captive Bird]]), but ultimately they're at a stalemate by the time MC says goodbye. Caleb heads to his mission (or so it seems) and MC heads to Linkon. ([[04-02.10 Crossroads]])
 
 We get a scene from Caleb/omniscient POV that reveals many twists. Most importantly, [[Professor Lucius]] is still looking for [[MC]] to use her power, and [[The Fountain of Atei]] is almost ready to be deployed. This is a big lore dump, so it's recommended to review the chapter itself: [[04-02.10 Crossroads]]
- 
+
+← [[04-01 Vanishing Skyward]] | next →
 # Chapters
 * [[04-02.01 Awakening]]
 * [[04-02.02 Funeral]]

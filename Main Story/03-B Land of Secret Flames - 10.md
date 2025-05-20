@@ -3,6 +3,7 @@ With the [[Wanderer]] defeated, [[MC]] and [[Rafayel]] can head deeper on their 
 
 This causes [[golden light]] to surround them, and MC has a flashback to her childhood encounter and [[forgotten promise to Rafayel]]. When she returns to her senses, Rafayel is unconscious, so she hurries with him toward the surface.
 
+← [[03-B Land of Secret Flames - 09]] | [[03-B Land of Secret Flames - 11]] →
 ## Commentary
 There are many important lore elements here. Unlike Xavier's and Zayne's branches, [[MC]] doesn't flash back to memories from her myth, but to her childhood encounter with [[Rafayel]]. Still, there are many references to both [[Forgotten Sea]] and [[Sea of Golden Sand]]. This location features prominently in both, being home to the [[Tome of the Sea God]], and [[Rafayel]] indirectly references the [[Lemurian disaster]]. Now, he reclaims [[Lemuria]]'s forgotten power.
 

@@ -7,6 +7,9 @@ Once at the hospital, one patient is revealed to be different. He has unusual [[
 
 Zayne appears as [[Zayne - Dawnbreaker]], and together they fight their way through the "dream". Once they escape and kill the [[Wanderer]], they gain an [[Aether Core]] fragment, later revealed to be part of the [[Spatium Core]]. They also find a [[Radio-Frequency Chip]] that had summoned the monsters to [[Chansia Hospital]] and was made by [[Ever]].
 
+← [[03-01 Eye of the Storm]] | [[04 Homecoming Wings]] →
+↳ [[03-B Land of Secret Flames]]
+↳ [[03-C Voyage of the Outcast]]
 ## Commentary
 
 ### Dream Layers

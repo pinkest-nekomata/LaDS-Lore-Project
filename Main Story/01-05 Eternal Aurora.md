@@ -1,5 +1,4 @@
 # Summary
-
 [[MC]] reads [[Josephine's notes]] and finds out that she was a test subject and that the [[Protocore fragment]]s in her heart don't belong to a normal [[Protocore]], but to an [[Aether Core]]. She asks [[Zayne]] for more information, and he suggests visiting [[Dr. Noah]], MC's first cardiologist.
 
 Along the way, [[MC]] and [[Zayne]] run into each other, and learn that [[Wanderer]]s have attacked the [[[Arctic dispatch center]], halting the train schedule. After helping [[Arctic Hunter]]s deal with some [[Wanderer]]s, they borrow a [[SnowDog]] and make it to [[Snowcrest]].
@@ -8,6 +7,7 @@ Once there, MC learns a little bit more about her past from [[Dr. Noah]]--especi
 
 [[MC]] and [[Zayne]] watch the aurora together, and [[Zayne]] shares that a friend of his died in "an accident" on [[Mt Eternal]] during the [[Mt Eternal incident]]. The next morning, they part ways--MC heading back to [[Linkon]] to continue her investigation, and [[Zayne]] heading into [[Mt Eternal]] for undisclosed reasons.
 
+← [[01-04 Under Twilight]] | [[01-06 Endless Night]] →
 # Chapters
 * [[01-05.01 Unspoken Secret]]
 * [[01-05.02 Snow-Kissed Coffee]]

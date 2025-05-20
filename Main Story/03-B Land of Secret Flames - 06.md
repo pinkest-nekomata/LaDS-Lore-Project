@@ -3,6 +3,7 @@
 
 Once she falls asleep, she has a dark dream about a mournful song on the ocean. ((This is implied to be a [[Lemurian]] elegy, like the one mentioned in [[Siren's Song]].))
 
+← [[03-B Land of Secret Flames - 05]] | [[03-B Land of Secret Flames - 07]] →
 # Details
 [[MC]] complains that the "island buyers" ruined her plan. They try to guess what [[Ever]] could want there, but don't have any ideas. [[Rafayel]] dramatically complains that his wrist has been injured.
 

@@ -6,6 +6,7 @@
 
 Fortunately, it's equipped to use [[Evol]] as emergency power. This time, [[Xavier]] asks her to resonate with him and use the [[Aether Core]]'s power. As the ship takes off, it forces the [[Wanderer]] to reveal itself.
 
+← [[03-C Voyage of the Outcast - 09]] | [[03-C Voyage of the Outcast - 11]] →
 # Details
 Their destination is revealed as a massive spaceship hidden behind the trees.
 > Unlike the wreckage I saw in [[No-Hunt Zone 42]], this one is more intact with far more sophisticated engineering.

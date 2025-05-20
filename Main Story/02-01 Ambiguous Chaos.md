@@ -11,6 +11,8 @@ There, she has an insatiable thirst and chugs wine, then is bold enough to try t
 
 It is, and [[Philip]] manages to convince MC to give Sylus a chance--the other predators in the darkness are far worse. 
 
+← [[01-08 Galactic Sunset]] | [[02-02 Breakthrough]] →
+
 ## Commentary
 This arc is full of references to [[Beyond Cloudfall]], establishing for the first time that the Myth content interacts with the main story timeline. Though [[Xavier]] and [[Rafayel]] also have history they remember with MC, [[Sylus]] is the first to be so bold as to reference it to MC. Still, as her inability to resonate forces him to accept that he'll have to be patient, Sylus finds himself not in the mood to "tell stories".
 

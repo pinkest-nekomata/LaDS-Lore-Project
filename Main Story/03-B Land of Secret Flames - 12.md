@@ -5,6 +5,8 @@ As MC meets up with [[Rafayel]] to confirm this, he ends up telling her to ask a
 
 He mentions thinking about how to "settle the score" but now just earnestly asks her to tell him to forget the grudge. ((Because of their bond, [[the pact]], he would have to.)) She doesn't give him any direct order, but has him promise to tell her if she loses him again.
 
+← [[03-B Land of Secret Flames - 11]] | [[03-01.03 Onward Again]] →
+←← [[03-01.02 New Discovery]] 
 ## Commentary
 ### Rafayel is willing to kill to defend Lemuria
 [[WU-05 Long Lost Treasures]] hints at [[Rafayel]]'s willingness to kill to protect [[Lemuria]]. Though it's not his first choice he doesn't hesitate if it's necessary. It's implied that he made sure the [[Ever]] reps didn't make it back

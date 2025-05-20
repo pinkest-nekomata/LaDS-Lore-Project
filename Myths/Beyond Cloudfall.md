@@ -44,7 +44,7 @@ In this last act of greediness, she embraces her true nature, sprouting horns an
 ## Commentary
 ### MC's own hunger
 She, too, seems to have been born a dragon. This is thematically connected to having the courage and honest to follow one's heart and true desires. To live without hypocrisy. To know what you want and reach for it.
->I said I'll live, didn't I? No matter the cost. If following our hearts is a sin, then you and I must be the last of our kind in this world.
+> I said I'll live, didn't I? No matter the cost. If following our hearts is a sin, then you and I must be the last of our kind in this world.
 >-- [[Beyond Cloudfall - Ch 7]]
 
 ## Meaning of the endings

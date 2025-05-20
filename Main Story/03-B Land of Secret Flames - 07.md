@@ -4,6 +4,8 @@ The next day, they arrive at [[Jewel Reef]]. [[MC]] detects [[fluctuation]]s fro
 They hike along the shore, and [[Rafayel]] reveals that the island used to be underwater. He reminisces about [[Lemuria]] without naming it, but MC guesses correctly that he's thinking about it. They arrive at the [[blue hole]], where [[MC]] is captivated by its depths. [[Rafayel]] warns her not to be lured in, then mentions legends about such holes--that they contain portals to other worlds or great treasure.
 
 MC is left with a distinct sense of tremor in her heart, but isn't sure whether the source is Rafayel or the sea.
+
+← [[03-B Land of Secret Flames - 06]] | [[03-B Land of Secret Flames - 08]] →
 # Details
 The next day at noon, they arrive at [[Jewel Reef]].
 > Butler: What's most notable about this island is the extraordinary [[blue hole]] situated at its center. It's a rare marvel of the world...

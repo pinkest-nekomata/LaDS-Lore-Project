@@ -3,6 +3,7 @@ After [[MC]] tests some weapon upgrades from [[Simone]], she and [[Xavier]] meet
 
 As they finish their conversation, [[Andrew]] calls with an update. They can now pursue a suspicious [[Wanderer]] with a [[Beta-Protocurve]] that MC had previously identified.
 
+← [[03-01.02 New Discovery]] | [[03-C Voyage of the Outcast - 02]] →
 ## Commentary
 Though [[MC]] only has a hunch at this point, [[Xavier]] has probably the most complete understanding of the [[Aether Core]]s of all the LIs due to his coming from [[Philos]] and being part of the [[Traceback II]] mission.
 

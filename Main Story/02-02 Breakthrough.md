@@ -15,6 +15,7 @@ She has a longer flashback to his sword in her chest before he reaches out to he
 
 MC and Sylus discuss next steps--she still owes him more resonance sessions until the problems are fixed. She leaves the zone without issue, but begins to remember fragments of her time on [[Philos]].
 
+← [[02-01 Ambiguous Chaos]] | [[03-01 Eye of the Storm]] →
 ## Commentary
 
 ### Aether Core Half
@@ -36,5 +37,5 @@ MC calls Sylus's power an Aether Core and he pretty much says "sure let's go wit
 * [[02-02.10 Abandoned Memory]]
 * [[02-02.11 Battle - Into the Vortex]]
 * [[02-02.12 Resonance's Power]]
-* [[02-02.13 - On the Rooftop - Challenge]]
-* [[02-02.14 - Under the Tunnel - Challenge]]
+* [[02-02.13 Battle - On the Rooftop - Challenge]]
+* [[02-02.14 Battle - Under the Tunnel - Challenge]]

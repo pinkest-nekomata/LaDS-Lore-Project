@@ -7,6 +7,7 @@ She goes to stop him, and he talks about how if a planet uses ... to survive, th
 
 MC realizes that her [[Aether Core]] power might be able to satisfy the forest, and pours more of her power into the resonance. The forest's hunger stops, leaving them in starry night, and Xavier collapses in her arms.
 
+← [[03-C Voyage of the Outcast - 07]] | [[03-C Voyage of the Outcast - 09]] →
 ## Commentary
 This chapter has buckets of references to [[Shooting Stars]]. They are mostly recaps, but serve to provide [[MC]] with some clues about [[Xavier]]'s secrets.
 

@@ -7,6 +7,9 @@ The device's data has been tampered with, but they learn that the five students 
 
 There, he summons a [[Protofield]] based on [[Xavier]]'s memories of [[Starfall Forest]], which contains [[Skymirror Salt Flat]], in an attempt to trap him. (See also [[traps for Xavier]].) Snippets of [[Philos]]'s story, including that its core runs on sacrifices, are revealed. Eventually, MC and Xavier defeat [[Soren]]'s apparition and leave the [[Protofield]] via a version of the [[Traceback II]]. They defeat the [[Wanderer]] and gain an [[Aether Core]] fragment soon revealed to be from the [[Spatium Core]]. They also find a [[Radio-Frequency Chip]] in the lab, and [[Xavier]] realizes that [[Soren]] has been working with [[Ever]].
 
+← [[03-01 Eye of the Storm]] | [[04 Homecoming Wings]] →
+↳ [[03-A Thorns Under the Moon]]
+↳ [[03-B Land of Secret Flames]]
 # Chapter index
 * [[03-C Voyage of the Outcast - 01]]
 * [[03-C Voyage of the Outcast - 02]]

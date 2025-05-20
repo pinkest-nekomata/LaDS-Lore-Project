@@ -117,12 +117,12 @@ She finishes the last note, then gazes at Tarus.
 > MC: Haven't you ever heard someone sing before?
 > Dragon: I've... never heard *you* sing.
 
-He sits next to her, tail curing behind her.
-> The nights in Tarus City are always brightly lit. Unlike the flames of war in the Ivory City, desires and revelry burn.
+He sits next to her, tail curling behind her.
+> *The nights in Tarus City are always brightly lit. Unlike the flames of war in the Ivory City, desires and revelry burn.*
 > Dragon: I've heard you're the princess of Ivory City.
 > *I manage a stiff smile.*
 > MC: I was supposed to be a weapon to slay dragons. They told me I could kill a dragon--so they filled my head with a lot of things about them. But when they decided to execute me, they said I *was* a dragon.
-> Dragon: That's how humans are. They fear those who are different. [...] Why can't you leave that place behind?
+> Dragon: That's how humans are. They fear those who are different. \[...] Why can't you leave that place behind?
 > *I shield a flickering white candle in front of me, its flame about to go out.*
 > MC: It's not that. I just lived there for a long time.
 > Dragon: Ah. You consider that place your "home."

@@ -4,6 +4,8 @@ They defeat the [[Wanderer]] and emerge back into the Research Center. Xavier re
 
 MC presses Xavier for his true theories, and he finally relents, saying that he believes [[Ever]] is the one backing [[Soren]]. He confirms that several traitors from the [[Backtrackers]] are probably working with them, and are also trying to cause problems for Xavier.
 
+← [[03-C Voyage of the Outcast - 11]] | [[03-01.03 Onward Again]] →
+←← [[03-01.02 New Discovery]] 
 # Details
 Upon defeating the [[Wanderer]], a rift seems to form, then deposits [[MC]] back in the research center. It's morning now. Xavier is behind her. She briefly sees his [[suppression collar]] activate at his neck, then disappear.
 

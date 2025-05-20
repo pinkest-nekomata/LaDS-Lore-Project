@@ -10,6 +10,7 @@ Rarity: Number star
 **Description**
 > In Xavier's storage room, I discovered an old camera covered in dust...
 
+Tags: #kindled-kiss
 # Summary
 MC and Xavier repair the vintage camera found in his storage room, then visit the flowers they planted the prior spring. Xavier packed a picnic with a tiny cake to celebrate the flowers' "birthday". The area is being turned into a park, so they collect flowers to transplant to a nearby ranch. At the ranch, they encounter sheep, then have a sweet moment flying kites. 
 

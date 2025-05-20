@@ -4,6 +4,8 @@ As [[MC]] and [[Xavier]] wait to meet [[Soren]] at the basketball court by the s
 Notably, when MC is worried that they might not see [[Soren]], [[Xavier]] says confidently that unless he has an Evol that lets him sprout wings and fly away, they'll definitely see when he leaves the student union. ((This foreshadows that [[Soren]] is actually able to teleport.))
 
 When one of the other students appears, though previously saying he'd be taking a week off due to the attack, they head over to ask him questions.
+
+← [[03-C Voyage of the Outcast - 05]] | [[03-C Voyage of the Outcast - 07]] →
 # Details
 
 [[MC]] and [[Xavier]] wait to meet [[Soren]] at the basketball court. MC reflects:

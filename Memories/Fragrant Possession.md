@@ -10,6 +10,7 @@ Rarity: Five star
 **Description**
 > I'm about to attend an award ceremony honoring the Rising Deepspace Hunter, and Zayne has started training me...
 
+tags: #kindled-kiss 
 # Summary
 MC has been nominated for the [[Rising Deepspace Hunter Award]]. Zayne is immensely proud and helps her prepare for her acceptance speech. On the day of the ceremony, they take an early flight from [[Linkon]] to [[Dawnlight City]]. While they check into their hotel before the ceremony, a [[Wanderer]] attacks. MC deals with the [[Wanderer]] while Zayne tends to the wounded. They continue to help with cleanup as the Deepspace Hunter Award ceremony begins. MC wins the award, and Zayne acts as facilitator and cameraman so she can call in and give her speech. 
 

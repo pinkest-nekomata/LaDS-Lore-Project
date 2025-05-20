@@ -3,6 +3,7 @@
 
 After class, it's revealed that [[Xavier]] and [[Ulysses]] are old friends. The discussion reveals that the [[Wanderer]] responsible for the attacks is able to stealth itself, and may have been modified. Ulysses suggests that the university's [[RMFMA]] device may have captured its signal. Together, the three head over.
 
+← [[03-C Voyage of the Outcast - 03]] | [[03-C Voyage of the Outcast - 05]] →
 ## Commentary
 The description of the [[Deepspace Tunnel]] as a wormhole is probably more thematic than consequential, but it's a neat opportunity for the writers to point at some real-world inspiration. It's also a specific confirmation that time travel is possible in-universe, which is a key part of Xavier's backstory.
  

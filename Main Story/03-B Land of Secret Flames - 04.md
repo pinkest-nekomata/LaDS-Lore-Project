@@ -3,6 +3,7 @@
 
 With the help of an earring device from the [[Hunters Association]] and their intel, MC has memorized the yacht's layout and knows all the guards' routes. She and Rafayel begin their plan, with only a 10 minute window before the passcode to the vault where the jewelry is kept changes. But on the way, they hear [[Maxwell]] approaching to someone who's affiliated with an important company ((soon revealed to be [[Ever]])).
 
+← [[03-B Land of Secret Flames - 03]] | [[03-B Land of Secret Flames - 05]] →
 # Details
 [[MC]] couldn't get very close to the jewelry that night, and didn't sense any [[fluctuation]]s from where she stood. After the event, her conversation with [[Rafayel]] reveals they haven't yet told each other their purposes for being there.
 

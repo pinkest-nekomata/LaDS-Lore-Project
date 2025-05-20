@@ -9,6 +9,8 @@ An exhausted [[Xavier]] opts to destroy all the glass on the train and in the st
 
 The next morning, [[Xavier]] confirms that the [[modified Protocore]] from [[No-Hunt Zone 7]], as well as the [[Protocore]] he examined in the [[abandoned base for Protocore research]], were both modified by [[Onychinus]] with an [[Aether Core]]. He then gives [[MC]] a temporary pass for the highest level of access in the [[Hunters Association]] for 24 hours, allowing her to continue her research.
 
+← [[01-05 Eternal Aurora]] | [[01-07 Moonlight Under Sea]] →
+
 ## Commentary
 The title "Endless Night" likely refers to the [[N109 Zone]], which [[MC]] learns about in this chapter. There's also the loop that the train is caught in, and a general connection to the concept of the "dark night of the soul" related to MC's grief at the loss of her family.
 

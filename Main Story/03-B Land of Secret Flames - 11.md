@@ -3,6 +3,8 @@ As they reach the surface, the centuries-old antique boat from the shore ([[03-B
 
 He becomes menacing, speaking of sacrifices and saying he has no need for traitors. MC invokes the power of the [[ocean's covenant]], causing the [[glowing red fish symbol]] to appear on his chest. She resonates, and Rafayel snaps out of it, coming back to his senses. He reveals that this is part of the price to pay for reclaiming the forgotten power and awakening the [[Dead Deep Sea]] and the [[Sea God]]. He also reveals a [[Spatium Core]] fragment, saying it was embedded in the tome.
 
+← [[03-B Land of Secret Flames - 10]] | [[03-B Land of Secret Flames - 12]] →
+
 ## Commentary
 
 ### Sea God's power
