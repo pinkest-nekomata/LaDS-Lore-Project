@@ -12,6 +12,8 @@ MC heads back to the site of the explosion, using [[Lucia]] to lure [[Kevi]] out
 As MC goes to check in with [[Caleb]], [[Viper]] confronts her ([[04-01.07 Unexpected]]) leading to an altercation when Caleb arrives ([[04-01.08 Battle - Snake Trap]]) which culminates in Caleb chasing Viper down and then lying, saying he couldn't find him. They head home for the night. ([[04-01.09 Blindfold]])
 
 The next day, [[MC]] searches for an opening to sneak away so she can return to [[Kevi]] and get him to [[Zayne]]. However, she seems to be coming down with something from the rain the day before, and [[Caleb]] appears to use this as an excuse to give her sleeping pills to keep her from leaving while he's gone that night. Skyhaven is on complete lockdown due to the impending "clean-up" that the [[Farspace Fleet]] is performing. ([[04-01.10 Heart's Crossing]])
+
+← [[03-01 Eye of the Storm]] | [[04-02 Night Unending]] →
  
 # Chapters
 * [[04-01.01 Infiltration]]

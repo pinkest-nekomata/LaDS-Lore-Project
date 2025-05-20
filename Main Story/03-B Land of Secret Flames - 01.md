@@ -3,6 +3,7 @@
 
 He mysteriously references that he'll need help from her for something only she can do, but then returns attention to her investigation.
 
+← [[03-01.02 New Discovery]] | [[03-B Land of Secret Flames - 02]] →
 # Details
 
 [[MC]]'s lead is about a wealthy man, [[Maxwell]], who's been on the [[Hunters Association]] watch list. He has exceptional jewelry appraising skills, and is about to host a banquet for his wedding anniversary on a private island. Only celebrities are invited, so [[MC]] seeks out [[Rafayel]] to take advantage of his connections.

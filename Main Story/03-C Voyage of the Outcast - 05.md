@@ -2,6 +2,8 @@
 In the research center, [[MC]], [[Xavier]] and [[Ulysses]] learn that the [[RMFMA]]'s data has been intentionally tampered with. They can confirm a [[Wanderer]] was there in the past two weeks, but nothing more.
 
 [[Xavier]]'s clearance for the device and knowledge of it are suspicious, but attention quickly shifts to the realization that a study event for freshmen was held recently--and it's the same five students who were attacked. The sixth student, [[Soren]], the Vice President, becomes immediately suspicious.
+
+← [[03-C Voyage of the Outcast - 04]] | [[03-C Voyage of the Outcast - 06]] →
 # Details
 They head over to the [[Prestara University Deepspace Exploration Research Center]] where the [[RMFMA]] is housed on the third floor, under a skylight.
 

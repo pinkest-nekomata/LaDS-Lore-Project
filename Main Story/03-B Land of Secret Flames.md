@@ -7,6 +7,11 @@ The real threat are two [[Ever]] representatives who threaten [[Maxwell]] and th
 
 [[MC]]'s blood is the key to awakening it, and she remembers her [[forgotten promise to Rafayel]]. Once back above the sea in an old boat, [[Rafayel]] is briefly possessed by the [[Sea God]]--a price for awakening the power. Rafayel reveals an [[Aether Core]] fragment ((soon to be revealed as part of the [[Spatium Core]])) he believed to have been in the Tome. Later, he also sends a [[Radio-Frequency Chip]] that's confirmed as the source of the [[Wanderer]] and [[Ever]]'s doing.
 
+← [[03-01 Eye of the Storm]] | [[04 Homecoming Wings]] →
+↳ [[03-A Thorns Under the Moon]]
+↳ [[03-C Voyage of the Outcast]]
+
+
 # Chapter index
 * [[03-B Land of Secret Flames - 01]]
 * [[03-B Land of Secret Flames - 02]]

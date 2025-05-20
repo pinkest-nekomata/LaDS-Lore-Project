@@ -3,6 +3,7 @@ Interviewing the students gives only a couple of clues: all the attacks happened
 
 While pretending to listen to Dr [[Ulysses]]'s lecture in the back, MC and Xavier chat about school and Xavier indirectly mentions [[When Shooting Stars Fall]]. [[Ulysses]] catches them chatting and calls on [[MC]] with a question about traversable wormholes. 
 
+← [[03-C Voyage of the Outcast - 02]] | [[03-C Voyage of the Outcast - 04]] →
 # Details
 [[Xavier]] and [[MC]] step into the room of students. They're wary and nervous. Distributing drinks helps ease the atmosphere a little.
 

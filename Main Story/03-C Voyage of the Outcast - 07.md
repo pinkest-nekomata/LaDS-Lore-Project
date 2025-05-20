@@ -5,6 +5,7 @@ Xavier teleports him and MC there, and they find [[Soren]] at the [[RMFMA]]. Spe
 
 [[Soren]] then teleports away, tipping [[MC]] off to his potential identity. The [[Wanderer]] attacks, but doesn't summon a normal [[Protofield]], and then MC is cast into darkness.
 
+← [[03-C Voyage of the Outcast - 06]] | [[03-C Voyage of the Outcast - 08]] →
 ## Commentary
 [[Soren]] also recognizes [[MC]] here--he would have known her as [[Queen MC]] since he's one of the [[Backtrackers]], which is why he says [[Xavier]] can't boss him around anymore.
 

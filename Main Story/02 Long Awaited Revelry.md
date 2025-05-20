@@ -47,5 +47,5 @@ The title "Long Awaited Revelry" hints at how long [[Sylus]] has been looking fo
 * [[02-02.10 Abandoned Memory]]
 * [[02-02.11 Battle - Into the Vortex]]
 * [[02-02.12 Resonance's Power]]
-* [[02-02.13 - On the Rooftop - Challenge]]
-* [[02-02.14 - Under the Tunnel - Challenge]]
+* [[02-02.13 Battle - On the Rooftop - Challenge]]
+* [[02-02.14 Battle - Under the Tunnel - Challenge]]

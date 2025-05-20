@@ -3,6 +3,7 @@ The [[Wanderer]] has attacked five students at [[Prestara University]]. Two days
 
 [[MC]] and [[Xavier]] go undercover as students part of a campus TV program to "interview" the attacked students and get their stories without startling them.
 
+← [[03-C Voyage of the Outcast - 01]] | [[03-C Voyage of the Outcast - 03]] →
 ## Commentary
 In order to be "undercover", Xavier wears his [[Xavier - Distant Youth]] outfit.
 

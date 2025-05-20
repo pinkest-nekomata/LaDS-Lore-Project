@@ -3,6 +3,7 @@
 
 As they head through the forest, they talk about [[Soren]], and [[Xavier]] reveals only a little more to MC. He might be behind the [[traps for Xavier]]. He changed his appearance, which is why [[Xavier]] didn't initially recognize him. Xavier expresses concern that MC used the power of the [[Aether Core]]. When she tries to probe about his actions, he says "we're here".
 
+← [[03-C Voyage of the Outcast - 08]] | [[03-C Voyage of the Outcast - 10]] →
 ## Commentary
 Though Xavier says [[Soren]] is only "maybe" behind the [[traps for Xavier]], from a meta perspective we can take this as confirmation, especially since [[Xavier]] is cagey about these things.
 # Details

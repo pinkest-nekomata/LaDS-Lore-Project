@@ -3,6 +3,7 @@
 
 Meanwhile, another altercation with "[[Jester]]" requires [[MC]] and [[Rafayel]] to improvise further. Though Rafayel calls [[Yosef]] his uncle, [[Jester]] decides he's really an illegitimate child instead of a nephew, and that works just as well for their purposes.
 
+← [[03-B Land of Secret Flames - 02]] | [[03-B Land of Secret Flames - 04]] →
 # Details
 At the banquet, [[Maxwell]] reveals his gift for [[Gabriella]], his wife--an extravagant piece of jewelry that "resembles a solidified, dark blue tranquil ocean." [[Maxwell]] laughs off rumors that his eyes are failing him and he paid way too much for it.
 

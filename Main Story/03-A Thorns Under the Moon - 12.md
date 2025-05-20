@@ -7,8 +7,8 @@ MC puts this together with the [[human-like Wanderer]]s she saw in the [[N109 Zo
 
 Though Zayne's dreams are initially pleasant, the dreaded nightmare of his ice hurting her returns.
 
-← [[03-A Thorns Under the Moon - 11]] | [[03-01.03 Onward Again]] →
-
+← [[03-A Thorns Under the Moon - 11]] |  [[03-01.03 Onward Again]] →
+←← [[03-01.02 New Discovery]] 
 ## Commentary
 
 ### Freezing over Akso hospital

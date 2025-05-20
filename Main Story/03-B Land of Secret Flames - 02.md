@@ -3,6 +3,7 @@ Three days later, they're on a yacht headed to the private island where the main
 
 [[Rafayel]] has taken the mask intended for [[Yosef]], a man over 70, and a sharp-eyed man in a Jester mask notices this. [[Rafayel]] quickly spins a story about how he's attending on the elderly man's behalf, and when [[Maxwell]] announces the upcoming itinerary, [[Jester]] leaves them alone for now.
 
+← [[03-B Land of Secret Flames - 01]] | [[03-B Land of Secret Flames - 03]] →
 ## Commentary
 Rafayel's [[Rafayel - Phantom of the Siren]] outfit and opera career are references to the [[Siren's Song]] anecdote--he did indeed spend some time as a successful opera singer in [[Verona]].
 

@@ -12,6 +12,7 @@ Analysis shows that one piece of the core is missing, and finding this piece bec
 
 After the debrief, [[Jenna]] gives [[MC]] an [[Ever Secret Investigation Report]] which has a clue about the [[Bloomshore District explosion]]. On [[MC]]'s way home, she has a vision of [[the giant red eye]] seeming to devour the city and calling to her, with [[Aether Core]] energy on the other end.
 
+← [[02 Long Awaited Revelry]] | [[04 Homecoming Wings]] →
 ## Commentary
 ### Timeline
 Assuming each branch happens back to back, the minimum amount of time covered is approx 16 days. (See also [[Main Story Timeline]])

@@ -16,6 +16,7 @@ With [[Rafayel]]'s help, [[MC]]'s plan to get captured goes off without a hitch.
 
 Once MC is captured as planned, another scene reveals [[Rafayel]] watching the events while discussing his own deal with the [[mysterious Ever representative]]. Though it may seem like he's sending [[MC]] to her death, he expresses doubt that [[Ever]] will be able to handle her.
 
+← [[01-07 Moonlight Under Sea]] | [[02-01 Ambiguous Chaos]] →
 # Chapters
 * [[01-08.01 Bonfire]]
 * [[01-08.02 Desecrated Soil]]

@@ -7,7 +7,7 @@ Back at the hospital, [[MC]] tries to get [[Zayne]] to take his insomnia serious
 
 On the way to dinner, [[Jenna]] calls with a lead on a new [[Beta-Protocurve]] location. [[Zayne]] offers to drive MC.
 
-← [[03-A Thorns Under the Moon]] | [[03-A Thorns Under the Moon - 02]] →
+← [[03-01.02 New Discovery]] | [[03-A Thorns Under the Moon - 02]] →
 
 ## Commentary
 We can expect this nightmare and clues here to build on [[Zayne's Dawnbreaker dreams]], and [[Zayne losing control of his Evol]] and his fears of hurting MC.
