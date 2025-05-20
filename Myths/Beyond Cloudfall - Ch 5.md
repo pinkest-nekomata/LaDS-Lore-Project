@@ -34,7 +34,7 @@ MC and Sylus sit around the horde, discussing their next target. There's many pl
 > *I pin him down against a cushion. The knife and bleeding wound dissipate into crimson light particles as he chuckles. Sylus looks up at me. We can feel each other's breaths. As he raises his head, his nose gently brushes against mine.*
 > Sylus: What about you? What's in it for you to attempt an assassination with such a weak hand?
 > *Before the curtains, our eyes meet. The afterglow is reflected in his eyes which emit a surreal warmth. A strange flutter brushes against my heart, and a soft laugh escapes my lips. I return to my original spot before peeling and savoring a pomegranate.*
-> MC: You don't need to tell me. The greedier the soul, the more delicious it is. Am I mistaken? iIn any case, let's hope it doesn't backfire on you.
+> MC: You don't need to tell me. The greedier the soul, the more delicious it is. Am I mistaken? In any case, let's hope it doesn't backfire on you.
 > *Sylus laughs. As I take out another pomegranate seed, he leans in and snatches it with his teeth.*
 > Sylus: Likewise. You haven't fled because you're waiting for an opportunity to take my eye. Is that right?
 > *But as I stare into his eyes, I fond that I don't truly want to hurt him. Besides the horns and tail, he's almost no different from a human.*
