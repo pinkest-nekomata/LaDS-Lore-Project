@@ -10,6 +10,7 @@ Rarity: Five star
 **Description**
 > Next time when flowers bloom, I want you to still be by my side.
 
+Tags: #kindled-kiss 
 # Summary
 While at a botanical garden owned by [[Rafayel]]'s friend [[Charles]], they revisit the unnamed ocean-blooming flower species that was once extinct. MC is still supposed to come up with a name. MC expresses anxiety that Rafayel might one day return to the sea without her--[[Rafayel]] assures her.
 
