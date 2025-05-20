@@ -2,7 +2,7 @@
 LI: [[Zayne]]
 Rarity: 5*
 Type: Memoria
-*Release date:* 2024-06-25, [[Entwined Shadows Banner]]
+*Release date:* 2024-06-25 ([[Banner - Entwined Shadows]])
 *[lads.wiki page](https://lads.wiki/wiki/Zayne:_Snowy_Serenity)*
 
 ![[600px-Zayne_Snowy_Serenity_portrait.webp]]
