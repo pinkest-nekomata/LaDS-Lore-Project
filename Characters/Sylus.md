@@ -56,6 +56,20 @@ Sylus's [[Evol]] is described as "energy manipulation", but he has other powers 
 
 There are a couple of pieces of evidence that Sylus has also retained his draconic features from [[Sylus - Abysm Sovereign]] into the current timeline. In [[02-02.01 Alone]], the [[Little Girl]] that [[MC]] meets refers to a rumor of him having "horns and wings". In [[WU-14 Elysium#04 Strawberry Disaster Special]] specifically mentions "something like a beast's roar" being heard during the chaos. This is likely a reference to a dragon's roar, since any noise a Wanderer made would likely be specifically described as a Wanderer's noise.
 
+See [[Sylus's Eye]] for more details on powers that activate the eye.
+
+## Known abilities
+* See [[Sylus's Eye]] for more details on powers that activate the eye.
+* Mist (external)
+	* Stop bullets midair ([[02-01.02 Alike]])
+	* Turn bullets to dust on impact ([[02-02.02 Night Raid]])
+	* Manipulate objects ([[Land of Lost]], [[02-01.02 Alike]], etc)
+	* Lift people into the air ([[02-01.02 Alike]], throughout LAR)
+	* Cause pain ([[02-01.06 Resonance and Shackles]])
+	* Devour/destroy people ([[02-01.02 Alike]], [[02-01.05 Desire]], etc)
+* Mist (self)
+	* Control falls ([[02-01.02 Alike]], [[Captivating Moment - Ch 9]])
+	* Teleportation-like movement ([[Valleydream Bloom]], #todo death and rebirth reference)
 # Sincerity
 A minor recurring theme, mentioned here and there including in [[Land of Lost]] and [[Grassland Romance]].
 
@@ -68,3 +82,5 @@ Sylus's lore pulls frequently from greek lore and names.
 	* [[Tarus]] City's name is noted in-game to derive from an old reference to the Abyss, confirming it's meant to evoke Tartarus
 	* In promo content for [[02 Long Awaited Revelry]], the [[space-time prison]] is called Tartarus
 	* Tartarus is the [[Praedator]] name of Sylus's character in the [[Tomorrow's Catch 22 AU]]
+* [[Charon]] is the ferryman on the River Styx, and [[Dimitri]] who owns the district introduces himself as such.
+* [[Zoion Hunt]] uses the ancient greek "Zoion" which means animal/beast

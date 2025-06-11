@@ -5,6 +5,9 @@ Captain: [[Jenna]]
 
 Birth year: 2026 or 2027
 
+> "When I was younger, I had doubts about my past. Later I figured that so long as I was healthy and safe, none of it really mattered. But a human heart shouldn't contain a [[Protocore]]. I need to find out who I really am instead of waiting for mysterious people to find me."
+> -- [[MC]], [[05-01.04 The Match]]
+
 # Evol and Power Level
 MC has the rare [[Resonance Evol]], which may be the only of its kind, and one of only a few [[Anhaunsen Class]] Evols. Her power level isn't readable, however.
 
@@ -63,13 +66,17 @@ Caleb's university: [[Aerospace Academy]]
 Note: In China, 9th grade is typically middle school, with High School being 3 yrs (10-12th grade) ([Wikipedia](https://en.wikipedia.org/wiki/Education_in_China#Education_system)). Bachelors degrees are still typically 4 years. Academic year usually spans Sept to June, similar to the US. ([Wikipedia](https://en.wikipedia.org/wiki/Academic_year#China))
 
 ## Details
-MC's origins are mysterious. Nothing is known about her parents. She's the first test subject of the [[Gaia Research Center]] ([[WU-06 Sealed In Dust]]), and they don't know her exact age, listing it as 7-8 ([[Josephine's notes]]). Experiments on her started in 2034, about 1.5 months before the [[Chronorift Catastrophe]], meaning that she was born in 2026 or 2027.
+MC was born in the depths of [[Deepspace]] ([[05-01.01 New Objective]]). She "arrived" at the [[Gaia Research Center]] as a result of their research into ancient civilizations and their power. ( #todo reference, there's something about what was found in the arctic)
 
-In [[Josephine's notes]] and [[Josephine's secret notes]], we learn that she she was originally in an experiment for "life form observation", circa early summer 2034. Attributed to experiment error, her "energy values" rapidly escalated and resulted in an explosion of energy, after which she was medically dead. 14 hours later, she came back to life, albeit without her memories. Within days, she had regained all her cognitive function and then some, outperforming other children her age. The relief was short lived--the researchers voted to attempt to "kill" her again. Josephine ([[Grandma]]) protested, but the "experiment" proceeded anyway.
+Not being a regular human, she has no biological parents and no siblings. This remains true of all her Myth iterations as well.
 
-A larger energy burst occurred, and MC "died", then returned to life again. There are conspicuous parallels between this timing and what we know of the [[Chronorift Catastrophe]] itself--Refer to the Theories section below.
+The [[Gaia Research Center]] calls her "[[Unicorn]]" and "[[Subject 001]]" and they estimate her biological age to be 7-8 at the time of the [[Chronorift Catastrophe]] ([[Josephine's notes]]). The experiments on her energy levels began about 1.5 months before the catastrophe.
 
-While MC is still in the observation unit, the [[Chronorift Catastrophe]] begins, and the observation unit is crushed and MC escapes. Her nightmares of "rusty-red rain" recall this time, and she remembers being saved by [[Lumiere]] ([[Xavier]]). She ends up at a shelter where she has a brief encounter with [[Zayne]] (who makes her popcicles) which she then forgets, and also meets [[Caleb]]. ((TBD whether this is the first time she meets him, or if he's another test subject--[[Josephine's secret notes]] vaguely mention Josephine taking in Caleb but don't refer to anything about another test subject.))
+In [[Josephine's notes]] and [[Josephine's secret notes]], we learn that she she was originally in an experiment for "life form observation" ((which makes sense, since she could be considered an alien life form, having originated in Deepspace)), circa early summer 2034. Attributed to experiment error, her "energy values" rapidly escalated and resulted in an explosion of energy, after which she was medically dead. 14 hours later, she came back to life, albeit without her memories. Within days, she had regained all her cognitive function and then some, outperforming other children her age. The relief was short lived--the researchers voted to attempt to "kill" her again. Josephine ([[Grandma]]) protested, but the "experiment" proceeded anyway.
+
+A larger energy burst occurred, and MC "died", then returned to life again. Parallels between this timing and what we know of the [[Chronorift Catastrophe]] itself foreshadowed the reveal in [[05 Death and Rebirth]] that these experiments are what caused the appearance of the [[Deepspace Tunnel]] and the [[Chronorift Catastrophe]] itself.
+
+While MC is still in the observation unit, the [[Chronorift Catastrophe]] begins, and the observation unit is crushed and MC escapes. Her nightmares of "rusty-red rain" recall this time, and she remembers being saved by [[Lumiere]] ([[Xavier]]). She ends up at a shelter where she has a brief encounter with [[Zayne]] (who makes her popcicles) which she then forgets, and also meets [[Caleb]]. We know from [[Josephine's secret notes]] that she also took in [[Caleb]] at this same time (though he's not specifically named there) and from [[Pathless Realm]] that Caleb was also an experiment known as [[Donor 002]]. Though they were at the lab at the same time, in [[04-02.10 Crossroads]], MC remembers their first meeting as being during the catastrophe.
 
 Josephine then finds MC and [[Caleb]] in the shelter and takes them in. MC's childhood is relatively normal from this point forward, though she does still have memory issues, resulting in the [[forgotten promise to Rafayel]].
 
@@ -85,12 +92,15 @@ She set her heart on becoming a [[Deepspace Hunter]], and passed the exams just 
 ## MC and the Deepspace Tunnel
 **Did MC's resurrections trigger the appearance of the [[Deepspace Tunnel]]?**
 
+This theory is CONFIRMED as of [[05 Death and Rebirth]].
+* #todo specific references
+
+We now know these details to be foreshadowing this reveal:
+
 When the researchers go to "kill" MC a second time, they put her back in the observation unit. A close reading of [[Josephine's secret notes]] reveals that MC was still in the observation unit when the catastrophe hit, meaning that her "resurrection" may have actually been at the same time as the [[Wanderer]]s appeared. If we assume it took Josephine 3-4 days to find MC (the text says "days later"), then MC's first "resurrection" would align with the beginning of the 3 day "polar night" that [[Jeremiah]] notes in [[WU-04 From The Stars]].
 
-Given the close tie of [[Philos]] with [[MC]]'s life and [[Aether Core]] described in [[Shooting Stars]], it's feasible that MC's death could "reach across time and space" in this way.
+Given the close tie of [[Philos]] with [[MC]]'s life and [[Aether Core]] described in [[Shooting Stars]], it's feasible that MC's death could "reach across time and space" in this way. And actually, as revealed in [[05 Death and Rebirth]], MC's origin is [[Deepspace]] making the appearance of the [[Deepspace Tunnel]] and the [[converging timelines]] even more fitting.
 
-This theory is also supported by [[Ever]] helping to fund [[Gaia Research Center]]. We know that some of the [[Backtrackers]] have turned traitor and are working with [[Ever]] and breaking the [[Nonintervention Principle]] (e.g. [[duckbill cap man]] in [[WU-06 Sealed In Dust]]). Given that "Gaia" effectively means "Earth", and the [[Backtrackers]] are trying to find a way to save future-[[Philos]], their "observation project" may have been a way of trying to find a person/life form with [[Protocore]] energy compatible with [[Philos]], or even specifically [[MC]] herself (see also [[Queen MC]]).
-
-So, [[Ever]] plus the traitor [[Backtrackers]] working to find energy for [[Philos]] resulting in a "portal" opening to where Philos used to be would be thematically appropriate, making this theory plausible. And since the [[Aether Core]] is portrayed as having unlimited mysterious power, it foreshadows some large effects like this.
+This theory is also supported by [[Ever]] helping to fund [[Gaia Research Center]]. We know that some of the [[Backtrackers]] have turned traitor and are working with [[Ever]] and breaking the [[Nonintervention Principle]] (e.g. [[duckbill cap man]] in [[WU-06 Sealed In Dust]]). Given that "Gaia" effectively means "Earth", and the [[Backtrackers]] are trying to find a way to save future-[[Philos]], their "observation project" may have been a way of trying to find a person/life form with [[Protocore]] energy compatible with [[Philos]], or even specifically [[MC]] herself (see also [[Queen MC]]). That being said, [[05 Death and Rebirth]] implies that Earth becoming [[Philos]] is only one of many "versions" of [[Philos]], and Ever's motives are more generic for power and immortality. ((See also [[The Fountain of Atei]].))
 
 To take it one step further, the [[Deepspace Tunnel]] doesn't only represent a portal to [[Philos]], but also the [[converging timelines]]. Since [[MC]] is the center of all those timelines, her memory loss during the "death" could hint at a connection between memory in general and her "death". In the process of temporarily losing her memories, she may actually be accessing the memories of all her lives across the universe, becoming the convergence point of all the timelines. Josephine even says something along those lines, when she finds MC at the shelter, "...those forgotten days were always there, invisibly linking us together."

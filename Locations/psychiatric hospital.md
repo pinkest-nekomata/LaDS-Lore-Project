@@ -1,0 +1,1 @@
+[[Feverish Attempts]] references a psychiatric hospital on [[Linkon]]'s outskirts.

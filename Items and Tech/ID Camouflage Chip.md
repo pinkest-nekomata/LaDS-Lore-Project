@@ -1,0 +1,1 @@
+No larger than a fingernail, this high-tech round chip masks biometric data and can foil various automated surveillance systems.

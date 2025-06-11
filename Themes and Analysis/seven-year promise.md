@@ -1,0 +1,1 @@
+Seven years ago (as of [[05 Death and Rebirth]]), [[Zayne]] promised [[White-Haired Boy]] that he would become the [[Fractal Library]]'s administrator.

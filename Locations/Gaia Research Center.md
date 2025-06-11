@@ -6,9 +6,21 @@
 
 The research group where [[Grandma]] worked and did experiments on [[MC]] as a child. See [[Josephine's notes]] and [[Josephine's secret notes]] for more information on these experiments.
 
-Originally located in the biotech district that became the [[N109 Zone]], the research center was destroyed during the [[Chronorift Catastrophe]] ([[WU-06 Sealed In Dust#04 Post-Catastrophe Journal]], [[04-02.10 Crossroads]]).
+Originally located in the biotech district that became the [[N109 Zone]], the research center was said to be destroyed during the [[Chronorift Catastrophe]] ([[WU-06 Sealed In Dust#04 Post-Catastrophe Journal]], [[04-02.10 Crossroads]]). However, [[05-01 Absurdity Unfolds]] reveals that it was not completely destroyed. [[Dimitri]] has kept it functional since the catastrophe.
+
+It's not currently clear whether the lab was always underground or whether this occurred during the frequent destruction and reconstruction of the [[N109 Zone]] ([[05-01.05 Join the Game]]).
 
 Later, a new building was created with the same name. It's featured in [[WU-08 Micro Universe]], which happens circa 2046.
+
+# Known Researchers
+Not exhaustive.
+
+[[Unicorn Research Team]]
+* [[Grandma]]/Josephine
+* [[Philip]], monitored [[Aether Core]]s, deferred to Josephine as a senior
+* [[Gaia Researcher]]
+* [[Dimitri]]
+* [[Leon]]
 
 # Commentary
 Note that "Gaia" effectively means "Earth" (or the Earth goddess), and in [[Shooting Stars]] we learn that [[MC]]'s [[Aether Core]] allows her to serve as infinite energy to keep [[Philos]] alive--at the cost of her repeated death. The name of this project may foreshadow that [[Ever]] was already aware of the future problem [[Philos]] would face, perhaps due to [[Backtrackers]] violating their [[Nonintervention Principle]].

@@ -1,0 +1,1 @@
+A magical book that can move on its own and grant answers to questions. As of [[05 Death and Rebirth]], it's in the possession of [[White-Haired Boy]].

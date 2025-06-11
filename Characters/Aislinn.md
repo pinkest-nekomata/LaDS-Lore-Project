@@ -1,4 +1,4 @@
-A key character in [[WU-14 Elysium]].
+[[Elysium]]'s owner and operator.
 
 Has operated [[Elysium]] since helping to found it in 2036. [[Ginevra]] adopted her when she was twelve, and she considers Ginevra to be family.
 

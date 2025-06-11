@@ -31,3 +31,5 @@ The association was created on January 1st, 2035, approx 6mo after the [[Chronor
 ## Trivia
 * Hunters are assisted by an [[OTTO]]-CSE model, which can even dispense medications according to a hunter's needs, as determined by the data on their [[Hunter's Watch]]. It has an adorable voice. ([[01-02.01 In UNICORNS]])
 * The Association has a PR department that organizes things like magazine interviews to help try to recruit more hunters. ([[Fragrant Possession]])
+* Annually, the [[Hunters Association]] sends [[Deepspace Hunter]]s out to provide public lectures and inspect facilities for risks as a community outreach program. ([[Feverish Attempts]])
+* The [[Hunters Association]] sometimes runs training intensives where [[Deepspace Hunter]]s are isolated from the outside world. The one mentioned in [[Feverish Attempts]] lasts two weeks.

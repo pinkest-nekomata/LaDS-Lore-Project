@@ -7,3 +7,6 @@ Loves tarot. Admires [[Jenna]], especially after Jenna saved her life "over a de
 
 # Spacepedia
 The first colleague I befriended after becoming a hunter. Young with a cute personality that suits her name. Aside from being in the know on interesting gossip and info, she really likes divination and the occult. Not only is she a true friend, but also a trustworthy teammate.
+
+# Trivia
+* In [[Plushie Go Go]], Tara's status on MC's phone is "UNICORNS girls go go go!"

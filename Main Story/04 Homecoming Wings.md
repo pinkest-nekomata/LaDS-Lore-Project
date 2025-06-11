@@ -11,6 +11,8 @@ MC modifies [[Caleb's necklace]] with a Hunter-issue [[stealth monitoring chip]]
 Here, tensions escalate. Caleb keeps her detained for three days, promising she'll be safe enough at the end of that period. Three days pass, and Caleb finally lets slip some of his repressed feelings. The curfew is lifted and MC is free to leave. She says goodbye to Caleb at the runway as he heads off for his mission. On her way home, she finds a "forgiveness coupon" in her pocket that she gave to Caleb when they were kids. She doesn't know what's real or fake with him, but she doesn't want to lose him again.
 
  Then, in an omniscient POV, we learn that [[Professor Lucius]] is working on [[The Fountain of Atei]] and is actively looking for MC so he can use her power. Caleb attempts to throw him off MC's scent. ((There's a big lore dump here, so it's recommended to review [[04-02.10 Crossroads]] directly.))
+ 
+← [[03 Prologue To Tomorrow]] | [[05 Death and Rebirth]] →
 # Parts
 * [[04-01 Vanishing Skyward]]
 * [[04-02 Night Unending]]

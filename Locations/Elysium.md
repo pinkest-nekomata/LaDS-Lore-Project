@@ -5,6 +5,9 @@
 > For years, Elysium has been one of the [[N109 Zone]]'s top intel hubs that's backed by a powerful force.
 > -- [[WU-14 Elysium#05 Today's Special]]
 
+>  Under the dim yellow light, a young woman is hunched over behind the bar. Bored, she's fiddling with some cards. In the center of the graffiti-covered wall is the establishment's somewhat gaudy name: [[Elysium]].
+>  -- [[02-02.01 Alone]]
+
 [[Sylus]] has been the bar's sponsor and the "powerful force" behind it since only a few months after its founding in 2036.
 
 [[Aislinn]] has worked at the bar since [[Ginevra]] founded it, and has been its primary operator the whole time.
@@ -16,9 +19,14 @@ From [[02 Long Awaited Revelry]]:
 * Wine casks are displayed along the ceiling
 
 From [[WU-14 Elysium]]:
+* [[Aislinn]] owns the bar
 * The bar plays soothing blues music at times
 * Officially opens at 10pm, closes at 3am
 * They offer a [[Connoisseur's Menu]] 
+
+From [[05 Death and Rebirth]]
+* Outside, the sign reads "Elysium, the True Paradise"
+* They have screens set to show entertainment events like the [[Zoion Hunt]].
 
 # Name
 This is a reference to the Elysium from Greek myth, the place where heroic souls go to rest in peace ([Wikipedia](https://en.wikipedia.org/wiki/Elysium)). Since it's connected to the afterlife, it's also connected to Hades, who rules the underworld. The parallel to [[Sylus]] ruling the [[N109 Zone]] is clear.

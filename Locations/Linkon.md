@@ -20,6 +20,7 @@ City Center/Downtown
 * [[Universum]]
 	* [[Universum Station]]
 * [[Bloomshore District]]
+	* [[Twinkle Toys]]
 * [[MC's apartment]]
 * [[The Nest]] (tentative)
 * [[Linkon Central Park]]
@@ -55,7 +56,8 @@ Suburbs and surrounding areas
 * [[northern suburbs]]
 * [[No-Hunt Zone 7]]
 * [[Hat Island]]
-* [[N109 Zone]]
+* [[psychiatric hospital]] (on the "outskirts")
+* [[N109 Zone]] (to the south via [[Baire Boulevard]])
 	* [[fighting arena]]
 	* [[Solon Hotel]]
 	* [[Odd Workshop]]

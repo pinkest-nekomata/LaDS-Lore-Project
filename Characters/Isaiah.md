@@ -1,8 +1,23 @@
+> "[[Ever]] placed their bets on him, but he defected while holding onto classified intel. Now he's a thorn in their side."
+> -- [[Xavier]], [[Feverish Attempts]]
+
+*See also: [[#Additional Quotes]]*
+
 Originally one of the [[Backtrackers]]. He's the main antagonist in [[Passing By]], which reveals he'd been trying to hunt down [[Xavier]] for a while. He says he feels like [[Xavier]] abandoned them. In [[WU-06 Sealed In Dust]], he's implied to be dead.
 
+[[Feverish Attempts]] reveals that [[Isaiah]] has lost his memories, rendering him harmless, and has been at a [[psychiatric hospital]] on [[Linkon]]'s outskirts. He's still alive because [[Xavier]] had insisted on sparing him. [[Jeremiah]] worries that he might resume his revenge attempts if he regains his memories.
+
+At this time, he's described as a young man with the same eye and hair color as Xavier. He recognizes [[MC]].
+
+# Involvement with Ever?
 There's a chance that [[Isaiah]] is [[duckbill cap man]], but the only direct connection is that they're both former [[Backtrackers]] working with [[Ever]]. Still, there's some supporting evidence:
 * In [[Passing By]], Isaiah is described as having "silver hair, much like Xavier's, though he seems slightly younger." 
 * In [[WU-07 With Light]], a video of someone using the Light Evol is first described as having the "same physique" as [[Xavier]], but then [[Nero]] insists that [[Lumiere]]/[[Xavier]] has a "superior physique" and the "Evol particle readings" don't match Lumiere. Crucially, this person has a wrinkled face, and [[duckbill cap man]] has wrinkled hands. If this person is slightly slimmer than Xavier, that could make him look "younger". Though it's not specifically stated that the person in the sighting has silver hair, it's unlikely he'd be mistaken for [[Lumiere]] if he didn't.
 * In [[01-08.02 Desecrated Soil]], the [[Unnamed Backtracker]] mentions "what happened to [[Isaiah]]" (ie, [[Xavier]] killed [[Isaiah]]). Since this is 6mo after the explosion, it's possible [[Xavier]] killed [[Isaiah]]/[[duckbill cap man]] in that time.
 
 Still, it's easily possible that there's just two similar [[Backtrackers]], since their physique (and an inference about hair color) is really the only thing to go off of.
+
+# Additional Quotes
+
+> "[[Ever]] placed their bets on him, but he defected while holding onto classified intel. Now he's a thorn in their side. He vanished for a while, and we thought he was dead. By the time we found him, he... Already went insane. EVER caught wind of it. So, Jeremiah is moving him to a safe place. Just in case."
+> -- [[Xavier]], [[Feverish Attempts]]

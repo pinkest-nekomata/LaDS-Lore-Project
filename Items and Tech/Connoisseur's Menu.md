@@ -86,14 +86,14 @@ In essence, this is a homey, familiar dish filled with wishes for prosperity and
 # The Point of No Return
 > **Smoked pigeon, saffron, pickled onions, barley, toasted truffle bread with au jus, and 100% trust.**
 > (5, 7, 8)
-> Description: At Charon, no deal goes unmade. The "pigeon" meat from the market's "arena". A rare delicacy available only this season. Pay the appropriate fee. And they will fulfill your every wish. Remember... once a deal is in place, there's no turning back.
+> Description: At [[Charon]], no deal goes unmade. The "pigeon" meat from the market's "arena". A rare delicacy available only this season. Pay the appropriate fee. And they will fulfill your every wish. Remember... once a deal is in place, there's no turning back.
 * Special services:
 	* (5) Mediation
 	* (7) [[Protocore]] Trading
 	* (8) Proxy Deals
 
 ## Commentary
-Charon is the ferryman to the underworld in ancient greek mythology ([Wikipedia](https://en.wikipedia.org/wiki/Charon)), underscoring that the "point of no return" here is death. The "arena" could refer to the [[N109 Zone]]'s [[fighting arena]]. This one clearly connects to taking out a hit (ie having someone killed).
+Charon is the ferryman to the underworld in ancient greek mythology ([Wikipedia](https://en.wikipedia.org/wiki/Charon)), underscoring that the "point of no return" here is death. The "arena" is in [[Charon]] and features in [[05-01 Absurdity Unfolds]] and [[05-02 All From Deepspace]].
 
 # Strawberry Disaster Special
 > **Strawberry ice cream, fresh strawberries, strawberry sauce, chocolate-covered strawberries, chili powder made from the Red Savina pepper, and a four-leaf clover.**

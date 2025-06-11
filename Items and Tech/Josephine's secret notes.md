@@ -80,7 +80,7 @@ From [[WU-06 Sealed In Dust#03 Observation Log]]
 >
 > Entry No. 2
 > In terms of the [[Evol]] experiment, we could only hypothesize from a numerical perspective. Before she used [[Evol]] of her own accord, no one could be sure how the [[Resonance Evol]] would manifest.
-> Only once did she use Resonance unconsciously. The target and range were unclear. [[Leon]] has the [[Acoustic Transmission]] Evol. That day, everyone hard him talking on the phone with his girlfriend as if he were a broadcaster.
+> Only once did she use Resonance unconsciously. The target and range were unclear. [[Leon]] has the [[Acoustic Transmission]] Evol. That day, everyone heard him talking on the phone with his girlfriend as if he were a broadcaster.
 > 
 > Entry No. 3
 > Following the voting results, we began our experiment to kill Unicorn in an observation unit yesterday. We also prepared emergency measures.

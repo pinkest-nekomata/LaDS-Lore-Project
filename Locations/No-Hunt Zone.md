@@ -9,6 +9,8 @@ If there is a chaotic [[Protofield]] and frequent [[Wanderer]] appearances, the 
 
 # Known Zones
 A non-exhaustive list of zones mentioned in the story and in memories:
-* [[No-Hunt Zone 42]]
-* [[No-Hunt Zone 7]]
-* [[No-Hunt Zone 19]]
+* [[No-Hunt Zone 42]] ([[Traceback II]])
+* [[No-Hunt Zone 7]] ([[01-03 Talented Hunter]])
+* [[No-Hunt Zone 19]] ([[Silvery Polyphony]])
+* No-Hunt Zones 62-65
+	* These "[[Protofield]]-disrupted" zones lie between [[Linkon]] City and the [[N109 Zone]].

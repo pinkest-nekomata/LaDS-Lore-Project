@@ -1,0 +1,1 @@
+A wide street on the way from [[Linkon]] to the [[N109 Zone]], which is to the south of the rest of the city.
