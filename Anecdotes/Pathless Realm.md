@@ -132,12 +132,12 @@ He finds [[MC]] asleep at her desk in the process of wrapping a present. She's w
 * #todo compare this to [[Cybezin]] when adding [[04 Homecoming Wings]]
 
 Caleb dreams:
-> Evol Monitoring Experiment No. 742 will now commence. The test subject is Donor 002. The subject's age is approximately 9-10 years old..."
+> Evol Monitoring Experiment No. 742 will now commence. The test subject is [[Donor 002]]. The subject's age is approximately 9-10 years old..."
 > Several pairs of hands methodically attach data monitoring electrodes to his temples. The door closes. In the pure white room, a mechanical alarm clock sits in the center of the table, its second hand ticking in a silence you'd only witness in a vacuum.
 > Under multiple gazes, he raises his hand. Within moments, an invisible force compresses the mechanical clock into a metal sheet as thin as a cicada's wings.
 > Time seems to stop.
 > He knows he's always been good at destroying delicate things. The people behind the observation window say that the test subject will become a force comparable to a black hole given time. Not even light could escape it.
-* ((Note the conspicuous similarities to [[MC]]'s experimentation in [[Josephine's notes]] and [[Josephine's secret notes]]. She is Subject 001, he's Donor 002. We can conclude that [[Ever]] is behind these experiments as well. And given the slightly suspicious circumstances of Caleb's recovery, as well as his Gravity Evol being no secret at the [[Aerospace Academy]], it's likely that Ever has continued to keep an eye on him and maybe even intervened in his recovery.))
+* ((Note the conspicuous similarities to [[MC]]'s experimentation in [[Josephine's notes]] and [[Josephine's secret notes]]. She is [[Subject 001]], he's [[Donor 002]]. We can conclude that [[Ever]] is behind these experiments as well. And given the slightly suspicious circumstances of Caleb's recovery, as well as his Gravity Evol being no secret at the [[Aerospace Academy]], it's likely that Ever has continued to keep an eye on him and maybe even intervened in his recovery.))
 
 > The dream shifts, and shadows swallow everything again. He pilots the patrol aircraft alone through the [[Deepspace Tunnel]]. Darkness surrounds him. Human existence blurs in absolute silence. He's reduced to an insignificant pixel, a disconnected signal in this vast universe.
 > He thinks he hears a voice ask him something.

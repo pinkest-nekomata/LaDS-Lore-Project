@@ -10,6 +10,8 @@ It turns out there's more than one [[Aether Core]] in the world.
 # Other Info
 When Sylus's Eye is activated, it glows red. Whispers arise in the subject's mind, speaking their true desires.
 
+[[05-01.04 The Match]] seems to imply that his eye also glows whenever his own desire surges, as it does when he senses the [[Spatium Core]] in [[MC]].
+
 Known powers:
 * Awakening hidden desires ([[02 Long Awaited Revelry]], [[Land of Lost]])
 * Mind control/mental domination ([[Land of Lost]])
@@ -18,7 +20,7 @@ Known powers:
 ## Commentary
 
 ### Dragon Core
-The Spacepedia entry is from MC's perspective, so it may not be strictly accurate that his eye's power is an [[Aether Core]] like hers. When she asks Sylus if that's what his eye is, he sighs and says, "Sure. Think of it like that." ([[02-02.06 Agreement]])
+The Spacepedia entry is from MC's perspective, so it may not be strictly accurate that his eye's power is an [[Aether Core]] like hers. When she asks Sylus if that's what his eye is, he sighs and says, "Sure. Think of it like that." ([[02-02.06 Agreement]]) Later, when she asks about his "fusion with a [[Protocore]]" compared to hers, he says "my situation holds little value as a reference point." ([[05-01.04 The Match]])
 
 Given that an "Aether Core" is essentially any particularly powerful Protocore, there's no real contradiction here, but there's reason to avoid generalizing Sylus's abilities to other Aether Cores. 
 

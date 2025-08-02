@@ -1,0 +1,1 @@
+A model of vintage care featured in [[05-01.07 Soul Time]]. Produced 60 years before 2050 (i.e. 1990). It has a glossy black finish and a roomy back seat. Popular with young dreamers.

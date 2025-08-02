@@ -11,4 +11,5 @@
 | [[Zayne]] - [[Steamy Proximity]]<br>[[Xavier]] - [[Love Syndrome]]       | 2025-01-10 | 2025-03-09 |
 | [[Caleb]] - [[Deceptive Solitude]]<br>[[Xavier]] - [[Sweetness Pursuit]] | 2025-03-09 | 2025-05-06 |
 | [[Rafayel]] - [[Banquet Ablaze]]<br>[[Sylus]] - [[Freefall Gambit]]      | 2025-05-06 | 2025-07-03 |
+| [[Zayne]] - [[Morning Drift]]<br>[[Xavier]] - [[Nocturnal Hunt]]         | 2025-07-03 | 2025-08-30 |
 |                                                                          |            |            |

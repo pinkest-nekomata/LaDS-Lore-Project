@@ -53,7 +53,7 @@ From [[02-02.12 Resonance's Power]]:
 > At the confluence of the entwined timelines,
 > I heard it.
 > A faint yet distinct heartbeat.
-> `A small star of light drifts downward in the black field. The star contacts a planet, briefly illuminating it from behind--it's Earth. Then, the glow shifts to the core of the planet and it begins to fracture, light streaming out from the massive cracks in the planet's surface.`
+> `A small star of light drifts downward in the black field. The star contacts a planet, briefly illuminating it from behind--it's Earth. Then, the glow shifts to the core of the planet and it begins to fracture, light streaming out from the massive cracks in the planet's surface. Notably, the orientation of the glow resembles a vertical pupil and may be another reference to a giant eye.`
 * ((See also [[cosmic heartbeat]], [[branching timelines]], [[converging timelines]]))
 
 ## Commentary
@@ -117,3 +117,67 @@ Instead of a cinematic, [[04 Homecoming Wings]] ends with this poem:
 > Spare me from the loneliness of eternal rest..."
 
 See also [[The Fountain of Atei]].
+
+# All From Deepspace
+This cinematic occurs in the middle of the [[05-02.03 Cosmic Convergence]] chapter--note how the chapter name itself evokes the theme of [[converging timelines]].
+
+Against a black background:
+> What... Am I?
+> In bounding darkness,
+> I drift through the cosmos.
+> `A golden aether core floats in front of outer space imagery: nebulas, a planet, and what appear to be shimmery blue portals.`
+> It's like I'm part of it.
+> I am the cosmos.
+> I see a planet on the brink of destruction. And the different paths it could take.
+> `We zoom in on the planet and a wipe effect changes the colors and textures of the surface. Red > blue > white > gaseous swirls > lava, etc, going faster and faster.`
+> Some explode like tiny fireworks before their life could begin.
+> `Cracks spread across the planet, glowing bright, then the planet explodes.`
+> Others are further along in their journey.
+> `A grey hollow shell of a planet with chunks missing.`
+> However, all of them perish.
+> `Swirling light surrounds the planet.`
+> And at the endof their lives, each planet collapses inward.
+> A tiny core takes its place.
+> The one born from destruction: the [[Origo Core]].
+> `In the background, the planet collapses.`
+> It silently floats in space as energy stirs from its slumber. Cosmic strings resonate with it. [[Spacetime]] twists and stretches.
+> `There's a fractal kaleidoscope effect over the image of the core. Zooming, in the core explodes, then the screen goes white.`
+> Everything and nothing has changed.
+> The [[Origo Core]] descends upon a planet nearing collapse.
+> `We see the planet again, this itme tan and bluish. Beside it, there's a dark spot surrounded by swirling light.`
+> It's waiting for the end and its own birth.
+
+After the cinematic:
+> My awareness gradually fades as my body feels weightless. The ethereal eye appears once more. It devours me completely this time.
+> All the sensations in my body disappear as the scene before me gradually fades into darkness.
+> Suddenly, I "hear" a strong heartbeat and "feel" a warm power flow through me.
+> It's a fragment from another place and time. Yet it brings a familiar presence. Everything that was lost has returned to me.
+> At first, they're just blurry images reminiscent of scattered, flickering stars in my mind.
+> But as time passes, these images start to become clear. They slowly come together and form vivid, tangible scenes. Complete with sounds, textures, temperatures, and even the faintest presence, they're real and full of life.
+> Unfamiliar fragments connect into a single, unbroken thread. Those past experiences, emotions, choices, and missions—
+> Once again, they cross the barriers of time and space.
+> Carefully weaving themselves into the fabric of my existence, they become a part of me.
+
+See also: [[the giant red eye]], [[cosmic heartbeat]]
+## Commentary
+### The nature of Philos
+This cinematic finally gives us concrete details about the nature of Philos--namely, that each myth is a "what if" for the same planet in the [[branching timelines]], and each "version" doesn't necessarily interact with the others. Refer to [[Philos]] for further discussion.
+
+### The nature of MC
+This cinematic confirms that MC herself is a cosmic force. Her existence is tied to that of [[Philos]] and its many versions, represented by the various [[Aether Core]]s.
+
+For more on her rebirth, refer to [[MC's Rebirth Deep Dive]]
+
+### The Origo Core
+Since "Origo" means "origin" (see [[Origo Core]]), the core is depicted as gold, and the cinematic shows its rebirth as MC is "dying" and being "reborn", we can conclude that the Origo Core is the one MC originally manifested with and completed in [[02 Long Awaited Revelry]].
+
+We see it return to Earth as she "resurrects":
+> The [[Origo Core]] descends upon a planet nearing collapse. It's waiting for the end and its own birth.
+
+[[05-02.07 When the Snow Falls]] confirms that the "planet nearing collapse" mentioned here is the Earth of the main story timeline. Compare:
+> Some say Earth's climate system has broken down, and a disaster comparable to the [[Chronorift Catastrophe]] is imminent.
+> Others claim Earth is on the verge of collapse. All tectonic plates will shatter, and thus human civilization will end.
+
+Side note, the tectonic plates shattering is the fate that befell the [[Philos]] in [[Shooting Stars]] (and potentially other versions of Philos, though none are specifically confirmed).
+
+This time, her memories remain intact due to [[Sylus and MC's Evol linkage]], see [[MC's Rebirth Deep Dive]] for more.

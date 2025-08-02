@@ -1,0 +1,1 @@
+Assumed to be working for the [[Purist]] extremists, this mole leaked the relocation of the [[Spatium Core]] (and likely the specific fact that [[MC]] would be there) to [[Gaia Researcher]], allowing her to intercept the delivery. ([[05-01.01 New Objective]])

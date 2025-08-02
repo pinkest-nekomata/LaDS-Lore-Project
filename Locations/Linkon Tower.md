@@ -1,0 +1,1 @@
+One of the best sight-seeing spots in the city. On floor 102, you can sit by French windows and see a view of the city below. ([[Heartfelt Code]])

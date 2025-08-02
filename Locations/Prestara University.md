@@ -1,0 +1,1 @@
+A key location in [[03-C Voyage of the Outcast]].

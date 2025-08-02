@@ -17,6 +17,13 @@ However, Josephine can't get into contact with any of the other researchers. The
 There's a vague reference to another person in the home, which is likely meant to be [[Caleb]].
 # Commentary
 
+## Planetary Energy
+Note this quote:
+>  Last night's incident... was like watching a planet evolve and be reborn via an explosion. 
+
+And compare to the reveal in [[05-02.02 From Greatness to Madness]].
+
+#todo flesh this out
 ## Timeline
 Clues point at the [[Chronorift Catastrophe]] being in the summer, and MC was being experimented on for approx 1.5 months before the catastrophe, so likely late spring/early summer.
 
@@ -43,6 +50,9 @@ Side note: Since the discovery of the [[Aether Core]] predates the [[Chronorift 
 
 ## What MC knows
 Though the main story is a bit vague about what was contained in [[Josephine's notes]], the reveal that MC "died" and came back is so important that it's unlikely that [[MC]] knows this information. The existence of the [[Aether Core]] is dangerous enough--knowing that "killing" MC could make her stronger, at the expense of her memories, is information too dangerous for anyone to have, even MC. (Unfortunately, [[Ever]] now knows this since Josephine never destroyed her notes.)
+
+## "Unicorn"
+"Unicorn" is not a localization: MC is specifically named "Unicorn" (using the latin alphabet) in the original traditional Chinese.
 
 # Full text
 
@@ -80,7 +90,7 @@ From [[WU-06 Sealed In Dust#03 Observation Log]]
 >
 > Entry No. 2
 > In terms of the [[Evol]] experiment, we could only hypothesize from a numerical perspective. Before she used [[Evol]] of her own accord, no one could be sure how the [[Resonance Evol]] would manifest.
-> Only once did she use Resonance unconsciously. The target and range were unclear. [[Leon]] has the [[Acoustic Transmission]] Evol. That day, everyone hard him talking on the phone with his girlfriend as if he were a broadcaster.
+> Only once did she use Resonance unconsciously. The target and range were unclear. [[Leon]] has the [[Acoustic Transmission]] Evol. That day, everyone heard him talking on the phone with his girlfriend as if he were a broadcaster.
 > 
 > Entry No. 3
 > Following the voting results, we began our experiment to kill Unicorn in an observation unit yesterday. We also prepared emergency measures.

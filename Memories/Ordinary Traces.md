@@ -24,7 +24,7 @@ Rarity: Four star
 * Sylus's intimidating aura works on the performers and passers-by at the Linkon temple festival for Linkon New Years.
 * Due to his dangerous job, MC has given Sylus good luck charms from many deities, just in case some of them don't bless him.
 * Sylus loves fireworks.
-* Sylus bought a bunch of tiger puppets.
+* Sylus bought a bunch of tiger puppets last year.
 * Tonight, he smells like wine and fireworks.
 
 # Quotes

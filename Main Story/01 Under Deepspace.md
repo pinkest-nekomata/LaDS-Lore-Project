@@ -26,6 +26,7 @@ Thus prepared, [[MC]] heads to [[The Nest]] for [[Hunting Day]]. Her plan to get
 
 Meanwhile, [[Rafayel]] discusses his own deal with the [[mysterious Ever representative]].
 
+ | [[02 Long Awaited Revelry]] →
 ## Commentary
 * "Under Deepspace" refers to the [[Deepspace Tunnel]] over [[Linkon]], and this segment establishes the stakes and circumstances of the series, as well as the three original LIs.
 

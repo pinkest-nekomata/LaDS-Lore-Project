@@ -12,6 +12,7 @@ MC leaves the [[N109 Zone]], but her deal with [[Sylus]] lingers, and she begins
 
 In the arc's final [[cosmic cinematic]], she hears a [[cosmic heartbeat]] at the "confluence of the entwined timelines" and seems to witness Earth cracking apart to become [[Philos]].
 
+← [[01 Under Deepspace]] | [[03 Prologue To Tomorrow]] →
 ## Commentary
 The title "Long Awaited Revelry" hints at how long [[Sylus]] has been looking for [[MC]] since the events of [[Beyond Cloudfall]]. The myth is heavily referenced in this arc, and it's the first arc that establishes that Myth events interact with the main timeline.
 

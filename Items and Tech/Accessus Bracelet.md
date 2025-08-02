@@ -1,0 +1,1 @@
+An ice bracelet created by the [[Emissary]], it controls entry to the [[Fractal Library]].
