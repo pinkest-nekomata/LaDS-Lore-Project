@@ -25,20 +25,25 @@ The leader of [[Onychinus]] is said to have built his empire on illegal [[Evol]]
 Known locations within the N109 Zone:
 * [[Odd Workshop]]
 * [[Solon Hotel]]
-* [[Sylus's base]] (East of the central district)
+* [[Sylus's base]] (Northeast of the central district)
 * [[Umerta Street]]
 	* [[Kris's Antiques and Oddities]]
 * [[Elysium]] (East of the central district)
 * [[Charon]] ("central district")
 	* [[Charon Arena]]
 	* [[Gaia Research Center]]
+	* [[Velocity Vintage Cars]] (near the arena)
+	* [[abandoned factory]]
 * [[desolate courtyard]] (northern edge)
+* [[West District Docks]]
 
 The zone has been destroyed rebuilt many times, so much so that maps of the former biotech hub are useless now ([[05-01.05 Join the Game]]).
-# Access
-To get to the N109 Zone, you travel south from [[Linkon]] City via [[Baire Boulevard]] and pass through [[No-Hunt Zone]]s No. 62-65.
 
-Due to [[Protofield]] disruptions, an [[anti-interference chip]] or similar tech is required to successfully navigate this path and enter the zone.
+Since [[Charon]] is described as being southwest of [[Sylus's base]] ([[Event - Abyssal Splendor#Gem Investigation#Chapter 1]]), and Charon is also described as being at the center of the N109 Zone, then Sylus's base must be in the Northeast area.
+# Access
+To get to the N109 Zone, you travel south from [[Linkon]] City via [[Baire Boulevard]] and pass through [[No-Hunt Zone]]s No. 62-65. ([[05-01.02 Charon]])
+
+Due to [[Protofield]] disruptions, an [[anti-interference chip]] or similar tech is required to successfully navigate this path and enter the zone. ([[05-01.02 Charon]])
 
 # Name Origin
 The in-game explanation is that there are 108 No-Hunt Zones. 109 is also a callback to the [[Beyond Cloudfall]] myth--Sylus mentions that humans have tried to kill him 108 ways. MC represents the 109th.

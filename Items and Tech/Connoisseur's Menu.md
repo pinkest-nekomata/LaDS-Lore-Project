@@ -8,6 +8,9 @@ A special menu available at [[Elysium]]:
 > "Now you may place your order. Every dish comes with its own special seasonings so our customers can choose what suits their palate."
 > -- [[Aislinn]], [[WU-14 Elysium#03 Coward's Shell]]
 
+> "Every dish in the Connoisseur's Menu tells a story from the N109 Zone. But the story behind this one hasn't started yet. It's waiting for someone to order it... In fact, it's been waiting for a long time now."
+> -- [[Aislinn]], referring to [[#Today's Special Sweet Evil Trap]] in [[05-01.08 Connoisseur's Desserts]]
+
 Each menu item below contains the description from [[WU-14 Elysium]] and additional quotes/commentary.
 
 # Do It
@@ -115,7 +118,6 @@ Strawberry's bright read evokes pools of blood. The Red Savina pepper is notable
 [[Sylus]]'s message for [[MC]].
 
 [[Sylus]] is strongly implied to still be the "sponsor" of [[Elysium]] and the "powerful force" behind it. [[Aislinn]] specifically mentions that the "sponsor" is the "side dish" for this menu item, and that it's for only one person--a "certain lady". There's only one person [[Sylus]] would leave a message like this for--[[MC]]. Especially when you break down the symbolism of the ingredients:
-
 * Walnuts were prized in Ancient Greece as the "royal nut" ([Hoplite Association](https://www.hoplites.org/food-of-the-ancient-greeks/)) and they retain their reputation as an aphrodisiac ([Diane Kochilas](https://www.dianekochilas.com/three-walnut-honey-aphrodisiac-greek-recipes-for-valentines-day/)), complemented by pepper's heat and pleasurable pain. 
 * Rosemary symbolizes remembrance, loyalty, love and protection ([Symbol Sage](https://symbolsage.com/rosemary-herb-meaning/))
 * **Pomegranate** evokes the forbidden fruit ([Wikipedia](https://en.wikipedia.org/wiki/Forbidden_fruit#Pomegranate)) and the underworld trap that snared Persephone ([Wikipedia](https://en.wikipedia.org/wiki/Persephone#Abduction_myth)). 
@@ -123,7 +125,9 @@ Strawberry's bright read evokes pools of blood. The Red Savina pepper is notable
 * Plus half a **soul**
 	* The 10.5 grams is a reference to the idea that a soul weighs 21 grams ([Wikipedia](https://en.wikipedia.org/wiki/21_grams_experiment)), so 10.5 is exactly half. (They trade half their souls in [[Beyond Cloudfall]].)
 
-The message, "I'm waiting for you", seems to hint that this is a romantic gesture during the time before Sylus and MC reconnect.
+The message, "I'm waiting for you", hints that this is a romantic gesture during the time before Sylus and MC reconnect. It seems to be "today's special" every day, and in [[05-01.08 Connoisseur's Desserts]] [[Aislinn]] says "it's been waiting for a long time now."
+
+MC ends up "ordering" this item to find Sylus's location in [[05-01.08 Connoisseur's Desserts]].
 # Special services:
 * (1) Assassination
 * (2) Arms Deals

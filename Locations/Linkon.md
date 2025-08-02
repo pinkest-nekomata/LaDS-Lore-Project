@@ -45,6 +45,7 @@ Unspecified
 	* [[Hillside Gardens]]
 * [[Linkon City Convention and Exhibition Center]]
 * [[Wall Iris Park]]
+* [[Grand Center]]
 
 Metro Area
 * [[Whitesand Bay]]

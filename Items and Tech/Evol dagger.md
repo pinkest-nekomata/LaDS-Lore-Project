@@ -1,0 +1,1 @@
+Briefly mentioned in [[05-01.06 Hunting Moment]]. An Evol-infused dagger.

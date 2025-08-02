@@ -1,0 +1,1 @@
+MC's requiem, to be specific. Referenced in [[Beyond Cloudfall]] and [[Continuous Symphony]], as well as in [[My Birthday#Year 1#Sylus]].

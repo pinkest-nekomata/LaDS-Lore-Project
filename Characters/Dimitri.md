@@ -11,6 +11,8 @@
 
 The "Lord of [[Charon]]" and host of the [[Zoion Hunt]].
 
-Deceased as of #todo.
+Deceased as of #todo
+
+CN: 于覓 Yu Mi
 # Charon
 When [[Dimitri]] first meets MC he introduces himself as the "ferryman on the River Styx"--that is, Charon. This foreshadows that he owns the trading hub/district [[Charon]] and that he's behind the [[Zoion Hunt]]. He's essentially guiding people "from life into death" by running such a deadly game.

@@ -1,4 +1,4 @@
-aka: Josephine
+aka: Josephine (CN: 張素, Zhang Su)
 
 "The sweet grandma I knew has revealed a side of her I didn't know she had." -- [[MC]], [[01-05.01 Unspoken Secret]]
 

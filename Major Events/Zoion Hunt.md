@@ -22,6 +22,8 @@ There's a lot of greek myth theming around [[Sylus]] and the [[N109 Zone]], see 
 From [[05-01.03 Zoion Hunt]]:
 > [[Dimitri]]: People become hunters and prey to fight for a gold coin. With it, they'll be granted one wish from the Lord of Charon. At the very end, whoever enters the central arena with the coin and remains the last one standing becomes the winner. \[...] You can use Evol weapons, Protocore weapons, and your own fists... Wanderers are just another weapon people use to hunt each other.
 
+See also: [[Charon's coin]].
+
 People place bets on the fight, and the contestant with the most bets on them is shown at the top of the leaderboard. This makes them the primary target for the rest of the hunt.
 
 Of this, [[Dimitri]] says:

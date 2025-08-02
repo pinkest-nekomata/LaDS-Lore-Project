@@ -13,6 +13,9 @@
 
  > It pierces through the skyscrapers of [[Linkon]] City like a meteor, shooting right through the psychological defenses of its citizens. [...] they're mercilessly crushed by a [[Wanderer]] that somehow appeared behind them, becoming a handful of dust.
  > -- [[Jeremiah]] POV, [[WU-04 From The Stars#04 Catastrophe]]
+ 
+ > "Those monsters and that cosmic void in the sky... It's all because of you..."
+ > Young Dimitri, [[05-02.03 Cosmic Convergence]]
 
 # Spacepedia
 Fourteen years ago, with the opening of the [[Deepspace Tunnel]], countless [[Wanderer]]s invaded Earth and began attacking humans. Many lives were lost. Among the affected areas, [[Linkon]] City suffered the highest number of casualties.

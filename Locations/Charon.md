@@ -1,3 +1,6 @@
+> See that light in the southwest area? That's [[Charon]], the N109's largest trading hub. Everything from trinkets to intel is bought and sold there.
+> -- Sylus, [[Event - Abyssal Splendor#Gem Investigation#Chapter 1]]
+
 A "free trading zone" with no laws in the [[N109 Zone]].
 
 # Namesake

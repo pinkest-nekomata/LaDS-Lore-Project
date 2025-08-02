@@ -16,9 +16,22 @@ Aether Cores, their power surpassing that of a regular [[Protocore]], attracts a
 * [[Complete Aether Core Structure]]
 * [[Spatium Core]]
 
+# Known Cores
+* [[Origo Core]]
+	* Strongly implied to be MC's original core, the gold one she's "born" with in the main timeline.
+* [[Spatium Core]]
+	* Recovered in fragments in [[03 Prologue To Tomorrow]], absorbed by MC in [[05-01.01 New Objective]].
+	* Potentially tied to [[Lemuria]], since the only fragment not already found by [[Wanderer]]s was contained within the [[Tome of the Sea God]].
+* [[Creatio Core]]
+	* Gifted from [[Zayne - Foreseer]] to [[Gardener MC]] in [[Tower of Secrets]] to save her life.
+
+# Planetary Cores
+[[05-02 All From Deepspace]] reveals that [[Aether Core]]s are the planetary cores of the various versions of [[Philos]], and that [[MC]]'s existence is closely tied to the [[Aether Core]]s and the planet itself. The [[converging timelines]] are allowing the various [[Aether Core]]s to manifest at the same point in [[spacetime]].
 # Other Info
 
 ## MC starts with half of an Aether Core
+[[05-02 All From Deepspace]] reveals that [[MC]] was "born" from [[Deepspace]] in 2034, and it implies that the [[Aether Core]] that appears at this time is the [[Origo Core]] (with "Origo" meaning "origin"). It's unclear how half of this power ended up being separated from her into a standalone [[Aether Core]], but that's the state as of the start of the main story.
+ 
 In [[02-01.08 Hesitation]], it's specifically confirmed by [[Philip]] that [[MC]] has half an Aether Core in/around her heart, and the other half is the one that will be available at the [[Protocore auction]] hosted by [[Sherman]]'s branch of [[Onychinus]]. [[MC]] first states this in [[02-01.04 Into Danger]], though it's not clear exactly how she learned this. She perhaps reached the conclusion based on the similarity of the [[Protocurve]] of the [[Aether Core]] to the data from her own [[Aether Core]] in [[Josephine's notes]].
 
 Given that [[Josephine's secret notes]] mention [[MC]]'s energy readings dropped to half their previous value after the time she spent alone during the [[Chronorift Catastrophe]], this is likely when the other half of the Aether Core's power was separated from MC. It then existed independently from that point until MC reabsorbs it in [[02-02 Breakthrough]]. When [[Philip]] says her power is suppressed in [[02-01.06 Resonance and Shackles]], this may be due to the Aether Core missing its other half.

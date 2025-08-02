@@ -1,0 +1,1 @@
+An unnamed abandoned factory in the [[N109 Zone]] innear [[Charon]] featured in [[05-01.08 Connoisseur's Desserts]].
