@@ -1,0 +1,1 @@
+A recurring theme in Rafayel and MC's relationship. [[Rafayel's scale]] often appears as a [[Flammula]], and is sometimes referenced just as a little blue fish.

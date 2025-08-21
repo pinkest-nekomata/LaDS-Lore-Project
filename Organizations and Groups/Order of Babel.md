@@ -1,0 +1,1 @@
+Note the reference to the Tower of Babel ([Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Babel)) which represents humanity's hubris and desire to reach the heavens, i.e., play god. This is fitting, because overturning death is a kind of "playing god".

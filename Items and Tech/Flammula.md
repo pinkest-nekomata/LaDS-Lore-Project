@@ -1,0 +1,1 @@
+A type of [[Lemurian]] fish, and the specific species name of the [[little blue fish]] that [[Rafayel's scale]] sometimes turns into.

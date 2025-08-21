@@ -1,0 +1,2 @@
+> "Wherever there is light, the shadow must follow. And together they'll coexist. Likewise, [[Sindersfell]] is the shadow of [[Philos]]. ...It is also a failed possibility that continues to expand."
+> -- True [[Tree of Life]], [[Where Stars Scatter - Ch 8]]

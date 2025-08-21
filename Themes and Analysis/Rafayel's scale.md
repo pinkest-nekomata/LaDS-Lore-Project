@@ -1,0 +1,1 @@
+A recurring theme in [[Rafayel]] and [[MC]]'s relationship, especially their myths. It often takes the form of a [[little blue fish]]. 
