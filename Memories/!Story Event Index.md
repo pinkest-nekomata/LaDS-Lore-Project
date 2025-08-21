@@ -41,5 +41,7 @@ These events had exclusive story content. Canonality varies.
 | [[Event - Wild Wander]]               | [[Banner - Feverish Attempts]]           |                                 | 2025-05-29 | 2025-06-07 | [Wiki](https://lads.wiki/wiki/Wild_Wander)                            |
 | [[Event - Summer Daydream]]           | [[Banner - No-Return Night]]             | [[Caleb]]'s Birthday            | 2025-06-08 | 2025-06-15 | [Wiki](https://lads.wiki/wiki/Summer_Daydream)                        |
 | [[Event - Merling Oath]]              | [[Banner - Submerged Eclipse]]           | [[Rafayel]] new myth            | 2025-06-17 | 2025-07-01 | [Wiki](https://lads.wiki/wiki/Merling_Oath)                           |
-| [[Event - Before Sunset, After Vows]] | [[Banner - Witnessed by Deepspace]]      |                                 | 2025-07-03 | 2025-07-22 | [Wiki](https://lads.wiki/wiki/Before_Sunset,_After_Vows)              |
+| [[Event - Before Sunset, After Vows]] | [[Banner - Witnessed by Deepspace]]      | Multi banner                    | 2025-07-03 | 2025-07-22 | [Wiki](https://lads.wiki/wiki/Before_Sunset,_After_Vows)              |
+| [[Event - Cycle Unbound]]             | [[Banner - Fallen Crown]]                | [[Xavier]]'s new myth           | 2024-07-25 | 2025-08-08 | [Wiki](https://lads.wiki/wiki/Cycle_Unbound)                          |
+| [[Event - Estival Splash]]            | [[Banner - You and Midsummer]]           | Multi banner                    | 2025-08-12 | 2025-08-31 | [Wiki](https://lads.wiki/wiki/Estival_Splash)                         |
 

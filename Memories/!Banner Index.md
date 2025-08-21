@@ -42,5 +42,7 @@ Last updated 2025-05-09.*
 | [[Banner - No-Return Night]]                                       | [[Caleb]]   | 2025-06-08 | 2025-06-15 |
 | [[Banner - Submerged Eclipse]]                                     | [[Rafayel]] | 2025-06-17 | 2025-07-01 |
 | [[Banner - Witnessed by Deepspace]]                                | Multi       | 2025-07-03 | 2025-07-22 |
+| [[Banner - Fallen Crown]]                                          | [[Xavier]]  | 2025-07-25 | 2025-08-08 |
+| [[Banner - You and Midsummer]]                                     | Multi       | 2025-08-12 | 2025-08-31 |
 
 

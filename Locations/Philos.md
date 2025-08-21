@@ -108,13 +108,13 @@ Note that [[05-02.03 Cosmic Convergence]] hints that the Main Story timeline ver
 	* [[Sylus]]: [[Beyond Cloudfall]]
 	* [[Caleb]]: [[Decoherence]]
 
-| Myth                                | Immortal humans? | MC linked to planet's core? | Aether Core      | Key Features     |
-| ----------------------------------- | ---------------- | --------------------------- | ---------------- | ---------------- |
-| [[Xavier]]: [[Shooting Stars]]      | ✅                | ✅                           |                  | Shattered Plates |
-| [[Zayne]]: [[Tower of Secrets]]     |                  |                             | [[Creatio Core]] | Blizzard         |
-| [[Rafayel]]: [[Sea of Golden Sand]] | #todo            | ✅                           |                  | Desert           |
-| [[Sylus]]: [[Beyond Cloudfall]]     |                  |                             |                  | Abyss/Doomsday   |
-| [[Caleb]]: [[Decoherence]]          | ✅                | #todo                       |                  | Tech/Forests     |
+| Myth                                                     | Immortal humans? | MC linked to planet's core? | Aether Core      | Key Features                                    |
+| -------------------------------------------------------- | ---------------- | --------------------------- | ---------------- | ----------------------------------------------- |
+| [[Xavier]]: [[Shooting Stars]] & [[Where Stars Scatter]] | ✅                | ✅                           | In MC's heart    | Shattered Plates > Post Apocalyptic Death Plane |
+| [[Zayne]]: [[Tower of Secrets]]                          |                  |                             | [[Creatio Core]] | Blizzard                                        |
+| [[Rafayel]]: [[Sea of Golden Sand]]                      | #todo            | ✅                           |                  | Desert                                          |
+| [[Sylus]]: [[Beyond Cloudfall]]                          |                  |                             |                  | Abyss/Doomsday                                  |
+| [[Caleb]]: [[Decoherence]]                               | ✅                | #todo                       |                  | Tech/Forests                                    |
 
 ## Xavier's continuity
 Since all of Xavier's myths so far are on the same continuity, and he explicitly traveled back in time to reach the main timeline, this is the version of Philos we know the most about.
@@ -148,3 +148,16 @@ One potential interpretation is that the energy readings are actually due to [[P
 	* The same king rules for much of this time. Xavier is prince, but he ends up leaving the role to [[Queen MC]]
 	* [[Xavier's Trailer]] implies that Philos at some point gave up on immortality.
 		* ((Additionally, it maybe was always something reserved only for a select few, but this was not known to [[Academy MC]]. The other plates could be left to their own devices.))
+* 200 Years without a ruler
+	* After Xavier's father dies, he doesn't ascend the throne
+	* Eventually, as described in [[Shooting Stars]], he convinces [[Queen MC]] to take over before heading out on the [[Traceback II]] mission.
+* [[Morn Era]]: [[Queen MC]] rules [[Philos]] ([[Where Stars Scatter]])
+	* Info about her is scrubbed from Philos's history
+* 300 years without a ruler ([[Where Stars Scatter - Ch 5]])
+	* 100 when they thought she abandoned them
+	* 100 where they forgot
+	* 100 where they destroyed her statues and portraits
+* [[Golden Epoch]]: First 200 years of [[Xavier]]'s reign
+	* Normalcy returned, but the planet couldn't be saved ([[Where Stars Scatter - Ch 5]])
+* The Apocalypse: [[Philos]] is finally destroyed
+	* [[Xavier]] branded the [[Mad King]] and [[Tyrant]] responsible for this disaster

@@ -6,3 +6,6 @@
 > Rafayel wants to stand up.
 > Yet at the same time, his body is ensnared by the dark undertow. In darkness, the shadows of those he personally laid to rest emerge and drag him down, lower and lower into the depths.
 > -- [[Rafayel]] POV, [[Siren's Song#05 One-Man Show]]
+
+> "Yet the temple was eventually abandoned. Their civilization sank into the deep sea, and [[Lemuria]] was reduced to nothing in that abyss. Clearly, the [[Sea God]] failed to protect his people."
+> -- [[Rafayel]], [[Destined Dawntide]]

@@ -1,0 +1,1 @@
+It's based on how they used to send off the knights into battle. It happens on the full moon.
